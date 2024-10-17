@@ -1,0 +1,3 @@
+﻿  Class-Assignment.cpp
+C:\Users\pietd\source\repos\Class-Assignment\Class-Assignment\Class-Assignment.cpp(11,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  Class-Assignment.vcxproj -> C:\Users\pietd\source\repos\Class-Assignment\x64\Debug\Class-Assignment.exe
