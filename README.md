@@ -3,6 +3,7 @@ In this Repository you find some of my C++ and Unreal Engine projects for the te
 
 ## projects:
 - ### C++:
+  - [Boost Projects](#boost-projects)
   - [Class-Assignment](class-assignment)
   - [OOP-Assignment](#oop-assignment)
   - [Difficult-Challenges](#difficult-challenges)
@@ -15,12 +16,19 @@ ___
 
 ## C++:
 
-### Class-Assignment
+### Boost Projects:
+In the boost projects I discovert some useful parts and libraries of the Boost C++ Libraries. like:
+- any
+- project_options
+- filesysten
+- signals2
+
+### Class-Assignment:
 In this project I hat to create a base class and 3 inheriting classes information in a table.
 <br>
 <img src="https://storage.googleapis.com/c-sharp-dot-net/superclass.png" alt="Table with information" style="width:20vw;">
 
-### OOP-Assignment
+### OOP-Assignment:
 In this assignment I hat to create a class from information from what schould be in the class.
 <br>
 <img src="https://storage.googleapis.com/c-sharp-dot-net/instance.png" alt="Information about the class and object" style="width:20vw;">
