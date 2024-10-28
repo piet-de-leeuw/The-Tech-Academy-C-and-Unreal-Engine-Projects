@@ -1,0 +1,3 @@
+﻿  Boost_any.cpp
+C:\Users\pietd\source\repos\Boost_any\Boost_any\Boost_any.cpp(24,32): warning C4101: 'e': unreferenced local variable
+  Boost_any.vcxproj -> C:\Users\pietd\source\repos\Boost_any\x64\Debug\Boost_any.exe
