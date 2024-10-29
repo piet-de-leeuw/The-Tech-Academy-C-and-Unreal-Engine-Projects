@@ -25,6 +25,12 @@ int main()
 		return result;
 	}
 
+	while (SQLITE_ROW == sqlite3_step(query))
+	{
+		printf("%s\n", sqlite3_column_text(query, 0));
+	}
+
+	sqlite3_finalize(query);
 	sqlite3_close(connection);
 
 }
