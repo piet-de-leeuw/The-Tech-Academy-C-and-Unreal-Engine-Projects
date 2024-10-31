@@ -127,12 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Handle.cpp" />
     <ClCompile Include="sqlite3.c" />
     <ClCompile Include="sqlite_1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Handle.h" />
+    <ClInclude Include="SQLite.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
