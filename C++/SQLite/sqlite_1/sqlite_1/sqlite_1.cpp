@@ -5,17 +5,25 @@
 
 int main()
 {
-	//sqlite3* connection = nullptr;
-	ConnectionHandle connection;
 
-	int result = sqlite3_open(":memory:", connection.Set());
-
-	if (SQLITE_OK != result)
+	try
 	{
-		printf("%s\n", sqlite3_errmsg(connection.Get()));
-		//sqlite3_close(connection);
-		return result;
+		Connection connection = Connection::Memory();
 	}
+	catch (Exception const &e)
+	{
+		printf("%s (%d)\n", e.Message.c_str(), e.Result); 
+	}
+
+
+
+
+	//if (SQLITE_OK != result)
+	//{
+	//	printf("%s\n", sqlite3_errmsg(connection.Get()));
+	//	//sqlite3_close(connection);
+	//	return result;
+	//}
 
 	//sqlite3_stmt* query = nullptr;
 

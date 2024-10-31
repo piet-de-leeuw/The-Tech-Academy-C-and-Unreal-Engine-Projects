@@ -77,13 +77,13 @@ public:
 		return m_value != Traits::Invalid();
 	}
 
-	// Get M_value
+	// Get m_value
 	Type Get() const noexcept
 	{
 		return m_value;
 	}
 
-	//and a way to set it indirectly. we will assert that it is invalid. and return it's address.
+	//a way to set the Handle indirectly. we will assert that it is invalid. and return it's address.
 	//Where would this be used ? Well, many C style API's will return a handle as an out parameter 
 	//via a pointer to a handle, often a pointer to a pointer.This set method will return the address of the handle,
 	//so that such functions can set it, and the handle is immediately owned by the smart handle class.
@@ -125,7 +125,7 @@ public:
 
 //Global swap
 template <typename Traits>
-void swap(Handle<Traits>& left, Handle<Traits> right) noexcept
+void swap(Handle<Traits>& left, Handle<Traits>& right) noexcept
 {
 	left.Swap(right);
 }
