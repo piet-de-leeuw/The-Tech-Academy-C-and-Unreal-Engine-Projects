@@ -9,6 +9,15 @@ int main()
 	try
 	{
 		Connection connection = Connection::Memory();
+
+		Statement statement;
+
+		statement.Prepare(connection, "select 'Hello World'");
+
+		while (statement.Step())
+		{
+
+		}
 	}
 	catch (Exception const &e)
 	{
