@@ -39,11 +39,11 @@ class Connection
 	  template <typename F, typename C>
 	  void InternalOpen(F open, C const* const filename)
 	  {
-		  connection temp;
+		  Connection temp;
 
 		  if (SQLITE_OK != open(filename, temp.m_handle.Set()))
 		  {
-			  throw temp.ThrowLastError();
+			  temp.ThrowLastError();
 		  }
 
 		  swap(m_handle, temp.m_handle);
@@ -61,7 +61,7 @@ public:
 
 	static Connection Memory()
 	{
-		return Connection(":memory");
+		return Connection(":memory:");
 	}
 
 	static Connection WideMemory()
@@ -95,7 +95,54 @@ public:
 	}
 };
 
-class Statement
+template <typename T>
+struct Reader
+{
+	int GetInt(int const column = 0) const noexcept
+	{
+		return sqlite3_column_int(static_cast<T const *>(this)->GetAbi(), column);
+	}
+
+	char const * GetString(int const column = 0) const noexcept
+	{
+		return reinterpret_cast<char const *>(sqlite3_column_text(
+			static_cast<T const*>(this)->GetAbi(), column));
+	}
+
+	wchar_t const * GetWideString(int const column = 0) const noexcept
+	{
+		return static_cast<wchar_t const *>(sqlite3_column_text16(
+			static_cast<T const *>(this)->GetAbi(), column));
+	}
+
+	int GetStringLength(int const column = 0) const noexcept
+	{
+		return sqlite3_column_bytes(static_cast<T const*>(this)->GetAbi(), column);
+	}
+
+	int GetWideStringLength(int const column = 0) const noexcept
+	{
+		return sqlite3_column_bytes16(static_cast<T const*>(this)->GetAbi(), column) / sizeof(wchar_t);
+	}
+	
+};
+
+class Row : public Reader<Row>
+{
+	sqlite3_stmt* m_statemant = nullptr;
+
+public:
+	Row(sqlite3_stmt * const statement) noexcept :
+		m_statemant(statement)
+	{}
+
+	sqlite3_stmt* GetAbi() const noexcept
+	{
+		return m_statemant;
+	}
+};
+
+class Statement : public Reader<Statement>
 {
 	struct StatementHandleTraits : HandleTraits<sqlite3_stmt*>
 	{
@@ -163,4 +210,53 @@ public:
 	{
 		VERIFY(!Step());
 	}
+
+	
 };
+
+class RowIterator
+{
+	Statement const* m_statement = nullptr;
+
+public:
+
+	RowIterator() noexcept = default;
+
+	RowIterator(Statement const& statement) noexcept
+	{
+		if (statement.Step())
+		{
+			m_statement = &statement;
+		}
+	}
+
+	RowIterator& operator++() noexcept
+	{
+		if (!m_statement->Step())
+		{
+			m_statement = nullptr;
+		}
+
+		return *this;
+	}
+
+	bool operator !=(RowIterator const& other) const noexcept
+	{
+		return m_statement != other.m_statement;
+	}
+
+	Row operator *() const noexcept
+	{
+		return Row(m_statement->GetAbi());
+	}
+};
+
+inline RowIterator begin(Statement const& statement) noexcept
+{
+	return RowIterator(statement);
+}
+
+inline RowIterator end(Statement const&) noexcept
+{
+	return RowIterator();
+}
