@@ -102,6 +102,12 @@ public:
 	{
 		InternalOpen(sqlite3_open16, filename);
 	}
+
+	//Returns RowID from last inserted row. 
+	long long RowId() const noexcept
+	{
+		return sqlite3_last_insert_rowid(GetAbi());
+	}
 };
 
 template <typename T>
@@ -167,7 +173,7 @@ class Statement : public Reader<Statement>
 	{
 		static void Close(Type value) noexcept
 		{
-			VERIFY_(SQLITE_OK, sqlite3_finalize(value));
+			sqlite3_finalize(value);
 		}
 	};
 
@@ -313,6 +319,18 @@ public:
 	void BindAll(Values && ... values) const
 	{
 		InternalBind(1, std::forward<Values>(values) ...);
+	}
+
+	//Resets statment after step and bind new values if provided as arguments.
+	template <typename ... Values>
+	void Reset(Values && ... values) const
+	{
+		if (SQLITE_OK != sqlite3_reset(GetAbi()))
+		{
+			ThrowLastError();
+		}
+
+		BindAll(values ...);
 	}
 };
 
