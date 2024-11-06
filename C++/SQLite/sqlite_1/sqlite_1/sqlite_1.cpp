@@ -16,23 +16,46 @@ static char const* TypeName(Type const type)
 	return "Invalid";
 }
 
+static void SaveToDisk(Connection const& source, char const* const filename)
+{
+	Connection destination(filename);
+	Backup backup(destination, source);
+	backup.Step();
+}
+
 int main()
 {
 
 	try
 	{
 		Connection connection = Connection::Memory();
-		
-		connection.Profile([](void*, char const* const statment, unsigned long long const time)
-			{
-				// convert from nano-seconds to milli-second
-				unsigned long long const ms = time / 1000000;
 
-				if (ms > 10)
-				{
-					printf("Porfiler (%lld) %s\n", ms, statment);
-				}
-			});
+		Execute(connection, "create table Things (Content)");
+		
+		Statement statement(connection, "insert into Things values (?)");
+
+		Execute(connection, "begin");
+
+		for (int i = 0; i != 1000000; i++)
+		{
+			statement.Reset(i);
+			statement.Execute();
+		}
+
+		Execute(connection, "commit");
+
+		SaveToDisk(connection, "C:\\temp\\backup.db");
+
+		//connection.Profile([](void*, char const* const statment, unsigned long long const time)
+		//	{
+		//		// convert from nano-seconds to milli-second
+		//		unsigned long long const ms = time / 1000000;
+
+		//		if (ms > 10)
+		//		{
+		//			printf("Porfiler (%lld) %s\n", ms, statment);
+		//		}
+		//	});
 
 		////Transaction Begin and end (commit)
 		//Connection connection("C:\\temp\\count.db");
@@ -73,20 +96,10 @@ int main()
 		//	printf("%s: %s\n", TypeName(row.GetType()), row.GetString());
 		//}
 
-		//Execute(connection, "create table Things ()");
-
-		//Execute(connection, "insert into Things values (?)", "Joe");
-		//Execute(connection, "insert into Things values (?)", 123);
-
 		//for (Row row : Statement(connection, "select Another from Things"))
 		//{
 		//	printf("%s: %s\n", TypeName(row.GetType()), row.GetString());
 		//}
-
-		//Execute(connection, "create table Things ()");
-
-		//Execute(connection, "insert into Things values (?)", "Joe");
-		//Execute(connection, "insert into Things values (?)", 123);
 
 		//for (Row row : Statement(connection, "select Content from Things"))
 		//{
