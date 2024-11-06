@@ -15,9 +15,10 @@ int main()
 		std::wstring hallo = L"Hallo";
 		std::string than = "than";
 		
+		statement.Prepare(connection, "select ?1 union all select ?2", hallo, "world");
 
-		statement.Prepare(connection, "select ?1 union all select ?2 union all select ?3 union all select ?4 union all select ?5 union all select ?6");
-		statement.BindAll(hallo, L"world", std::wstring(L"okay"), than, "How", std::string("Are You"));
+		//statement.Prepare(connection, "select ?1 union all select ?2 union all select ?3 union all select ?4 union all select ?5 union all select ?6");
+		//statement.BindAll(hallo, L"world", std::wstring(L"okay"), than, "How", std::string("Are You"));
 		
 
 		for (Row const& row : statement)
