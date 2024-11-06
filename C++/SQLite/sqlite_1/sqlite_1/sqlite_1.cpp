@@ -21,26 +21,39 @@ int main()
 
 	try
 	{
-		//Connection connection = Connection::Memory();
-		Connection connection("C:\\temp\\count.db");
+		Connection connection = Connection::Memory();
+		
+		connection.Profile([](void*, char const* const statment, unsigned long long const time)
+			{
+				// convert from nano-seconds to milli-second
+				unsigned long long const ms = time / 1000000;
+
+				if (ms > 10)
+				{
+					printf("Porfiler (%lld) %s\n", ms, statment);
+				}
+			});
+
+		////Transaction Begin and end (commit)
+		//Connection connection("C:\\temp\\count.db");
 		//Execute(connection, "Create table Things (Content)");
 
-		Statement insert(connection, "insert into Things (Content) values (?)");
-		// begin transaction
-		Execute(connection, "begin");
+		//Statement insert(connection, "insert into Things (Content) values (?)");
+		//// begin transaction
+		//Execute(connection, "begin");
 
-		for (int i = 0; i != 1000; i++)
-		{
-			insert.Reset(i);
-			insert.Execute();
-		}
+		//for (int i = 0; i != 1000; i++)
+		//{
+		//	insert.Reset(i);
+		//	insert.Execute();
+		//}
 
-		// End transaction
-		Execute(connection, "commit");
+		//// End transaction
+		//Execute(connection, "commit");
 
-		Statement count(connection, "select count(*) from Things");
-		count.Step();
-		printf("count: %d\n", count.GetInt());
+		//Statement count(connection, "select count(*) from Things");
+		//count.Step();
+		//printf("count: %d\n", count.GetInt());
 
 		//Execute(connection, "create table Hens (Name)");
 

@@ -108,6 +108,12 @@ public:
 	{
 		return sqlite3_last_insert_rowid(GetAbi());
 	}
+
+	template <typename F>
+	void Profile(F callback, void* const context = nullptr)
+	{
+		sqlite3_profile(GetAbi(), callback, context);
+	}
 };
 
 template <typename T>
