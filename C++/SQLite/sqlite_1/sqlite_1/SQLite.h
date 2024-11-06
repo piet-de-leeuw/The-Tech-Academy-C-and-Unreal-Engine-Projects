@@ -12,6 +12,15 @@
 #define VERIFY_(result, expression) (expression)
 #endif
 
+enum class Type
+{
+	Integer = SQLITE_INTEGER,
+	Float = SQLITE_FLOAT,
+	Blob = SQLITE_BLOB,
+	Null = SQLITE_NULL,
+	Text = SQLITE_TEXT,
+};
+
 struct Exception
 {
 	int Result = 0;
@@ -98,33 +107,43 @@ public:
 template <typename T>
 struct Reader
 {
+	//Returns Int value from a given row
 	int GetInt(int const column = 0) const noexcept
 	{
 		return sqlite3_column_int(static_cast<T const *>(this)->GetAbi(), column);
 	}
 
+	//Returns text in char const* from a given column
 	char const * GetString(int const column = 0) const noexcept
 	{
 		return reinterpret_cast<char const *>(sqlite3_column_text(
 			static_cast<T const*>(this)->GetAbi(), column));
 	}
 
+	//Returns text in wchar_t const* from a given column
 	wchar_t const * GetWideString(int const column = 0) const noexcept
 	{
 		return static_cast<wchar_t const *>(sqlite3_column_text16(
 			static_cast<T const *>(this)->GetAbi(), column));
 	}
 
+	//Returns stringlengt from a given column for normal characters
 	int GetStringLength(int const column = 0) const noexcept
 	{
 		return sqlite3_column_bytes(static_cast<T const*>(this)->GetAbi(), column);
 	}
 
+	//Returns stringlengt from a given column for wide characters
 	int GetWideStringLength(int const column = 0) const noexcept
 	{
 		return sqlite3_column_bytes16(static_cast<T const*>(this)->GetAbi(), column) / sizeof(wchar_t);
 	}
 	
+	//Returns column type of a given row
+	Type GetType(int const column = 0) const noexcept
+	{
+		return static_cast<Type>(sqlite3_column_type(static_cast<T const*> (this)->GetAbi(), column));
+	}
 };
 
 class Row : public Reader<Row>
@@ -184,7 +203,11 @@ public:
 
 	Statement() noexcept = default;
 
-
+	template <typename Ch, typename ... Values>
+	Statement(Connection const& connection, Ch const* const text, Values && ... values)
+	{
+		Prepare(connection, text, std::forward<Values>(values) ...);
+	}
 
 	explicit operator bool() const noexcept
 	{
@@ -338,4 +361,13 @@ inline RowIterator begin(Statement const& statement) noexcept
 inline RowIterator end(Statement const&) noexcept
 {
 	return RowIterator();
+}
+
+//Creates a one time executeble Statment that is destroyed after execution.
+template <typename Ch, typename ... Values>
+void Execute(Connection const& connection,
+	Ch const* const text,
+	Values && ... values)
+{
+	Statement(connection, text, std::forward<Values>(values) ...).Execute();
 }

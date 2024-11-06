@@ -1,6 +1,6 @@
 ﻿  sqlite_1.cpp
-C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\C++\SQLite\sqlite_1\sqlite_1\SQLite.h(263,40): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
-C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\C++\SQLite\sqlite_1\sqlite_1\SQLite.h(268,43): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
-C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\C++\SQLite\sqlite_1\sqlite_1\SQLite.h(273,80): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\C++\SQLite\sqlite_1\sqlite_1\SQLite.h(281,85): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\C++\SQLite\sqlite_1\sqlite_1\SQLite.h(288,40): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\C++\SQLite\sqlite_1\sqlite_1\SQLite.h(293,43): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\C++\SQLite\sqlite_1\sqlite_1\SQLite.h(298,80): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\C++\SQLite\sqlite_1\sqlite_1\SQLite.h(306,85): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
   sqlite_1.vcxproj -> C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\C++\SQLite\sqlite_1\x64\Debug\sqlite_1.exe
