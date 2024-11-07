@@ -44,6 +44,11 @@ int main()
 
 		Execute(connection, "commit");
 
+		Execute(connection, "delete from Things where Content > 10 ");
+		
+		//Releasing all space that is freed by the delete comand. (Rebuilds the DB)
+		Execute(connection, "vacuum");
+
 		SaveToDisk(connection, "C:\\temp\\backup.db");
 
 		//connection.Profile([](void*, char const* const statment, unsigned long long const time)
