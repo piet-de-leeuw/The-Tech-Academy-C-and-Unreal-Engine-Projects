@@ -3,6 +3,7 @@ In this Repository you find some of my C++ and Unreal Engine projects for the te
 
 ## projects:
 - ### C++:
+  - [SQLite-Library for C++](#sqlite-library-for-c)
   - [Boost Projects](#boost-projects)
   - [Class-Assignment](class-assignment)
   - [OOP-Assignment](#oop-assignment)
@@ -15,6 +16,11 @@ In this Repository you find some of my C++ and Unreal Engine projects for the te
 ___
 
 ## C++:
+
+### SQLite-Library for C++:
+In this part of the course we build a library for simplefying the use of SQLite whit modern C++. 
+It taught me a lot about How templates work and why/when to use them. It also helpt me to get a better understanding of pointers. 
+The actual library is in the SQLite.h file that depends on the Handle.h file. I used the sqlite_1.cpp file to test parts of my code.
 
 ### Boost Projects:
 In the boost projects I discovert some useful parts and libraries of the Boost C++ Libraries. like:
