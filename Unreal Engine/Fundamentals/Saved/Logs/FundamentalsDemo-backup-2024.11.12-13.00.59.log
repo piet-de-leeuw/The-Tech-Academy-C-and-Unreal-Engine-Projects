@@ -1,0 +1,1360 @@
+﻿Log file open, 11/08/24 09:27:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FundamentalsDemo
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-846949051) SRandInit(-846949050).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 44 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.684306
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -AUTH_LOGIN=unused -AUTH_PASSWORD=42f054ec15a14b7caa44293cab4f239d -AUTH_TYPE=exchangecode -epicapp=UE_4.18 -epicenv=Prod -EpicPortal -epicusername="Kolibrie156" -epicuserid=5dec2224ee8245e38e0caff7c4780252 -epiclocale=en -epicsandboxid=ue
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2024.11.08-08.27.44:620][  0]LogInit: Selected Device Profile: [Windows]
+[2024.11.08-08.27.44:620][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.11.08-08.27.44:651][  0]LogInit: Computer: DELEEUW
+[2024.11.08-08.27.44:651][  0]LogInit: User: pietd
+[2024.11.08-08.27.44:651][  0]LogInit: CPU Page size=4096, Cores=14
+[2024.11.08-08.27.44:651][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.11.08-08.27.44:652][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2024.11.08-08.27.44:652][  0]LogMemory: Platform Memory Stats for Windows
+[2024.11.08-08.27.44:652][  0]LogMemory: Process Physical Memory: 278.86 MB used, 278.86 MB peak
+[2024.11.08-08.27.44:652][  0]LogMemory: Process Virtual Memory: 272.19 MB used, 272.19 MB peak
+[2024.11.08-08.27.44:652][  0]LogMemory: Physical Memory: 9032.83 MB used,  7037.66 MB free, 16070.49 MB total
+[2024.11.08-08.27.44:652][  0]LogMemory: Virtual Memory: 4793.92 MB used,  7037.66 MB free, 134217728.00 MB total
+[2024.11.08-08.27.44:857][  0]LogInit: Using OS detected language (nl-NL).
+[2024.11.08-08.27.44:857][  0]LogInit: Using OS detected locale (nl-NL).
+[2024.11.08-08.27.44:859][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2024.11.08-08.27.44:860][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the locale.
+[2024.11.08-08.27.45:198][  0]LogInit: Setting process to per monitor DPI aware
+[2024.11.08-08.27.45:437][  0]LogD3D11RHI: D3D11 adapters:
+[2024.11.08-08.27.45:540][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 4060 Laptop GPU' (Feature Level 11_0)
+[2024.11.08-08.27.45:540][  0]LogD3D11RHI:       7971/0/8035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2024.11.08-08.27.45:564][  0]LogD3D11RHI:    1. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2024.11.08-08.27.45:564][  0]LogD3D11RHI:       128/0/8035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2024.11.08-08.27.45:567][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.11.08-08.27.45:567][  0]LogD3D11RHI:       0/0/8035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.11.08-08.27.45:567][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.11.08-08.27.45:574][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.11.08-08.27.45:574][  0]LogD3D11RHI:     GPU DeviceId: 0x28a0 (for the marketing name, search the web for "GPU Device Id")
+[2024.11.08-08.27.45:574][  0]LogWindows: EnumDisplayDevices:
+[2024.11.08-08.27.45:574][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1)
+[2024.11.08-08.27.45:574][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2024.11.08-08.27.45:574][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2024.11.08-08.27.45:574][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2024.11.08-08.27.45:575][  0]LogWindows:    4. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:1)
+[2024.11.08-08.27.45:575][  0]LogWindows:    5. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:0)
+[2024.11.08-08.27.45:575][  0]LogWindows:    6. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:0)
+[2024.11.08-08.27.45:575][  0]LogWindows:    7. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:0)
+[2024.11.08-08.27.45:575][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2024.11.08-08.27.45:575][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 4060 Laptop GPU
+[2024.11.08-08.27.45:575][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2024.11.08-08.27.45:575][  0]LogD3D11RHI:      Driver Date: Unknown
+[2024.11.08-08.27.45:575][  0]LogRHI: Texture pool is 5579 MB (70% of 7971 MB)
+[2024.11.08-08.27.45:620][  0]LogD3D11RHI: Async texture creation enabled
+[2024.11.08-08.27.45:636][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2024.11.08-08.27.45:638][  0]LogShaderCompilers: Guid format shader working directory is -57 characters bigger than the processId version (../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Intermediate/Shaders/WorkingDirectory/14060/).
+[2024.11.08-08.27.45:638][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/pietd/AppData/Local/Temp/UnrealShaderWorkingDir/BA0747E54D0BA5BCB4C45BA5F0B59CBB/'.
+[2024.11.08-08.27.45:638][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.11.08-08.27.46:477][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2024.11.08-08.27.46:527][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2024.11.08-08.27.46:586][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2024.11.08-08.27.46:636][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2024.11.08-08.27.46:690][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2024.11.08-08.27.46:743][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2024.11.08-08.27.46:798][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2024.11.08-08.27.46:849][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2024.11.08-08.27.46:894][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2024.11.08-08.27.46:944][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2024.11.08-08.27.46:993][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2024.11.08-08.27.47:041][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2024.11.08-08.27.47:090][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2024.11.08-08.27.47:139][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2024.11.08-08.27.47:237][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2024.11.08-08.27.47:237][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2024.11.08-08.27.47:286][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.11.08-08.27.47:326][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2024.11.08-08.27.47:415][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2024.11.08-08.27.47:454][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2024.11.08-08.27.47:504][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2024.11.08-08.27.47:552][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2024.11.08-08.27.47:601][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2024.11.08-08.27.47:649][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2024.11.08-08.27.47:649][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.11.08-08.27.48:162][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.11.08-08.27.48:233][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/pietd/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2024.11.08-08.27.48:233][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/pietd/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2024.11.08-08.27.48:233][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.11.08-08.27.48:233][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.11.08-08.27.48:233][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.11.08-08.27.48:233][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.11.08-08.27.48:247][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.11.08-08.27.48:259][  0]LogDerivedDataCache: Using Local data cache path C:/Users/pietd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.11.08-08.27.48:269][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2024.11.08-08.27.48:269][  0]LogSlate: Using Freetype 2.6.0
+[2024.11.08-08.27.48:270][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.11.08-08.27.48:270][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.11.08-08.27.48:591][  0]LogInit: Selected Device Profile: [Windows]
+[2024.11.08-08.27.48:919][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2024.11.08-08.27.48:961][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2024.11.08-08.27.48:961][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.11.08-08.27.48:961][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2024.11.08-08.27.48:961][  0]LogMeshReduction: No automatic mesh merging module available
+[2024.11.08-08.27.48:961][  0]LogMeshMerging: No automatic mesh merging module available
+[2024.11.08-08.27.48:986][  0]LogNetVersion: FundamentalsDemo , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3064687165)
+[2024.11.08-08.27.49:139][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2024.11.08-08.27.49:549][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.026430 seconds
+[2024.11.08-08.27.49:552][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2024.11.08-08.27.49:552][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2024.11.08-08.27.49:552][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.11.08-08.27.49:611][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2024.11.08-08.27.52:208][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.11.08-08.27.52:272][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.11.08-08.27.53:027][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2024.11.08-08.27.53:437][  0]SourceControl: Source control is disabled
+[2024.11.08-08.27.53:437][  0]SourceControl: Source control is disabled
+[2024.11.08-08.27.53:491][  0]SourceControl: Source control is disabled
+[2024.11.08-08.27.53:542][  0]SourceControl: Source control is disabled
+[2024.11.08-08.27.54:426][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.11.08-08.27.54:751][  0]LogOcInput: OculusInput pre-init called
+[2024.11.08-08.27.55:068][  0]LogEngine: Initializing Engine...
+[2024.11.08-08.27.55:070][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.11.08-08.27.55:234][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2024.11.08-08.27.55:234][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2024.11.08-08.27.55:363][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.11.08-08.27.55:381][  0]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-08.27.56:152][  0]LogInit: FAudioDevice initialized.
+[2024.11.08-08.27.56:238][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/pietd/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2024.11.08-08.27.56:250][  0]LogInit: Texture streaming: Enabled
+[2024.11.08-08.27.56:360][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.11.08-08.27.56:515][  0]LogInit: Transaction tracking system initialized
+[2024.11.08-08.27.56:858][  0]BlueprintLog: New page: Editor Load
+[2024.11.08-08.27.57:858][  0]LocalizationService: Localization service is disabled
+[2024.11.08-08.27.58:675][  0]LogConsoleResponse: Display: 
+[2024.11.08-08.27.58:838][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2024.11.08-08.27.58:838][  0]LogCook: Display: Mobile HDR setting 1
+[2024.11.08-08.27.58:838][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2024.11.08-08.28.00:034][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/' took 0.02s
+[2024.11.08-08.28.00:086][  0]SourceControl: Source control is disabled
+[2024.11.08-08.28.00:086][  0]Cmd: MAP LOAD FILE="../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/01_Setup/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.11.08-08.28.00:087][  0]LightingResults: New page: Lighting Build
+[2024.11.08-08.28.00:129][  0]MapCheck: New page: Map Check
+[2024.11.08-08.28.00:129][  0]LightingResults: New page: Lighting Build
+[2024.11.08-08.28.00:881][  0]LogAIModule: Creating AISystem for world Main
+[2024.11.08-08.28.00:897][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.08-08.28.00:936][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.08-08.28.00:983][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.161ms to complete.
+[2024.11.08-08.28.00:983][  0]LogFileHelpers: Loading map 'Main' took 0.896
+[2024.11.08-08.28.01:209][  0]LogCollectionManager: Loaded 0 collections in 0.001584 seconds
+[2024.11.08-08.28.01:320][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Collections/' took 0.01s
+[2024.11.08-08.28.01:321][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/Developers/pietd/Collections/' took 0.01s
+[2024.11.08-08.28.01:321][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/Collections/' took 0.01s
+[2024.11.08-08.28.01:321][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2024.11.08-08.28.01:336][  0]LogContentBrowser: Native class hierarchy populated in 0.0127 seconds. Added 2363 classes and 519 folders.
+[2024.11.08-08.28.01:411][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.11.08-08.28.01:841][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2024.11.08-08.28.01:907][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2024.11.08-08.28.03:179][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.11.08-08.28.03:215][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.11.08-08.28.03:217][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.11.08-08.28.03:238][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.FundamentalsDemo
+[2024.11.08-08.28.03:238][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2024.11.08-08.28.03:239][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2024.11.08-08.28.03:239][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2024.11.08-08.28.03:239][  0]LogSlate: Took 0.016239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.11.08-08.28.03:358][  0]LogTemp: BranchPath = DELEEUW/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DELEEUW/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2024.11.08-08.28.03:358][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\pietd\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2024.11.08-08.28.03:358][  0]LogRenderer: Reallocating scene render targets to support 832x432 Format 10 NumSamples 1 (Frame:1).
+[2024.11.08-08.28.03:627][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2024.11.08-08.28.03:627][  0]LogLoad: (Engine Initialization) Total time: 22.37 seconds
+[2024.11.08-08.28.03:627][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.11.08-08.28.03:627][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2024.11.08-08.28.03:673][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.11.08-08.28.03:728][  0]LogSlate: Took 0.009027 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2024.11.08-08.28.03:741][  1]LogAssetRegistry: Asset discovery search completed in 14.6254 seconds
+[2024.11.08-08.28.03:742][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2024.11.08-08.28.03:743][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000070 seconds (updated 0 objects)
+[2024.11.08-08.28.04:671][ 55]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2024.11.08-08.28.32:749][734]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2024.11.08-08.28.32:978][734]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2024.11.08-08.28.33:129][734]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.11.08-08.28.33:403][734]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2024.11.08-08.28.33:857][734]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2024.11.08-08.28.34:220][734]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2024.11.08-08.28.34:251][734]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2024.11.08-08.28.34:656][734]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2024.11.08-08.28.34:683][734]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2024.11.08-08.28.35:255][734]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2024.11.08-08.28.35:261][735]LogRenderer: Reallocating scene render targets to support 912x664 Format 10 NumSamples 1 (Frame:1).
+[2024.11.08-08.28.43:202][206]LogSlate: Took 0.009156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.11.08-08.32.44:000][256]LogSlate: Took 0.006765 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.11.08-08.37.19:847][988]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2024.11.08-08.46.10:507][698]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2024.11.08-09.08.17:459][113]LogRenderer: Reallocating scene render targets to support 912x680 Format 10 NumSamples 1 (Frame:1).
+[2024.11.08-09.14.37:319][337]BlueprintLog: New page: Compile BP_Player
+[2024.11.08-09.14.42:666][632]LogSavePackage: Save=55.40ms
+[2024.11.08-09.14.42:667][632]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/BP_Player9A769D194E354776AA1678AF5C515498.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/08_animation/ThirdPersonBP/Blueprints/BP_Player.uasset'
+[2024.11.08-09.14.42:669][632]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/08_animation/ThirdPersonBP/Blueprints/BP_Player.uasset
+[2024.11.08-09.18.25:944][611]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2024.11.08-09.18.27:334][688]Cmd: DELETE
+[2024.11.08-09.18.27:334][688]Cmd: ACTOR DELETE
+[2024.11.08-09.18.27:354][688]LogEditorActor: Deleted Actor: CameraActor
+[2024.11.08-09.18.27:447][688]LogEditorActor: Deleted 1 Actors (0.107 secs)
+[2024.11.08-09.18.44:246][544]LogTemp: Repeating last play command: Simulate
+[2024.11.08-09.18.44:318][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-09.18.44:321][544]PIE: New page: SIE session: Main (Nov 8, 2024, 11:18:44 AM)
+[2024.11.08-09.18.44:322][544]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-09.18.44:330][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008255s)
+[2024.11.08-09.18.44:331][544]LogAIModule: Creating AISystem for world Main
+[2024.11.08-09.18.44:331][544]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2024.11.08-09.18.44:331][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.009470s)
+[2024.11.08-09.18.44:398][544]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-09.18.44:413][544]LogInit: FAudioDevice initialized.
+[2024.11.08-09.18.44:459][544]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-09.18.44:461][544]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-10.18.44
+[2024.11.08-09.18.44:461][544]LogWorld: Bringing up level for play took: 0.001431
+[2024.11.08-09.18.44:462][544]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.11.08-09.18.44:535][544]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2024.11.08-09.18.44:536][544]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main -0.515
+[2024.11.08-09.19.46:991][901]LogSavePackage: Save=52.62ms
+[2024.11.08-09.19.46:991][901]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Main_Auto1DC2C80494174C1FBA70C69A7AC33955E.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Autosaves/Game/01_setup/Maps/Main_Auto1.umap'
+[2024.11.08-09.19.46:992][901]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Autosaves/Game/01_setup/Maps/Main_Auto1.umap
+[2024.11.08-09.19.46:999][901]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/01_setup/Maps/Main' took 0.124
+[2024.11.08-09.19.46:999][901]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.124
+[2024.11.08-09.19.49:177][ 32]LogTemp: Repeating last play command: Simulate
+[2024.11.08-09.19.49:193][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-09.19.49:193][ 32]PIE: New page: SIE session: Main (Nov 8, 2024, 11:19:49 AM)
+[2024.11.08-09.19.49:194][ 32]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-09.19.49:198][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003427s)
+[2024.11.08-09.19.49:198][ 32]LogAIModule: Creating AISystem for world Main
+[2024.11.08-09.19.49:198][ 32]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2024.11.08-09.19.49:199][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.004526s)
+[2024.11.08-09.19.49:260][ 32]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-09.19.49:276][ 32]LogInit: FAudioDevice initialized.
+[2024.11.08-09.19.49:309][ 32]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-09.19.49:311][ 32]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-10.19.49
+[2024.11.08-09.19.49:312][ 32]LogWorld: Bringing up level for play took: 0.001622
+[2024.11.08-09.19.49:312][ 32]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.11.08-09.19.49:313][ 32]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main 0.263
+[2024.11.08-09.20.12:045][394]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=50.01 Y=167.23 Z=0.00 Location: X=-439.43 Y=-396.91 Z=118.28 Normal: X=1.00 Y=-0.00 Z=-0.00 PenetrationDepth:0.171 Actor:Wall_400x302 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2024.11.08-09.20.13:045][454]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=401.63 Y=445.75 Z=0.00 Location: X=-439.43 Y=-396.91 Z=118.28 Normal: X=1.00 Y=-0.00 Z=-0.00 PenetrationDepth:0.903 Actor:Wall_400x302 Component:StaticMeshComponent0 BoneName:None (59 other events since notify)
+[2024.11.08-09.22.02:935][827]LogTemp: Repeating last play command: Simulate
+[2024.11.08-09.22.02:950][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-09.22.02:950][827]PIE: New page: SIE session: Main (Nov 8, 2024, 11:22:02 AM)
+[2024.11.08-09.22.02:950][827]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-09.22.02:953][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002982s)
+[2024.11.08-09.22.02:954][827]LogAIModule: Creating AISystem for world Main
+[2024.11.08-09.22.02:954][827]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2024.11.08-09.22.02:954][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.003874s)
+[2024.11.08-09.22.03:010][827]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-09.22.03:024][827]LogInit: FAudioDevice initialized.
+[2024.11.08-09.22.03:057][827]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-09.22.03:060][827]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-10.22.03
+[2024.11.08-09.22.03:061][827]LogWorld: Bringing up level for play took: 0.002108
+[2024.11.08-09.22.03:061][827]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.11.08-09.22.03:062][827]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main 0.015
+[2024.11.08-09.22.42:117][588]LogTemp: Repeating last play command: Simulate
+[2024.11.08-09.22.42:131][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-09.22.42:132][588]PIE: New page: SIE session: Main (Nov 8, 2024, 11:22:42 AM)
+[2024.11.08-09.22.42:132][588]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-09.22.42:135][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003379s)
+[2024.11.08-09.22.42:136][588]LogAIModule: Creating AISystem for world Main
+[2024.11.08-09.22.42:136][588]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2024.11.08-09.22.42:136][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.004350s)
+[2024.11.08-09.22.42:199][588]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-09.22.42:214][588]LogInit: FAudioDevice initialized.
+[2024.11.08-09.22.42:247][588]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-09.22.42:249][588]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-10.22.42
+[2024.11.08-09.22.42:249][588]LogWorld: Bringing up level for play took: 0.001408
+[2024.11.08-09.22.42:250][588]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main -0.796
+[2024.11.08-09.22.50:465][ 70]LogTemp: Repeating last play command: Simulate
+[2024.11.08-09.22.50:479][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-09.22.50:479][ 70]PIE: New page: SIE session: Main (Nov 8, 2024, 11:22:50 AM)
+[2024.11.08-09.22.50:479][ 70]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-09.22.50:482][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002687s)
+[2024.11.08-09.22.50:483][ 70]LogAIModule: Creating AISystem for world Main
+[2024.11.08-09.22.50:483][ 70]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2024.11.08-09.22.50:483][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.003548s)
+[2024.11.08-09.22.50:542][ 70]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-09.22.50:556][ 70]LogInit: FAudioDevice initialized.
+[2024.11.08-09.22.50:592][ 70]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-09.22.50:595][ 70]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-10.22.50
+[2024.11.08-09.22.50:596][ 70]LogWorld: Bringing up level for play took: 0.001989
+[2024.11.08-09.22.50:597][ 70]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main -0.449
+[2024.11.08-09.22.57:527][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Picture2)
+[2024.11.08-09.23.23:068][922]LogSlate: Took 0.016846 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.11.08-09.23.46:974][354]LogTemp: Repeating last play command: Simulate
+[2024.11.08-09.23.46:990][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-09.23.46:990][354]PIE: New page: SIE session: Main (Nov 8, 2024, 11:23:46 AM)
+[2024.11.08-09.23.46:991][354]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-09.23.46:994][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003457s)
+[2024.11.08-09.23.46:994][354]LogAIModule: Creating AISystem for world Main
+[2024.11.08-09.23.46:995][354]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2024.11.08-09.23.46:995][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.004794s)
+[2024.11.08-09.23.47:054][354]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-09.23.47:069][354]LogInit: FAudioDevice initialized.
+[2024.11.08-09.23.47:108][354]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-09.23.47:111][354]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-10.23.47
+[2024.11.08-09.23.47:112][354]LogWorld: Bringing up level for play took: 0.002818
+[2024.11.08-09.23.47:114][354]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main 0.069
+[2024.11.08-09.24.21:999][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2024.11.08-09.24.35:118][512]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2024.11.08-09.25.18:327][102]LogTemp: Repeating last play command: Simulate
+[2024.11.08-09.25.18:347][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-09.25.18:347][102]PIE: New page: SIE session: Main (Nov 8, 2024, 11:25:18 AM)
+[2024.11.08-09.25.18:348][102]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-09.25.18:352][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003687s)
+[2024.11.08-09.25.18:353][102]LogAIModule: Creating AISystem for world Main
+[2024.11.08-09.25.18:353][102]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2024.11.08-09.25.18:353][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.005000s)
+[2024.11.08-09.25.18:411][102]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-09.25.18:427][102]LogInit: FAudioDevice initialized.
+[2024.11.08-09.25.18:466][102]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-09.25.18:470][102]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-10.25.18
+[2024.11.08-09.25.18:471][102]LogWorld: Bringing up level for play took: 0.002788
+[2024.11.08-09.25.18:473][102]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main -0.571
+[2024.11.08-09.25.21:688][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door)
+[2024.11.08-09.25.41:871][494]LogTemp: Repeating last play command: Simulate
+[2024.11.08-09.25.41:887][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-09.25.41:887][494]PIE: New page: SIE session: Main (Nov 8, 2024, 11:25:41 AM)
+[2024.11.08-09.25.41:887][494]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-09.25.41:891][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003649s)
+[2024.11.08-09.25.41:892][494]LogAIModule: Creating AISystem for world Main
+[2024.11.08-09.25.41:892][494]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2024.11.08-09.25.41:892][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.004697s)
+[2024.11.08-09.25.41:955][494]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-09.25.41:969][494]LogInit: FAudioDevice initialized.
+[2024.11.08-09.25.42:006][494]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-09.25.42:009][494]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-10.25.42
+[2024.11.08-09.25.42:010][494]LogWorld: Bringing up level for play took: 0.002946
+[2024.11.08-09.25.42:011][494]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main 0.969
+[2024.11.08-09.25.43:417][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2024.11.08-09.25.44:266][621]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x302)
+[2024.11.08-09.25.45:136][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2024.11.08-09.25.50:854][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2024.11.08-09.25.51:566][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Picture)
+[2024.11.08-09.26.04:997][840]LogTemp: Repeating last play command: Simulate
+[2024.11.08-09.26.05:015][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-09.26.05:015][840]PIE: New page: SIE session: Main (Nov 8, 2024, 11:26:05 AM)
+[2024.11.08-09.26.05:015][840]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-09.26.05:019][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003882s)
+[2024.11.08-09.26.05:019][840]LogAIModule: Creating AISystem for world Main
+[2024.11.08-09.26.05:020][840]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2024.11.08-09.26.05:020][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.005250s)
+[2024.11.08-09.26.05:089][840]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-09.26.05:103][840]LogInit: FAudioDevice initialized.
+[2024.11.08-09.26.05:137][840]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-09.26.05:141][840]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-10.26.05
+[2024.11.08-09.26.05:142][840]LogWorld: Bringing up level for play took: 0.002338
+[2024.11.08-09.26.05:144][840]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main 0.101
+[2024.11.08-09.26.08:735][ 49]LogTemp: Repeating last play command: Simulate
+[2024.11.08-09.26.08:750][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-09.26.08:750][ 49]PIE: New page: SIE session: Main (Nov 8, 2024, 11:26:08 AM)
+[2024.11.08-09.26.08:751][ 49]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-09.26.08:754][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003194s)
+[2024.11.08-09.26.08:755][ 49]LogAIModule: Creating AISystem for world Main
+[2024.11.08-09.26.08:755][ 49]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2024.11.08-09.26.08:755][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.004452s)
+[2024.11.08-09.26.08:852][ 49]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-09.26.08:866][ 49]LogInit: FAudioDevice initialized.
+[2024.11.08-09.26.08:896][ 49]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-09.26.08:900][ 49]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-10.26.08
+[2024.11.08-09.26.08:900][ 49]LogWorld: Bringing up level for play took: 0.001974
+[2024.11.08-09.26.08:902][ 49]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main -0.141
+[2024.11.08-09.26.22:591][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-09.26.22:591][861]PIE: New page: SIE session: Main (Nov 8, 2024, 11:26:22 AM)
+[2024.11.08-09.26.22:591][861]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-09.26.22:595][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003542s)
+[2024.11.08-09.26.22:596][861]LogAIModule: Creating AISystem for world Main
+[2024.11.08-09.26.22:596][861]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2024.11.08-09.26.22:596][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.005010s)
+[2024.11.08-09.26.22:670][861]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-09.26.22:683][861]LogInit: FAudioDevice initialized.
+[2024.11.08-09.26.22:714][861]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-09.26.22:718][861]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-10.26.22
+[2024.11.08-09.26.22:719][861]LogWorld: Bringing up level for play took: 0.003244
+[2024.11.08-09.26.22:721][861]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main -0.321
+[2024.11.08-09.26.26:212][ 64]LogTemp: Repeating last play command: Simulate
+[2024.11.08-09.26.26:228][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-09.26.26:228][ 64]PIE: New page: SIE session: Main (Nov 8, 2024, 11:26:26 AM)
+[2024.11.08-09.26.26:229][ 64]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-09.26.26:232][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003057s)
+[2024.11.08-09.26.26:232][ 64]LogAIModule: Creating AISystem for world Main
+[2024.11.08-09.26.26:232][ 64]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2024.11.08-09.26.26:233][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.004110s)
+[2024.11.08-09.26.26:290][ 64]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-09.26.26:304][ 64]LogInit: FAudioDevice initialized.
+[2024.11.08-09.26.26:338][ 64]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-09.26.26:342][ 64]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-10.26.26
+[2024.11.08-09.26.26:342][ 64]LogWorld: Bringing up level for play took: 0.002331
+[2024.11.08-09.26.26:344][ 64]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main -0.698
+[2024.11.08-09.26.29:211][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-09.26.29:211][228]PIE: New page: SIE session: Main (Nov 8, 2024, 11:26:29 AM)
+[2024.11.08-09.26.29:211][228]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-09.26.29:214][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002892s)
+[2024.11.08-09.26.29:214][228]LogAIModule: Creating AISystem for world Main
+[2024.11.08-09.26.29:215][228]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2024.11.08-09.26.29:215][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.003889s)
+[2024.11.08-09.26.29:276][228]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-09.26.29:290][228]LogInit: FAudioDevice initialized.
+[2024.11.08-09.26.29:324][228]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-09.26.29:328][228]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-10.26.29
+[2024.11.08-09.26.29:329][228]LogWorld: Bringing up level for play took: 0.002717
+[2024.11.08-09.26.29:330][228]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main 0.289
+[2024.11.08-09.26.30:796][309]LogTemp: Repeating last play command: Simulate
+[2024.11.08-09.26.30:813][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-09.26.30:813][309]PIE: New page: SIE session: Main (Nov 8, 2024, 11:26:30 AM)
+[2024.11.08-09.26.30:813][309]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-09.26.30:817][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003424s)
+[2024.11.08-09.26.30:818][309]LogAIModule: Creating AISystem for world Main
+[2024.11.08-09.26.30:818][309]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2024.11.08-09.26.30:818][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.004781s)
+[2024.11.08-09.26.30:878][309]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-09.26.30:892][309]LogInit: FAudioDevice initialized.
+[2024.11.08-09.26.30:925][309]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-09.26.30:929][309]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-10.26.30
+[2024.11.08-09.26.30:930][309]LogWorld: Bringing up level for play took: 0.002523
+[2024.11.08-09.26.30:932][309]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main -0.11
+[2024.11.08-09.26.46:630][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-09.26.46:630][242]PIE: New page: PIE session: Main (Nov 8, 2024, 11:26:46 AM)
+[2024.11.08-09.26.46:630][242]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-09.26.46:633][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002696s)
+[2024.11.08-09.26.46:634][242]LogAIModule: Creating AISystem for world Main
+[2024.11.08-09.26.46:634][242]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2024.11.08-09.26.46:634][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.003698s)
+[2024.11.08-09.26.46:704][242]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-09.26.46:718][242]LogInit: FAudioDevice initialized.
+[2024.11.08-09.26.46:752][242]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-09.26.46:755][242]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-10.26.46
+[2024.11.08-09.26.46:756][242]LogWorld: Bringing up level for play took: 0.002221
+[2024.11.08-09.26.46:759][242]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main -0.282
+[2024.11.08-09.26.53:789][658]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.08-09.26.53:807][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-09.26.53:808][658]PIE: New page: PIE session: Main (Nov 8, 2024, 11:26:53 AM)
+[2024.11.08-09.26.53:808][658]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-09.26.53:811][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003390s)
+[2024.11.08-09.26.53:812][658]LogAIModule: Creating AISystem for world Main
+[2024.11.08-09.26.53:812][658]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2024.11.08-09.26.53:812][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.004636s)
+[2024.11.08-09.26.53:882][658]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-09.26.53:896][658]LogInit: FAudioDevice initialized.
+[2024.11.08-09.26.53:930][658]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-09.26.53:933][658]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-10.26.53
+[2024.11.08-09.26.53:934][658]LogWorld: Bringing up level for play took: 0.002391
+[2024.11.08-09.26.53:937][658]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main 0.895
+[2024.11.08-09.26.57:581][869]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2024.11.08-09.27.02:853][183]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.08-09.27.02:870][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-09.27.02:870][183]PIE: New page: PIE session: Main (Nov 8, 2024, 11:27:02 AM)
+[2024.11.08-09.27.02:870][183]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-09.27.02:873][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002864s)
+[2024.11.08-09.27.02:874][183]LogAIModule: Creating AISystem for world Main
+[2024.11.08-09.27.02:874][183]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2024.11.08-09.27.02:874][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.003913s)
+[2024.11.08-09.27.02:933][183]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-09.27.02:948][183]LogInit: FAudioDevice initialized.
+[2024.11.08-09.27.02:983][183]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-09.27.02:987][183]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-10.27.02
+[2024.11.08-09.27.02:987][183]LogWorld: Bringing up level for play took: 0.002564
+[2024.11.08-09.27.02:991][183]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main -0.05
+[2024.11.08-09.27.18:409][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2024.11.08-09.27.29:287][388]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2024.11.08-09.27.36:083][794]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.11.08-09.27.43:403][871]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.08-09.27.43:431][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-09.27.43:432][871]PIE: New page: PIE session: Main (Nov 8, 2024, 11:27:43 AM)
+[2024.11.08-09.27.43:432][871]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-09.27.43:435][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003142s)
+[2024.11.08-09.27.43:436][871]LogAIModule: Creating AISystem for world Main
+[2024.11.08-09.27.43:436][871]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2024.11.08-09.27.43:436][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.004289s)
+[2024.11.08-09.27.43:502][871]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-09.27.43:516][871]LogInit: FAudioDevice initialized.
+[2024.11.08-09.27.43:548][871]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-09.27.43:550][871]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-10.27.43
+[2024.11.08-09.27.43:551][871]LogWorld: Bringing up level for play took: 0.001512
+[2024.11.08-09.27.43:553][871]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main 0.512
+[2024.11.08-09.28.23:335][252]Cmd: SELECT NONE
+[2024.11.08-09.28.33:413][566]Cmd: DELETE
+[2024.11.08-09.28.33:413][566]Cmd: ACTOR DELETE
+[2024.11.08-09.28.33:416][566]LogEditorActor: Deleted Actor: Actor
+[2024.11.08-09.28.33:469][566]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2024.11.08-09.28.36:998][778]LogActorFactory: Actor Factory created Sphere
+[2024.11.08-09.28.38:572][871]LogActorFactory: Actor Factory created Sphere
+[2024.11.08-09.29.44:758][631]LogSavePackage: Save=1.55ms
+[2024.11.08-09.29.44:758][631]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/PH_BounceA6E166294A599B72731FF8AD638A8D4D.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/02_materials/PH_Bounce.uasset'
+[2024.11.08-09.29.44:761][631]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/02_materials/PH_Bounce.uasset
+[2024.11.08-09.30.11:344][224]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.08-09.30.11:362][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-09.30.11:362][224]PIE: New page: PIE session: Main (Nov 8, 2024, 11:30:11 AM)
+[2024.11.08-09.30.11:362][224]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-09.30.11:367][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003781s)
+[2024.11.08-09.30.11:368][224]LogAIModule: Creating AISystem for world Main
+[2024.11.08-09.30.11:368][224]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2024.11.08-09.30.11:368][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.005196s)
+[2024.11.08-09.30.11:434][224]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-09.30.11:448][224]LogInit: FAudioDevice initialized.
+[2024.11.08-09.30.11:484][224]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-09.30.11:487][224]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-10.30.11
+[2024.11.08-09.30.11:488][224]LogWorld: Bringing up level for play took: 0.002244
+[2024.11.08-09.30.11:492][224]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main 0.455
+[2024.11.08-09.30.16:285][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2024.11.08-09.30.30:408][348]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.08-09.30.30:426][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-09.30.30:426][348]PIE: New page: PIE session: Main (Nov 8, 2024, 11:30:30 AM)
+[2024.11.08-09.30.30:426][348]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-09.30.30:429][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002802s)
+[2024.11.08-09.30.30:430][348]LogAIModule: Creating AISystem for world Main
+[2024.11.08-09.30.30:430][348]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2024.11.08-09.30.30:430][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.003851s)
+[2024.11.08-09.30.30:487][348]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-09.30.30:501][348]LogInit: FAudioDevice initialized.
+[2024.11.08-09.30.30:536][348]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-09.30.30:541][348]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-10.30.30
+[2024.11.08-09.30.30:541][348]LogWorld: Bringing up level for play took: 0.002610
+[2024.11.08-09.30.30:546][348]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main -0.492
+[2024.11.08-09.32.39:497][573]LogSavePackage: Save=57.09ms
+[2024.11.08-09.32.39:498][573]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Main_Auto28756D98747EAE1DD8AA9CD9CDC127A13.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Autosaves/Game/01_setup/Maps/Main_Auto2.umap'
+[2024.11.08-09.32.39:499][573]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Autosaves/Game/01_setup/Maps/Main_Auto2.umap
+[2024.11.08-09.32.39:500][573]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/01_setup/Maps/Main' took 0.132
+[2024.11.08-09.32.39:502][573]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.132
+[2024.11.08-10.06.42:771][ 88]LogSavePackage: Save=56.59ms
+[2024.11.08-10.06.42:771][ 88]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Main655F662A4E6A66B4E6191EB706E3BE0B.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/01_setup/Maps/Main.umap'
+[2024.11.08-10.06.42:773][ 88]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/01_setup/Maps/Main.umap
+[2024.11.08-10.06.42:891][ 88]LogSavePackage: Save=81.85ms
+[2024.11.08-10.06.42:891][ 88]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Main_BuiltData75419EA2412474162A61EB826D709B5C.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/01_setup/Maps/Main_BuiltData.uasset'
+[2024.11.08-10.06.42:893][ 88]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/01_setup/Maps/Main_BuiltData.uasset
+[2024.11.08-10.10.28:391][210]LogSavePackage: Save=24.09ms
+[2024.11.08-10.10.28:391][210]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/BP_Enemy28A410BA4D436A5737C0989FBEA473E4.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/10_Nav/Blueprints/BP_Enemy.uasset'
+[2024.11.08-10.10.28:393][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/10_Nav/Blueprints/BP_Enemy.uasset
+[2024.11.08-10.10.29:723][290]BlueprintLog: New page: Compile BP_Enemy
+[2024.11.08-10.12.04:210][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.11.08-10.13.36:500][505]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2024.11.08-10.15.29:215][165]Cmd: TRANSACTION UNDO
+[2024.11.08-10.15.29:216][165]LogEditorTransaction: Undo Move Actors
+[2024.11.08-10.15.54:498][779]MapCheck: New page: Map Check
+[2024.11.08-10.15.54:512][779]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2024.11.08-10.15.54:513][779]MapCheck: New page: Main - Nov 8, 2024, 12:15:54 PM
+[2024.11.08-10.15.54:516][779]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2024.11.08-10.15.56:577][779]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 2,064.278ms to complete.
+[2024.11.08-10.15.56:600][779]LogEditorBuildUtils: Build time 0:02
+[2024.11.08-10.16.11:940][250]MapCheck: New page: Map Check
+[2024.11.08-10.16.11:956][250]LightingResults: New page: Lighting Build - Nov 8, 2024, 12:16:11 PM
+[2024.11.08-10.16.12:014][250]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.11.08-10.16.12:082][250]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.11.08-10.16.12:095][250]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.11.08-10.16.14:169][250]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.11.08-10.16.14:170][250]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14060
+[2024.11.08-10.16.21:995][250]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2024.11.08-10.16.21:995][250]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.11.08-10.16.21:996][250]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.11.08-10.16.21:996][250]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.11.08-10.16.21:996][250]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.11.08-10.16.21:996][250]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.11.08-10.16.22:291][250]LogEditorBuildUtils: Build time 0:10
+[2024.11.08-10.16.26:592][466]Job is a success!
+[2024.11.08-10.16.26:670][468]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2024.11.08-10.16.26:670][468]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2024.11.08-10.16.26:671][468]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2024.11.08-10.16.26:671][468]LogVolumetricLightmapImport:      Bricks at Level
+[2024.11.08-10.16.26:671][468]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2024.11.08-10.16.26:671][468]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2024.11.08-10.16.26:671][468]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2024.11.08-10.16.26:896][468]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2024.11.08-10.16.26:896][468]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2024.11.08-10.16.26:896][468]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2024.11.08-10.16.26:896][468]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2024.11.08-10.16.26:896][468]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2024.11.08-10.16.26:897][468]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2024.11.08-10.16.26:897][468]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2024.11.08-10.16.26:897][468]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X256)
+[2024.11.08-10.16.26:927][468]Lightmass on DELEEUW: 3.48 sec total, 347 ms importing, 12 ms setup, 1.86 sec photons, 1.10 sec processing, 0 ms extra exporting [33/33 mappings]. Threads: 18.6 sec total, 3.73 sec processing.
+[2024.11.08-10.16.26:999][468]LogStaticLightingSystem: Illumination: 15.0 sec (140 ms encoding lightmaps, 48 ms encoding shadowmaps)
+[2024.11.08-10.16.26:999][468]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2024.11.08-10.16.26:999][468]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2024.11.08-10.16.28:004][468]DumpUnbuiltLightIteractions
+[2024.11.08-10.16.28:004][468]Lights with unbuilt interactions: 0
+[2024.11.08-10.16.28:004][468]
+[2024.11.08-10.16.28:004][468]Primitives with unbuilt interactions: 0
+[2024.11.08-10.16.28:046][469]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.11.08-10.16.28:046][469]MapCheck: New page: Main - Nov 8, 2024, 12:16:28 PM
+[2024.11.08-10.16.28:117][469]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.417ms to complete.
+[2024.11.08-10.16.51:123][538]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Fire01_Cue)
+[2024.11.08-10.16.52:618][610]LogSavePackage: Save=63.15ms
+[2024.11.08-10.16.52:620][610]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Main_Auto348CA98B34093E6C648D66E941E23414C.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Autosaves/Game/01_setup/Maps/Main_Auto3.umap'
+[2024.11.08-10.16.52:620][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Autosaves/Game/01_setup/Maps/Main_Auto3.umap
+[2024.11.08-10.16.52:622][610]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/01_setup/Maps/Main' took 0.125
+[2024.11.08-10.16.52:622][610]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.125
+[2024.11.08-10.16.52:627][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/01_setup/Maps/Main_BuiltData] ([1] browsable assets)...
+[2024.11.08-10.16.52:627][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/01_setup/Maps/Main_BuiltData]
+[2024.11.08-10.16.52:648][610]LogSavePackage: Save=11.70ms
+[2024.11.08-10.16.52:649][610]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Main_BuiltData_Auto3DC51D3F242AA339E9D36C88C7D310070.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Autosaves/Game/01_setup/Maps/Main_BuiltData_Auto3.uasset'
+[2024.11.08-10.16.52:650][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Autosaves/Game/01_setup/Maps/Main_BuiltData_Auto3.uasset
+[2024.11.08-10.16.52:650][610]LogFileHelpers: Auto-saving content packages took 0.025
+[2024.11.08-10.16.53:380][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.11.08-10.17.12:788][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2024.11.08-10.17.20:950][300]MapCheck: New page: Map Check
+[2024.11.08-10.17.20:970][300]Cmd: MAP REBUILD ALLVISIBLE
+[2024.11.08-10.17.20:970][300]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.11.08-10.17.21:097][300]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2024.11.08-10.17.21:102][300]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_T_Oak_, compiling. 
+[2024.11.08-10.17.21:105][300]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2024.11.08-10.17.21:110][300]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FlatWall, compiling. 
+[2024.11.08-10.17.21:113][300]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Light_Inst, compiling. 
+[2024.11.08-10.17.21:116][300]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fire_SubUV, compiling. 
+[2024.11.08-10.17.21:121][300]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_smoke_subUV, compiling. 
+[2024.11.08-10.17.21:127][300]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2024.11.08-10.17.21:131][300]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Heat_Distortion, compiling. 
+[2024.11.08-10.17.21:134][300]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Dust_Particle, compiling. 
+[2024.11.08-10.17.21:140][300]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2024.11.08-10.17.21:146][300]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2024.11.08-10.17.21:971][300]TextureStreamingBuild: Display: Compiling optional shaders took 0.882 seconds.
+[2024.11.08-10.17.21:996][300]LogLevel: Display: Export Material TexCoord Scales took 0.025 seconds.
+[2024.11.08-10.17.22:007][300]TextureStreamingBuild: Display: Build Texture Streaming took 0.010 seconds.
+[2024.11.08-10.17.22:077][300]LightingResults: New page: Lighting Build - Nov 8, 2024, 12:17:22 PM
+[2024.11.08-10.17.22:084][300]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.11.08-10.17.22:090][300]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.11.08-10.17.22:091][300]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.11.08-10.17.22:092][300]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.11.08-10.17.22:092][300]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14060
+[2024.11.08-10.17.27:525][300]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2024.11.08-10.17.27:532][300]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2024.11.08-10.17.28:547][300]LogEditorBuildUtils: Build time 0:07
+[2024.11.08-10.17.36:251][748]MapCheck: New page: Map Check
+[2024.11.08-10.17.36:266][748]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2024.11.08-10.17.36:267][748]MapCheck: New page: Main - Nov 8, 2024, 12:17:36 PM
+[2024.11.08-10.17.36:326][748]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.28ms to complete.
+[2024.11.08-10.17.36:348][748]LogEditorBuildUtils: Build time 0:00
+[2024.11.08-10.18.17:823][910]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.08-10.18.17:844][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-10.18.17:844][910]PIE: New page: PIE session: Main (Nov 8, 2024, 12:18:17 PM)
+[2024.11.08-10.18.17:844][910]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-10.18.17:847][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003750s)
+[2024.11.08-10.18.17:848][910]LogAIModule: Creating AISystem for world Main
+[2024.11.08-10.18.17:848][910]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2024.11.08-10.18.17:849][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.004992s)
+[2024.11.08-10.18.17:912][910]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-10.18.17:929][910]LogInit: FAudioDevice initialized.
+[2024.11.08-10.18.17:962][910]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-10.18.17:965][910]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-11.18.17
+[2024.11.08-10.18.17:967][910]LogWorld: Bringing up level for play took: 0.004454
+[2024.11.08-10.18.17:970][910]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main 0.962
+[2024.11.08-10.18.57:598][146]BlueprintLog: New page: Compile BP_Enemy
+[2024.11.08-10.19.01:822][377]LogSavePackage: Save=22.00ms
+[2024.11.08-10.19.01:822][377]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/BP_EnemyA34E6C474F625AD08B0EB59FB5AC9097.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/10_Nav/Blueprints/BP_Enemy.uasset'
+[2024.11.08-10.19.01:825][377]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/10_Nav/Blueprints/BP_Enemy.uasset
+[2024.11.08-10.19.04:612][544]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.08-10.19.04:632][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-10.19.04:634][544]PIE: New page: PIE session: Main (Nov 8, 2024, 12:19:04 PM)
+[2024.11.08-10.19.04:634][544]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-10.19.04:638][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004401s)
+[2024.11.08-10.19.04:639][544]LogAIModule: Creating AISystem for world Main
+[2024.11.08-10.19.04:639][544]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2024.11.08-10.19.04:640][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.005748s)
+[2024.11.08-10.19.04:740][544]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-10.19.04:754][544]LogInit: FAudioDevice initialized.
+[2024.11.08-10.19.04:783][544]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-10.19.04:789][544]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-11.19.04
+[2024.11.08-10.19.04:790][544]LogWorld: Bringing up level for play took: 0.003889
+[2024.11.08-10.19.04:794][544]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main -0.213
+[2024.11.08-10.19.44:617][922]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.08-10.19.44:637][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-10.19.44:637][922]PIE: New page: PIE session: Main (Nov 8, 2024, 12:19:44 PM)
+[2024.11.08-10.19.44:637][922]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-10.19.44:643][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004889s)
+[2024.11.08-10.19.44:644][922]LogAIModule: Creating AISystem for world Main
+[2024.11.08-10.19.44:644][922]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2024.11.08-10.19.44:644][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.006558s)
+[2024.11.08-10.19.44:709][922]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-10.19.44:724][922]LogInit: FAudioDevice initialized.
+[2024.11.08-10.19.44:759][922]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-10.19.44:764][922]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-11.19.44
+[2024.11.08-10.19.44:765][922]LogWorld: Bringing up level for play took: 0.004716
+[2024.11.08-10.19.44:769][922]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main -0.238
+[2024.11.08-10.20.08:845][358]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.08-10.20.08:863][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-10.20.08:864][358]PIE: New page: PIE session: Main (Nov 8, 2024, 12:20:08 PM)
+[2024.11.08-10.20.08:864][358]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-10.20.08:869][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004409s)
+[2024.11.08-10.20.08:869][358]LogAIModule: Creating AISystem for world Main
+[2024.11.08-10.20.08:869][358]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2024.11.08-10.20.08:870][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.005670s)
+[2024.11.08-10.20.08:936][358]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.08-10.20.08:949][358]LogInit: FAudioDevice initialized.
+[2024.11.08-10.20.08:982][358]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-10.20.08:987][358]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-11.20.08
+[2024.11.08-10.20.08:988][358]LogWorld: Bringing up level for play took: 0.003466
+[2024.11.08-10.20.08:991][358]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main -0.016
+[2024.11.08-10.21.04:971][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.11.08-10.28.23:676][746]LogEditorTransaction: Undo Add Widget
+[2024.11.08-10.29.31:383][794]LogSavePackage: Save=64.65ms
+[2024.11.08-10.29.31:383][794]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Main_Auto42FC8849240B8DEE52733E7911301A066.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Autosaves/Game/01_setup/Maps/Main_Auto4.umap'
+[2024.11.08-10.29.31:385][794]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Autosaves/Game/01_setup/Maps/Main_Auto4.umap
+[2024.11.08-10.29.31:386][794]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/01_setup/Maps/Main' took 0.143
+[2024.11.08-10.29.31:386][794]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.143
+[2024.11.08-10.29.31:392][794]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/11_UI/Blueprints/BPW_Menu] ([1] browsable assets)...
+[2024.11.08-10.29.31:392][794]OBJ SavePackage: Finished generating thumbnails for package [/Game/11_UI/Blueprints/BPW_Menu]
+[2024.11.08-10.29.31:418][794]LogSavePackage: Save=18.37ms
+[2024.11.08-10.29.31:419][794]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/BPW_Menu_Auto49C80B2154D12F20A241212A90EDE8A2D.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Autosaves/Game/11_UI/Blueprints/BPW_Menu_Auto4.uasset'
+[2024.11.08-10.29.31:420][794]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Autosaves/Game/11_UI/Blueprints/BPW_Menu_Auto4.uasset
+[2024.11.08-10.29.31:420][794]LogFileHelpers: Auto-saving content packages took 0.031
+[2024.11.08-10.38.54:428][691]BlueprintLog: New page: Compile BPW_Menu
+[2024.11.08-10.38.55:598][754]LogSavePackage: Save=18.61ms
+[2024.11.08-10.38.55:598][754]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/BPW_MenuD49828D541D9B35124053E886775982A.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/11_UI/Blueprints/BPW_Menu.uasset'
+[2024.11.08-10.38.55:601][754]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/11_UI/Blueprints/BPW_Menu.uasset
+[2024.11.08-10.39.13:765][835]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.08-10.39.15:136][907]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.08-10.39.19:934][176]LogSavePackage: Save=65.92ms
+[2024.11.08-10.39.19:934][176]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Main7ED8B50C4FCD410D2EF3E3BC2B222D72.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/01_setup/Maps/Main.umap'
+[2024.11.08-10.39.19:936][176]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/01_setup/Maps/Main.umap
+[2024.11.08-10.39.20:023][176]LogSavePackage: Save=50.93ms
+[2024.11.08-10.39.20:024][176]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Main_BuiltData3C6970E946CE7402E07944822D066536.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/01_setup/Maps/Main_BuiltData.uasset'
+[2024.11.08-10.39.20:025][176]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/01_setup/Maps/Main_BuiltData.uasset
+[2024.11.08-10.39.27:403][343]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{d3be56e6-cf6b-4a4b-99f0-2dc97a30d083} was removed. Shutting down audio device.
+[2024.11.08-10.39.27:404][343]LogInit: XAudio2 using 'Luidsprekers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.11.08-10.40.38:994][778]LogInit: XAudio2 using 'Oortelefoon van hoofdtelefoon (HUAWEI USB-C HEADSET)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2024.11.08-10.41.12:274][867]LogAIModule: Creating AISystem for world Menu
+[2024.11.08-10.41.12:341][867]Cmd: MAP LOAD FILE="../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/11_UI/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.11.08-10.41.12:341][867]LightingResults: New page: Lighting Build
+[2024.11.08-10.41.12:342][867]LoadErrors: New page: Loading map: Menu.umap
+[2024.11.08-10.41.12:344][867]MapCheck: New page: Map Check
+[2024.11.08-10.41.12:344][867]LightingResults: New page: Lighting Build
+[2024.11.08-10.41.12:415][867]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.08-10.41.12:497][867]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.08-10.41.14:677][867]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,180.041ms to complete.
+[2024.11.08-10.41.14:684][867]LogFileHelpers: Loading map 'Menu' took 2.344
+[2024.11.08-10.41.14:692][867]LogSlate: Took 0.005459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.11.08-10.43.51:253][475]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.08-10.43.51:271][475]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/11_UI/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/11_UI/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/11_UI/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/11_UI/Maps/Menu.Menu:PersistentLevel.Menu'
+[2024.11.08-10.43.51:272][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-10.43.51:272][475]PIE: New page: PIE session: Menu (Nov 8, 2024, 12:43:51 PM)
+[2024.11.08-10.43.51:272][475]LogPlayLevel: Creating play world package: /Game/11_UI/Maps/UEDPIE_0_Menu
+[2024.11.08-10.43.51:273][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001250s)
+[2024.11.08-10.43.51:274][475]LogAIModule: Creating AISystem for world Menu
+[2024.11.08-10.43.51:274][475]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2024.11.08-10.43.51:274][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/11_UI/Maps/Menu.Menu to /Game/11_UI/Maps/UEDPIE_0_Menu.Menu (0.002478s)
+[2024.11.08-10.43.51:338][475]LogInit: XAudio2 using 'Oortelefoon van hoofdtelefoon (HUAWEI USB-C HEADSET)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2024.11.08-10.43.51:354][475]LogInit: FAudioDevice initialized.
+[2024.11.08-10.43.51:387][475]LogLoad: Game class is 'GameMode'
+[2024.11.08-10.43.51:389][475]LogWorld: Bringing World /Game/11_UI/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2024.11.08-11.43.51
+[2024.11.08-10.43.51:389][475]LogWorld: Bringing up level for play took: 0.001019
+[2024.11.08-10.43.51:390][475]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.11.08-10.43.51:391][475]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.11.08-10.43.51:391][475]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.11.08-10.43.51:394][475]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.11.08-10.43.51:394][475]PIE: Play in editor start time for /Game/11_UI/Maps/UEDPIE_0_Menu 0.395
+[2024.11.08-10.43.51:394][475]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/11_UI/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/11_UI/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/11_UI/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/11_UI/Maps/Menu.Menu:PersistentLevel.Menu'
+[2024.11.08-10.43.55:534][723]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2024.11.08-10.43.55:534][723]LogGameState: Match State Changed from InProgress to LeavingMap
+[2024.11.08-10.43.55:534][723]LogNet: Browse: /Game/01_setup/Maps/Main
+[2024.11.08-10.43.55:536][723]LogLoad: LoadMap: /Game/01_setup/Maps/Main
+[2024.11.08-10.43.56:511][723]LogAIModule: Creating AISystem for world Main
+[2024.11.08-10.43.56:511][723]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-10.43.56:514][723]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-11.43.56
+[2024.11.08-10.43.56:515][723]LogWorld: Bringing up level for play took: 0.003239
+[2024.11.08-10.43.56:517][723]LogLoad: Took 0.981315 seconds to LoadMap(/Game/01_setup/Maps/Main)
+[2024.11.08-10.44.13:034][714]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/11_UI/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/11_UI/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/11_UI/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/11_UI/Maps/Menu.Menu:PersistentLevel.Menu'
+[2024.11.08-10.44.13:072][714]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/11_UI/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/11_UI/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/11_UI/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/11_UI/Maps/Menu.Menu:PersistentLevel.Menu'
+[2024.11.08-11.20.00:613][497]LogTexture: Display: Building textures: Spritesheet (BGRA8, 64X64)
+[2024.11.08-11.20.07:363][897]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2024.11.08-11.24.45:450][252]LogRenderer: Reallocating scene render targets to support 1524x868 Format 10 NumSamples 1 (Frame:1).
+[2024.11.08-11.26.47:162][935]LogAIModule: Creating AISystem for world Main
+[2024.11.08-11.26.50:863][935]LogSavePackage: Save=3.54ms
+[2024.11.08-11.26.50:863][935]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/FB_sqareB8DFB6C84A1402DBD6E150A1ABAF61B4.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/13_2D/Textures/FB_sqare.uasset'
+[2024.11.08-11.26.50:866][935]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/13_2D/Textures/FB_sqare.uasset
+[2024.11.08-11.26.50:880][935]LogSavePackage: Save=3.22ms
+[2024.11.08-11.26.50:880][935]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Spritesheet_S_038D51A9C4D17720D85A2509FC9A31AE0.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/13_2D/Textures/Spritesheet_S_0.uasset'
+[2024.11.08-11.26.50:882][935]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/13_2D/Textures/Spritesheet_S_0.uasset
+[2024.11.08-11.26.50:897][935]LogSavePackage: Save=3.25ms
+[2024.11.08-11.26.50:897][935]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Spritesheet_S_13499041D4D372E44F8A60E8DF396770D.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/13_2D/Textures/Spritesheet_S_1.uasset'
+[2024.11.08-11.26.50:899][935]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/13_2D/Textures/Spritesheet_S_1.uasset
+[2024.11.08-11.26.50:914][935]LogSavePackage: Save=3.31ms
+[2024.11.08-11.26.50:915][935]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Spritesheet_S_2783D3FB64FBC374D2EDF259A40043C19.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/13_2D/Textures/Spritesheet_S_2.uasset'
+[2024.11.08-11.26.50:917][935]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/13_2D/Textures/Spritesheet_S_2.uasset
+[2024.11.08-11.26.50:928][935]LogSavePackage: Save=3.50ms
+[2024.11.08-11.26.50:928][935]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Spritesheet_S_3C82F458E429B31C1BBC78389FEC15CB4.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/13_2D/Textures/Spritesheet_S_3.uasset'
+[2024.11.08-11.26.50:931][935]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/13_2D/Textures/Spritesheet_S_3.uasset
+[2024.11.08-11.26.50:933][935]Cmd: MAP LOAD FILE="../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/01_setup/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.11.08-11.26.50:933][935]LightingResults: New page: Lighting Build
+[2024.11.08-11.26.50:934][935]LoadErrors: New page: Loading map: Main.umap
+[2024.11.08-11.26.50:935][935]MapCheck: New page: Map Check
+[2024.11.08-11.26.50:935][935]LightingResults: New page: Lighting Build
+[2024.11.08-11.26.51:000][935]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.08-11.26.51:079][935]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.08-11.26.51:145][935]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.158ms to complete.
+[2024.11.08-11.26.51:145][935]LogFileHelpers: Loading map 'Main' took 0.213
+[2024.11.08-11.27.43:648][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-11.27.43:648][400]PIE: New page: SIE session: Main (Nov 8, 2024, 1:27:43 PM)
+[2024.11.08-11.27.43:648][400]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-11.27.43:653][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003507s)
+[2024.11.08-11.27.43:654][400]LogAIModule: Creating AISystem for world Main
+[2024.11.08-11.27.43:654][400]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2024.11.08-11.27.43:655][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.005109s)
+[2024.11.08-11.27.43:729][400]LogInit: XAudio2 using 'Oortelefoon van hoofdtelefoon (HUAWEI USB-C HEADSET)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2024.11.08-11.27.43:744][400]LogInit: FAudioDevice initialized.
+[2024.11.08-11.27.43:781][400]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-11.27.43:785][400]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-12.27.43
+[2024.11.08-11.27.43:787][400]LogWorld: Bringing up level for play took: 0.004138
+[2024.11.08-11.27.43:788][400]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main 0.796
+[2024.11.08-11.27.52:135][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-11.27.52:136][888]PIE: New page: PIE session: Main (Nov 8, 2024, 1:27:52 PM)
+[2024.11.08-11.27.52:136][888]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-11.27.52:140][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004301s)
+[2024.11.08-11.27.52:141][888]LogAIModule: Creating AISystem for world Main
+[2024.11.08-11.27.52:141][888]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2024.11.08-11.27.52:141][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.005778s)
+[2024.11.08-11.27.52:210][888]LogInit: XAudio2 using 'Oortelefoon van hoofdtelefoon (HUAWEI USB-C HEADSET)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2024.11.08-11.27.52:225][888]LogInit: FAudioDevice initialized.
+[2024.11.08-11.27.52:258][888]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-11.27.52:261][888]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-12.27.52
+[2024.11.08-11.27.52:262][888]LogWorld: Bringing up level for play took: 0.003056
+[2024.11.08-11.27.52:265][888]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main -0.727
+[2024.11.08-11.28.58:513][853]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2024.11.08-11.30.32:110][229]LogSavePackage: Save=5.35ms
+[2024.11.08-11.30.32:110][229]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Spritesheet_TileSetD9931B8945C2C2699520109CEC16F58A.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/13_2D/Textures/Spritesheet_TileSet.uasset'
+[2024.11.08-11.30.32:112][229]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/13_2D/Textures/Spritesheet_TileSet.uasset
+[2024.11.08-11.30.53:175][677]LogRenderer: Reallocating scene render targets to support 1524x876 Format 10 NumSamples 1 (Frame:1).
+[2024.11.08-11.34.51:112][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2024.11.08-11.34.52:568][666]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Spritesheet_TileMap)
+[2024.11.08-11.35.07:582][564]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Spritesheet_TileMap)
+[2024.11.08-11.35.08:744][633]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Spritesheet_TileMap)
+[2024.11.08-11.35.19:027][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2024.11.08-11.35.57:256][536]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.08-11.35.57:268][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-11.35.57:269][536]PIE: New page: PIE session: Main (Nov 8, 2024, 1:35:57 PM)
+[2024.11.08-11.35.57:269][536]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-11.35.57:273][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003744s)
+[2024.11.08-11.35.57:274][536]LogAIModule: Creating AISystem for world Main
+[2024.11.08-11.35.57:274][536]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2024.11.08-11.35.57:274][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.005154s)
+[2024.11.08-11.35.57:340][536]LogInit: XAudio2 using 'Oortelefoon van hoofdtelefoon (HUAWEI USB-C HEADSET)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2024.11.08-11.35.57:354][536]LogInit: FAudioDevice initialized.
+[2024.11.08-11.35.57:391][536]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-11.35.57:397][536]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-12.35.57
+[2024.11.08-11.35.57:398][536]LogWorld: Bringing up level for play took: 0.004676
+[2024.11.08-11.35.57:402][536]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main 0.41
+[2024.11.08-11.36.17:465][729]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.08-11.36.17:481][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-11.36.17:482][729]PIE: New page: PIE session: Main (Nov 8, 2024, 1:36:17 PM)
+[2024.11.08-11.36.17:482][729]LogPlayLevel: Creating play world package: /Game/01_setup/Maps/UEDPIE_0_Main
+[2024.11.08-11.36.17:485][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003376s)
+[2024.11.08-11.36.17:486][729]LogAIModule: Creating AISystem for world Main
+[2024.11.08-11.36.17:486][729]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2024.11.08-11.36.17:486][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/01_setup/Maps/Main.Main to /Game/01_setup/Maps/UEDPIE_0_Main.Main (0.004596s)
+[2024.11.08-11.36.17:550][729]LogInit: XAudio2 using 'Oortelefoon van hoofdtelefoon (HUAWEI USB-C HEADSET)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2024.11.08-11.36.17:565][729]LogInit: FAudioDevice initialized.
+[2024.11.08-11.36.17:597][729]LogLoad: Game class is 'BP_GameMode_C'
+[2024.11.08-11.36.17:602][729]LogWorld: Bringing World /Game/01_setup/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.08-12.36.17
+[2024.11.08-11.36.17:603][729]LogWorld: Bringing up level for play took: 0.004305
+[2024.11.08-11.36.17:606][729]PIE: Play in editor start time for /Game/01_setup/Maps/UEDPIE_0_Main 0.614
+[2024.11.08-11.37.28:895][739]LogSavePackage: Save=67.49ms
+[2024.11.08-11.37.28:895][739]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Main_Auto57AC9355D42FB5D4354B2B58F23F16677.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Autosaves/Game/01_setup/Maps/Main_Auto5.umap'
+[2024.11.08-11.37.28:898][739]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Autosaves/Game/01_setup/Maps/Main_Auto5.umap
+[2024.11.08-11.37.28:899][739]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/01_setup/Maps/Main' took 0.144
+[2024.11.08-11.37.28:899][739]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.144
+[2024.11.08-11.37.28:903][739]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/13_2D/Textures/Spritesheet_TileMap] ([1] browsable assets)...
+[2024.11.08-11.37.28:903][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/13_2D/Textures/Spritesheet_TileMap]
+[2024.11.08-11.37.28:936][739]LogSavePackage: Save=30.92ms
+[2024.11.08-11.37.28:936][739]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Spritesheet_TileMap_Auto5D98693CC4CC56674971F8BBFDFED8CF3.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Autosaves/Game/13_2D/Textures/Spritesheet_TileMap_Auto5.uasset'
+[2024.11.08-11.37.28:938][739]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Autosaves/Game/13_2D/Textures/Spritesheet_TileMap_Auto5.uasset
+[2024.11.08-11.37.28:938][739]LogFileHelpers: Auto-saving content packages took 0.037
+[2024.11.08-11.43.23:429][999]LogSavePackage: Save=68.08ms
+[2024.11.08-11.43.23:429][999]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Main863D2F114FAEAA271E2F68A0937FA19A.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/01_setup/Maps/Main.umap'
+[2024.11.08-11.43.23:432][999]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/01_setup/Maps/Main.umap
+[2024.11.08-11.43.23:517][999]LogSavePackage: Save=53.19ms
+[2024.11.08-11.43.23:517][999]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Main_BuiltData989CC9E74FDBC2E306802FB690D535B0.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/01_setup/Maps/Main_BuiltData.uasset'
+[2024.11.08-11.43.23:519][999]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/01_setup/Maps/Main_BuiltData.uasset
+[2024.11.08-11.43.26:425][170]LogSavePackage: Save=33.38ms
+[2024.11.08-11.43.26:425][170]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Spritesheet_TileMapF76B252340FD66E5196DD3AD6104F3A6.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/13_2D/Textures/Spritesheet_TileMap.uasset'
+[2024.11.08-11.43.26:427][170]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/13_2D/Textures/Spritesheet_TileMap.uasset
+[2024.11.08-11.43.31:777][454]Cmd: QUIT_EDITOR
+[2024.11.08-11.43.32:380][454]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2024.11.08-11.43.32:392][454]LogExit: Preparing to exit.
+[2024.11.08-11.43.32:714][454]LogDirectoryWatcher: A directory notification for 'C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/' was aborted.
+[2024.11.08-11.43.32:779][454]LogExit: Editor shut down
+[2024.11.08-11.43.32:792][454]LogExit: Transaction tracking system shut down
+[2024.11.08-11.43.32:970][454]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2024.11.08-11.43.32:970][454]LogDirectoryWatcher: A directory notification for '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/' was aborted.
+[2024.11.08-11.43.32:970][454]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2024.11.08-11.43.32:970][454]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2024.11.08-11.43.32:970][454]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2024.11.08-11.43.32:970][454]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2024.11.08-11.43.32:970][454]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2024.11.08-11.43.33:159][454]LogExit: Object subsystem successfully closed.
+[2024.11.08-11.43.33:212][454]LogD3D11RHI: Shutdown
+[2024.11.08-11.43.33:212][454]LogD3D11RHI: CleanupD3DDevice
+[2024.11.08-11.43.33:230][454]LogD3D11RHI: ~FD3D11DynamicRHI
+[2024.11.08-11.43.33:250][454]LogModuleManager: Shutting down and abandoning module TextureEditor (568)
+[2024.11.08-11.43.33:250][454]LogModuleManager: Shutting down and abandoning module SequencerWidgets (566)
+[2024.11.08-11.43.33:250][454]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (564)
+[2024.11.08-11.43.33:250][454]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (562)
+[2024.11.08-11.43.33:252][454]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (560)
+[2024.11.08-11.43.33:252][454]LogModuleManager: Shutting down and abandoning module AnimationEditor (558)
+[2024.11.08-11.43.33:252][454]LogModuleManager: Shutting down and abandoning module BlueprintGraph (556)
+[2024.11.08-11.43.33:252][454]LogModuleManager: Shutting down and abandoning module SkeletonEditor (554)
+[2024.11.08-11.43.33:252][454]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (552)
+[2024.11.08-11.43.33:252][454]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2024.11.08-11.43.33:252][454]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (548)
+[2024.11.08-11.43.33:252][454]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2024.11.08-11.43.33:252][454]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2024.11.08-11.43.33:252][454]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2024.11.08-11.43.33:258][454]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2024.11.08-11.43.33:258][454]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2024.11.08-11.43.33:258][454]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2024.11.08-11.43.33:258][454]LogDirectoryWatcher: A directory notification for 'C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/Collections/' was aborted.
+[2024.11.08-11.43.33:258][454]LogDirectoryWatcher: A directory notification for 'C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Content/Developers/pietd/Collections/' was aborted.
+[2024.11.08-11.43.33:258][454]LogDirectoryWatcher: A directory notification for 'C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-fundamentals/02/demos/Saved/Collections/' was aborted.
+[2024.11.08-11.43.33:258][454]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2024.11.08-11.43.33:258][454]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2024.11.08-11.43.33:258][454]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2024.11.08-11.43.33:258][454]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2024.11.08-11.43.33:258][454]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2024.11.08-11.43.33:258][454]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2024.11.08-11.43.33:258][454]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2024.11.08-11.43.33:258][454]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2024.11.08-11.43.33:258][454]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2024.11.08-11.43.33:258][454]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2024.11.08-11.43.33:258][454]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2024.11.08-11.43.33:258][454]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2024.11.08-11.43.33:258][454]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2024.11.08-11.43.33:258][454]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2024.11.08-11.43.33:258][454]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2024.11.08-11.43.33:259][454]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2024.11.08-11.43.33:260][454]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2024.11.08-11.43.33:260][454]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2024.11.08-11.43.33:589][454]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2024.11.08-11.43.33:589][454]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2024.11.08-11.43.33:589][454]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2024.11.08-11.43.33:589][454]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2024.11.08-11.43.33:589][454]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2024.11.08-11.43.33:589][454]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2024.11.08-11.43.33:589][454]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2024.11.08-11.43.33:589][454]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2024.11.08-11.43.33:589][454]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2024.11.08-11.43.33:591][454]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2024.11.08-11.43.33:591][454]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2024.11.08-11.43.33:591][454]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2024.11.08-11.43.33:591][454]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2024.11.08-11.43.33:591][454]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2024.11.08-11.43.33:591][454]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2024.11.08-11.43.33:591][454]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2024.11.08-11.43.33:591][454]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2024.11.08-11.43.33:592][454]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2024.11.08-11.43.33:592][454]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2024.11.08-11.43.33:592][454]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2024.11.08-11.43.33:592][454]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2024.11.08-11.43.33:592][454]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2024.11.08-11.43.33:592][454]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2024.11.08-11.43.33:592][454]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2024.11.08-11.43.33:646][454]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2024.11.08-11.43.33:646][454]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2024.11.08-11.43.33:646][454]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2024.11.08-11.43.33:646][454]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2024.11.08-11.43.33:646][454]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2024.11.08-11.43.33:646][454]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2024.11.08-11.43.33:647][454]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2024.11.08-11.43.33:647][454]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2024.11.08-11.43.33:647][454]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2024.11.08-11.43.33:647][454]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2024.11.08-11.43.33:657][454]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2024.11.08-11.43.33:659][454]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2024.11.08-11.43.33:659][454]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2024.11.08-11.43.33:659][454]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2024.11.08-11.43.33:659][454]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2024.11.08-11.43.33:659][454]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2024.11.08-11.43.33:659][454]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2024.11.08-11.43.33:659][454]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2024.11.08-11.43.33:659][454]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2024.11.08-11.43.33:659][454]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2024.11.08-11.43.33:660][454]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2024.11.08-11.43.33:660][454]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2024.11.08-11.43.33:660][454]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2024.11.08-11.43.33:660][454]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2024.11.08-11.43.33:660][454]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2024.11.08-11.43.33:660][454]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2024.11.08-11.43.33:660][454]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2024.11.08-11.43.33:660][454]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2024.11.08-11.43.33:660][454]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2024.11.08-11.43.33:660][454]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2024.11.08-11.43.33:668][454]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2024.11.08-11.43.33:668][454]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2024.11.08-11.43.33:668][454]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2024.11.08-11.43.33:668][454]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2024.11.08-11.43.33:668][454]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2024.11.08-11.43.33:668][454]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2024.11.08-11.43.33:668][454]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2024.11.08-11.43.33:668][454]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2024.11.08-11.43.33:669][454]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2024.11.08-11.43.33:669][454]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2024.11.08-11.43.33:669][454]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2024.11.08-11.43.33:669][454]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2024.11.08-11.43.33:669][454]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2024.11.08-11.43.33:669][454]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2024.11.08-11.43.33:669][454]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2024.11.08-11.43.33:669][454]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2024.11.08-11.43.33:669][454]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2024.11.08-11.43.33:669][454]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2024.11.08-11.43.33:669][454]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2024.11.08-11.43.33:669][454]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2024.11.08-11.43.33:669][454]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2024.11.08-11.43.33:669][454]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2024.11.08-11.43.33:669][454]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2024.11.08-11.43.33:669][454]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2024.11.08-11.43.33:669][454]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2024.11.08-11.43.33:669][454]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2024.11.08-11.43.33:669][454]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2024.11.08-11.43.33:670][454]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2024.11.08-11.43.33:670][454]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2024.11.08-11.43.33:670][454]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2024.11.08-11.43.33:670][454]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2024.11.08-11.43.33:670][454]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2024.11.08-11.43.33:670][454]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2024.11.08-11.43.33:670][454]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2024.11.08-11.43.33:670][454]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2024.11.08-11.43.33:672][454]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2024.11.08-11.43.33:672][454]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2024.11.08-11.43.33:673][454]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2024.11.08-11.43.33:673][454]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2024.11.08-11.43.33:673][454]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2024.11.08-11.43.33:673][454]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2024.11.08-11.43.33:674][454]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2024.11.08-11.43.33:674][454]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2024.11.08-11.43.33:674][454]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2024.11.08-11.43.33:674][454]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2024.11.08-11.43.33:674][454]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2024.11.08-11.43.33:775][454]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2024.11.08-11.43.33:876][454]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2024.11.08-11.43.33:876][454]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2024.11.08-11.43.33:876][454]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2024.11.08-11.43.33:876][454]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2024.11.08-11.43.33:876][454]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2024.11.08-11.43.33:876][454]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2024.11.08-11.43.33:878][454]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2024.11.08-11.43.33:879][454]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2024.11.08-11.43.33:879][454]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2024.11.08-11.43.33:879][454]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2024.11.08-11.43.33:881][454]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2024.11.08-11.43.33:881][454]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2024.11.08-11.43.33:881][454]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2024.11.08-11.43.33:881][454]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2024.11.08-11.43.33:881][454]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2024.11.08-11.43.33:881][454]LogModuleManager: Shutting down and abandoning module Media (221)
+[2024.11.08-11.43.33:888][454]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2024.11.08-11.43.33:888][454]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2024.11.08-11.43.33:888][454]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2024.11.08-11.43.33:888][454]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2024.11.08-11.43.33:888][454]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2024.11.08-11.43.33:888][454]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2024.11.08-11.43.33:888][454]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2024.11.08-11.43.33:888][454]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2024.11.08-11.43.33:888][454]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2024.11.08-11.43.33:888][454]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2024.11.08-11.43.33:888][454]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2024.11.08-11.43.33:888][454]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2024.11.08-11.43.33:889][454]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2024.11.08-11.43.33:889][454]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2024.11.08-11.43.33:889][454]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2024.11.08-11.43.33:889][454]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2024.11.08-11.43.33:894][454]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2024.11.08-11.43.33:894][454]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2024.11.08-11.43.33:894][454]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2024.11.08-11.43.33:894][454]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2024.11.08-11.43.33:894][454]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2024.11.08-11.43.33:894][454]LogModuleManager: Shutting down and abandoning module Core (172)
+[2024.11.08-11.43.33:894][454]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2024.11.08-11.43.33:894][454]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2024.11.08-11.43.33:899][454]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2024.11.08-11.43.33:899][454]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2024.11.08-11.43.33:899][454]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2024.11.08-11.43.33:899][454]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2024.11.08-11.43.33:899][454]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2024.11.08-11.43.33:899][454]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2024.11.08-11.43.33:899][454]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2024.11.08-11.43.33:899][454]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2024.11.08-11.43.33:899][454]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2024.11.08-11.43.33:940][454]LogDerivedDataCache: Shutdown
+[2024.11.08-11.43.33:940][454]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2024.11.08-11.43.33:940][454]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2024.11.08-11.43.33:940][454]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2024.11.08-11.43.33:940][454]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2024.11.08-11.43.33:940][454]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2024.11.08-11.43.33:940][454]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2024.11.08-11.43.33:941][454]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2024.11.08-11.43.33:942][454]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2024.11.08-11.43.33:943][454]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2024.11.08-11.43.33:943][454]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2024.11.08-11.43.33:943][454]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD98B2DA6-4A34-AD2E-3DA4-48B69B6E47D8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=6f5b881f45331d87816daf924afe002e%7C5dec2224ee8245e38e0caff7c4780252%7Cd3e8f649-9722-4c6d-b0f1-6f0a0081c516&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2024.11.08-11.43.33:953][454]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2024.11.08-11.43.33:956][454]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2024.11.08-11.43.33:956][454]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2024.11.08-11.43.33:956][454]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2024.11.08-11.43.33:956][454]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2024.11.08-11.43.33:956][454]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2024.11.08-11.43.33:956][454]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.11.08-11.43.33:956][454]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.11.08-11.43.33:965][454]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2024.11.08-11.43.33:965][454]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2024.11.08-11.43.33:965][454]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2024.11.08-11.43.33:965][454]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2024.11.08-11.43.33:965][454]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2024.11.08-11.43.33:965][454]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2024.11.08-11.43.33:965][454]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2024.11.08-11.43.33:966][454]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2024.11.08-11.43.33:966][454]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.11.08-11.43.33:966][454]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2024.11.08-11.43.33:966][454]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2024.11.08-11.43.33:984][454]LogExit: Exiting.
+[2024.11.08-11.43.34:005][454]Log file closed, 11/08/24 12:43:34

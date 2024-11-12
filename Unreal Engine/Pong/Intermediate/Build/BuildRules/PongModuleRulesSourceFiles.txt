@@ -1,0 +1,3 @@
+C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Source\Pong\Pong.Build.cs
+C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Source\Pong.Target.cs
+C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Source\PongEditor.Target.cs

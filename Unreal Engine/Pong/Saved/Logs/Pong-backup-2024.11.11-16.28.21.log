@@ -1,0 +1,1384 @@
+﻿Log file open, 11/11/24 11:38:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Pong
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.947531
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i9-12900H, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Engine.ini]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Engine.ini]
+[2024.11.11-10.38.11:678][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Engine.ini]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Engine.ini]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.11.11-10.38.11:678][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.11.11-10.38.11:679][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.11.11-10.38.11:679][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.11.11-10.38.11:679][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.11.11-10.38.11:679][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Engine.ini]
+[2024.11.11-10.38.11:679][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Engine.ini]
+[2024.11.11-10.38.11:681][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Scalability.ini]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Scalability.ini]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Scalability.ini]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Scalability.ini]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.11.11-10.38.11:681][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Scalability.ini]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Scalability.ini]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Scalability.ini]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.11.11-10.38.11:682][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.11.11-10.38.11:682][  0]LogInit: Selected Device Profile: [Windows]
+[2024.11.11-10.38.11:682][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.11.11-10.38.11:704][  0]LogHAL: Display: Platform has ~ 16 GB [16851132416 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2024.11.11-10.38.11:706][  0]LogInit: Going up to parent DeviceProfile []
+[2024.11.11-10.38.11:706][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Scalability.ini]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Scalability.ini]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Scalability.ini]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Scalability.ini]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Scalability.ini]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Scalability.ini]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Scalability.ini]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.11.11-10.38.11:706][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Config/Windows/Engine.ini]
+[2024.11.11-10.38.11:707][  0]LogInit: Computer: DELEEUW
+[2024.11.11-10.38.11:707][  0]LogInit: User: pietd
+[2024.11.11-10.38.11:707][  0]LogInit: CPU Page size=4096, Cores=14
+[2024.11.11-10.38.11:707][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.11.11-10.38.11:707][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2024.11.11-10.38.11:707][  0]LogMemory: Platform Memory Stats for Windows
+[2024.11.11-10.38.11:707][  0]LogMemory: Process Physical Memory: 101.50 MB used, 101.50 MB peak
+[2024.11.11-10.38.11:707][  0]LogMemory: Process Virtual Memory: 95.15 MB used, 95.15 MB peak
+[2024.11.11-10.38.11:707][  0]LogMemory: Physical Memory: 9487.10 MB used,  6583.39 MB free, 16070.49 MB total
+[2024.11.11-10.38.11:707][  0]LogMemory: Virtual Memory: 4707.87 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2024.11.11-10.38.11:995][  0]LogInit: Using OS detected language (nl-NL).
+[2024.11.11-10.38.11:995][  0]LogInit: Using OS detected locale (nl-NL).
+[2024.11.11-10.38.11:997][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2024.11.11-10.38.12:284][  0]LogInit: Setting process to per monitor DPI aware
+[2024.11.11-10.38.12:369][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.11.11-10.38.12:369][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.11.11-10.38.16:013][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.11.11-10.38.16:013][  0]LogD3D11RHI: D3D11 adapters:
+[2024.11.11-10.38.16:143][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 4060 Laptop GPU' (Feature Level 11_0)
+[2024.11.11-10.38.16:143][  0]LogD3D11RHI:       7971/0/8035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2024.11.11-10.38.16:179][  0]LogD3D11RHI:    1. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2024.11.11-10.38.16:179][  0]LogD3D11RHI:       128/0/8035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2024.11.11-10.38.16:182][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.11.11-10.38.16:182][  0]LogD3D11RHI:       0/0/8035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.11.11-10.38.16:182][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.11.11-10.38.16:189][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.11.11-10.38.16:190][  0]LogD3D11RHI:     GPU DeviceId: 0x28a0 (for the marketing name, search the web for "GPU Device Id")
+[2024.11.11-10.38.16:190][  0]LogWindows: EnumDisplayDevices:
+[2024.11.11-10.38.16:190][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1)
+[2024.11.11-10.38.16:190][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2024.11.11-10.38.16:190][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2024.11.11-10.38.16:190][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2024.11.11-10.38.16:190][  0]LogWindows:    4. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:1)
+[2024.11.11-10.38.16:191][  0]LogWindows:    5. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:0)
+[2024.11.11-10.38.16:191][  0]LogWindows:    6. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:0)
+[2024.11.11-10.38.16:191][  0]LogWindows:    7. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:0)
+[2024.11.11-10.38.16:191][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2024.11.11-10.38.16:191][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 4060 Laptop GPU
+[2024.11.11-10.38.16:191][  0]LogD3D11RHI:   Driver Version: 527.58 (internal:31.0.15.2758, unified:527.58)
+[2024.11.11-10.38.16:191][  0]LogD3D11RHI:      Driver Date: 12-6-2022
+[2024.11.11-10.38.16:191][  0]LogRHI: Texture pool is 5579 MB (70% of 7971 MB)
+[2024.11.11-10.38.16:244][  0]LogD3D11RHI: Async texture creation enabled
+[2024.11.11-10.38.16:246][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.11.11-10.38.16:246][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.11.11-10.38.16:246][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.11.11-10.38.16:261][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2024.11.11-10.38.16:539][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2024.11.11-10.38.16:553][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2024.11.11-10.38.16:564][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2024.11.11-10.38.16:578][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2024.11.11-10.38.16:598][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2024.11.11-10.38.16:611][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2024.11.11-10.38.16:624][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2024.11.11-10.38.16:638][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2024.11.11-10.38.16:645][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2024.11.11-10.38.16:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2024.11.11-10.38.16:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2024.11.11-10.38.16:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2024.11.11-10.38.16:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2024.11.11-10.38.16:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2024.11.11-10.38.16:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2024.11.11-10.38.16:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2024.11.11-10.38.16:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2024.11.11-10.38.16:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2024.11.11-10.38.16:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2024.11.11-10.38.16:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2024.11.11-10.38.16:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2024.11.11-10.38.16:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2024.11.11-10.38.16:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2024.11.11-10.38.16:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2024.11.11-10.38.16:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2024.11.11-10.38.16:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2024.11.11-10.38.16:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2024.11.11-10.38.16:732][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2024.11.11-10.38.16:796][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2024.11.11-10.38.16:796][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2024.11.11-10.38.16:819][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2024.11.11-10.38.16:819][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2024.11.11-10.38.16:833][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2024.11.11-10.38.16:844][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2024.11.11-10.38.16:858][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2024.11.11-10.38.16:883][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2024.11.11-10.38.16:930][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2024.11.11-10.38.16:930][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2024.11.11-10.38.16:930][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.11.11-10.38.17:011][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.11.11-10.38.17:132][  0]LogShaderCompilers: Guid format shader working directory is -76 characters bigger than the processId version (../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Intermediate/Shaders/WorkingDirectory/9440/).
+[2024.11.11-10.38.17:132][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/pietd/AppData/Local/Temp/UnrealShaderWorkingDir/6949AD2A46E61E48FB35A8BBA596C092/'.
+[2024.11.11-10.38.17:135][  0]LogXGEController: Cleaning working directory: C:/Users/pietd/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.11.11-10.38.17:135][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.11.11-10.38.17:135][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.11.11-10.38.17:135][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.11.11-10.38.20:338][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.11.11-10.38.20:410][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/pietd/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.11.11-10.38.20:411][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/pietd/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2024.11.11-10.38.20:411][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.11.11-10.38.20:411][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.11.11-10.38.20:411][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.11.11-10.38.20:411][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.11.11-10.38.20:436][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.11.11-10.38.20:436][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.11.11-10.38.20:436][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.11.11-10.38.20:449][  0]LogDerivedDataCache: Using Local data cache path C:/Users/pietd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.11.11-10.38.20:449][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.11.11-10.38.20:449][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.11.11-10.38.20:469][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2024.11.11-10.38.20:471][  0]LogSlate: Using FreeType 2.6.0
+[2024.11.11-10.38.20:499][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.11.11-10.38.20:658][  0]LogAssetRegistry: FAssetRegistry took 0.0328 seconds to start up
+[2024.11.11-10.38.20:987][  0]LogInit: Selected Device Profile: [Windows]
+[2024.11.11-10.38.21:227][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.11.11-10.38.21:227][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.11.11-10.38.21:227][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.11.11-10.38.21:227][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.11.11-10.38.21:227][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.11.11-10.38.21:272][  0]LogNetVersion: Pong 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2434424394)
+[2024.11.11-10.38.22:271][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.050423 seconds
+[2024.11.11-10.38.22:277][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2024.11.11-10.38.22:277][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2024.11.11-10.38.22:277][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.11.11-10.38.24:226][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.11.11-10.38.24:239][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.11.11-10.38.24:384][  0]SourceControl: Source control is disabled
+[2024.11.11-10.38.24:384][  0]SourceControl: Source control is disabled
+[2024.11.11-10.38.24:387][  0]SourceControl: Source control is disabled
+[2024.11.11-10.38.24:389][  0]SourceControl: Source control is disabled
+[2024.11.11-10.38.24:511][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.11.11-10.38.24:595][  0]LogOcInput: OculusInput pre-init called
+[2024.11.11-10.38.25:315][  0]LogEngine: Initializing Engine...
+[2024.11.11-10.38.25:315][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.11.11-10.38.25:316][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.11.11-10.38.25:776][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.11.11-10.38.25:791][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.11.11-10.38.25:809][  0]LogInit: XAudio2 using 'Oortelefoon van hoofdtelefoon (HUAWEI USB-C HEADSET)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2024.11.11-10.38.25:891][  0]LogInit: FAudioDevice initialized.
+[2024.11.11-10.38.25:892][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.11.11-10.38.25:936][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/pietd/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.11.11-10.38.25:940][  0]LogInit: Texture streaming: Enabled
+[2024.11.11-10.38.25:960][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.11.11-10.38.25:984][  0]LogInit: Transaction tracking system initialized
+[2024.11.11-10.38.26:016][  0]BlueprintLog: New page: Editor Load
+[2024.11.11-10.38.26:130][  0]LocalizationService: Localization service is disabled
+[2024.11.11-10.38.26:620][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Content/' took 0.02s
+[2024.11.11-10.38.26:620][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2024.11.11-10.38.26:620][  0]LogCook: Display: Mobile HDR setting 1
+[2024.11.11-10.38.26:904][  0]SourceControl: Source control is disabled
+[2024.11.11-10.38.26:909][  0]LightingResults: New page: Lighting Build
+[2024.11.11-10.38.26:912][  0]MapCheck: New page: Map Check
+[2024.11.11-10.38.26:912][  0]LightingResults: New page: Lighting Build
+[2024.11.11-10.38.26:942][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.11.11-10.38.26:996][  0]LogAIModule: Creating AISystem for world Main
+[2024.11.11-10.38.27:003][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.11-10.38.27:037][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.11.11-10.38.27:037][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.11-10.38.27:037][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,147ms to complete.
+[2024.11.11-10.38.27:037][  0]LogFileHelpers: Loading map 'Main' took 0.134
+[2024.11.11-10.38.27:193][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.11-10.38.27:200][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.11-10.38.27:206][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.11-10.38.27:212][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.11-10.38.27:229][  0]LogCollectionManager: Loaded 0 collections in 0.001591 seconds
+[2024.11.11-10.38.27:245][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Collections/' took 0.01s
+[2024.11.11-10.38.27:245][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Content/Developers/pietd/Collections/' took 0.00s
+[2024.11.11-10.38.27:245][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Content/Collections/' took 0.00s
+[2024.11.11-10.38.27:245][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2024.11.11-10.38.27:252][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2737 classes and 661 folders.
+[2024.11.11-10.38.27:259][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.11.11-10.38.27:264][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:274][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:295][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:303][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:316][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:321][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:328][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:334][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:353][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:360][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:366][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:373][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:378][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:408][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:416][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:422][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:429][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:435][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:441][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:453][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:459][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:464][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.11-10.38.27:612][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2024.11.11-10.38.27:620][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2024.11.11-10.38.28:403][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.11.11-10.38.28:444][  0]LogSlate: Took 0.006794 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.11.11-10.38.28:450][  0]LogSlate: Took 0.005616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.11.11-10.38.28:472][  0]LogSlate: Took 0.006921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.11.11-10.38.28:618][  0]LogRenderer: Reallocating scene render targets to support 832x428 Format 10 NumSamples 1 (Frame:1).
+[2024.11.11-10.38.28:818][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2024.11.11-10.38.28:818][  0]LogLoad: (Engine Initialization) Total time: 21.03 seconds
+[2024.11.11-10.38.28:818][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.11.11-10.38.28:865][  0]LogAssetRegistry: Asset discovery search completed in 8.2305 seconds
+[2024.11.11-10.38.28:867][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2024.11.11-10.38.28:867][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000073 seconds (updated 0 objects)
+[2024.11.11-10.38.28:868][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.11.11-10.38.28:901][  0]LogSlate: Took 0.013387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.11-10.38.30:189][  4]LogSlate: Took 0.000447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.11-10.38.31:626][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.11-10.38.42:874][666]Cmd: DELETE
+[2024.11.11-10.38.42:874][666]Cmd: ACTOR DELETE
+[2024.11.11-10.38.42:882][666]LogEditorActor: Deleted Actor: BP_Ball_C
+[2024.11.11-10.38.42:915][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.11.11-10.38.42:915][666]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2024.11.11-10.38.46:792][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.11-10.38.46:975][909]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ball.BP_Ball
+[2024.11.11-10.38.47:305][909]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2024.11.11-10.38.52:684][193]LogSlate: Window 'BP_Ball' being destroyed
+[2024.11.11-10.38.54:137][276]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ball.BP_Ball
+[2024.11.11-10.38.54:379][276]LogSlate: Took 0.005776 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.11.11-10.39.00:748][655]LogSlate: Window 'BP_Ball' being destroyed
+[2024.11.11-10.39.23:463][767]LogRenderer: Reallocating scene render targets to support 912x676 Format 10 NumSamples 1 (Frame:1).
+[2024.11.11-10.39.40:932][810]LogSlate: Took 0.000349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.11.11-10.39.49:814][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.11-10.40.13:949][652]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.11-10.40.14:002][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.11.11-10.40.14:021][652]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Main0820DD794AA7090931C977977A6F9822.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Content/Maps/Main.umap'
+[2024.11.11-10.40.16:392][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.11-10.40.17:585][863]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/BP_BallF79C4FF84A15A650D56FEFBDC8059FD1.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Content/Blueprints/BP_Ball.uasset'
+[2024.11.11-10.42.58:638][656]LogAssetEditorManager: Opening Asset editor for Class /Script/Pong.Boundary
+[2024.11.11-10.47.04:401][375]LogHotReload: New module detected: UE4Editor-Pong-0015.dll
+[2024.11.11-10.47.05:092][378]LogHotReload: Starting Hot-Reload from IDE
+[2024.11.11-10.47.05:153][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.11.11-10.47.05:153][378]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (unloaded)
+[2024.11.11-10.47.05:220][378]LogClass: Could not find existing class Boundary in package /Script/Pong for HotReload, assuming new class
+[2024.11.11-10.47.05:231][378]LogHotReload: Re-instancing Boundary after hot-reload.
+[2024.11.11-10.47.05:320][378]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (loaded)
+[2024.11.11-10.47.05:320][378]LogContentBrowser: Native class hierarchy updated for 'Pong' in 0.0005 seconds. Added 5 classes and 2 folders.
+[2024.11.11-10.47.05:323][378]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.11-10.47.05:609][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.11.11-10.47.05:609][378]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.11-10.47.05:622][378]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2738 classes and 663 folders.
+[2024.11.11-10.47.05:627][378]Display: HotReload took  0.5s.
+[2024.11.11-10.48.20:438][601]LogHotReload: New module detected: UE4Editor-Pong-0016.dll
+[2024.11.11-10.48.21:126][604]LogHotReload: Starting Hot-Reload from IDE
+[2024.11.11-10.48.21:212][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2024.11.11-10.48.21:212][604]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (unloaded)
+[2024.11.11-10.48.21:298][604]LogClass: Could not find existing class Boundary in package /Script/Pong for HotReload, assuming new class
+[2024.11.11-10.48.21:313][604]LogHotReload: Re-instancing Boundary after hot-reload.
+[2024.11.11-10.48.21:428][604]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (loaded)
+[2024.11.11-10.48.21:428][604]LogContentBrowser: Native class hierarchy updated for 'Pong' in 0.0005 seconds. Added 5 classes and 2 folders.
+[2024.11.11-10.48.21:433][604]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.11-10.48.21:498][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.11.11-10.48.21:498][604]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.11-10.48.21:512][604]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2738 classes and 663 folders.
+[2024.11.11-10.48.21:515][604]Display: HotReload took  0.4s.
+[2024.11.11-11.30.50:753][202]LogHotReload: New module detected: UE4Editor-Pong-0017.dll
+[2024.11.11-11.30.51:435][205]LogHotReload: Starting Hot-Reload from IDE
+[2024.11.11-11.30.51:594][205]LogUObjectHash: Compacting FUObjectHashTables data took   7.59ms
+[2024.11.11-11.30.51:595][205]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (unloaded)
+[2024.11.11-11.30.51:737][205]LogClass: Could not find existing class Boundary in package /Script/Pong for HotReload, assuming new class
+[2024.11.11-11.30.51:740][205]LogClass: Could not find existing class Paddle in package /Script/Pong for HotReload, assuming new class
+[2024.11.11-11.30.51:753][205]LogHotReload: Re-instancing Boundary after hot-reload.
+[2024.11.11-11.30.51:894][205]LogHotReload: Re-instancing Paddle after hot-reload.
+[2024.11.11-11.30.52:003][205]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (loaded)
+[2024.11.11-11.30.52:004][205]LogContentBrowser: Native class hierarchy updated for 'Pong' in 0.0008 seconds. Added 5 classes and 2 folders.
+[2024.11.11-11.30.52:009][205]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.11-11.30.52:082][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.11.11-11.30.52:082][205]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.11-11.30.52:105][205]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2738 classes and 663 folders.
+[2024.11.11-11.30.52:108][205]Display: HotReload took  0.7s.
+[2024.11.11-11.36.29:016][211]LogHttp: Warning: 000002BA1A77EAC0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2024.11.11-11.36.29:017][211]LogHttp: Warning: 000002BA1A77EAC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2b9ddd4ff70 [can pipeline])
+[2024.11.11-11.36.29:017][211]LogHttp: Warning: 000002BA1A77EAC0: libcurl info message cache 1 (Re-using existing connection! (#20) with host datarouter.ol.epicgames.com)
+[2024.11.11-11.36.29:017][211]LogHttp: Warning: 000002BA1A77EAC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.230.97.26) port 443 (#20))
+[2024.11.11-11.36.29:017][211]LogHttp: Warning: 000002BA1A77EAC0: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.11.11-11.36.29:017][211]LogHttp: Warning: 000002BA1A77EAC0: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.11.11-11.36.29:017][211]LogHttp: Warning: 000002BA1A77EAC0: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.11.11-11.36.29:017][211]LogHttp: Warning: 000002BA1A77EAC0: libcurl info message cache 6 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2024.11.11-11.36.29:017][211]LogHttp: Warning: 000002BA1A77EAC0: libcurl info message cache 7 (Connection died, retrying a fresh connect)
+[2024.11.11-11.36.29:017][211]LogHttp: Warning: 000002BA1A77EAC0: libcurl info message cache 8 (necessary data rewind wasn't possible)
+[2024.11.11-11.36.29:017][211]LogHttp: Warning: 000002BA1A77EAC0: libcurl info message cache 9 (Closing connection 20)
+[2024.11.11-11.36.29:017][211]LogHttp: Warning: 000002BA1A77EAC0: libcurl info message cache 10 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.11.11-11.36.29:354][212]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E0FEC52-4BF2-D56C-4CAB-8CB78CAA0514%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=6f5b881f45331d87816daf924afe002e%7C5dec2224ee8245e38e0caff7c4780252%7Cd3e8f649-9722-4c6d-b0f1-6f0a0081c516&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.11.11-11.44.56:021][719]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{591e8459-262d-4ba2-9c82-e5360967a894} was removed. Shutting down audio device.
+[2024.11.11-11.44.56:021][719]LogInit: XAudio2 using 'Luidsprekers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.11.11-11.47.43:980][219]LogInit: XAudio2 using 'Oortelefoon van hoofdtelefoon (HUAWEI USB-C HEADSET)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2024.11.11-11.51.21:342][868]LogHotReload: New module detected: UE4Editor-Pong-0018.dll
+[2024.11.11-11.51.22:032][871]LogHotReload: Starting Hot-Reload from IDE
+[2024.11.11-11.51.22:194][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2024.11.11-11.51.22:194][871]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (unloaded)
+[2024.11.11-11.51.22:281][871]LogClass: Could not find existing class Paddle in package /Script/Pong for HotReload, assuming new class
+[2024.11.11-11.51.22:295][871]LogHotReload: Re-instancing Paddle after hot-reload.
+[2024.11.11-11.51.22:454][871]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (loaded)
+[2024.11.11-11.51.22:455][871]LogContentBrowser: Native class hierarchy updated for 'Pong' in 0.0005 seconds. Added 5 classes and 2 folders.
+[2024.11.11-11.51.22:459][871]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.11-11.51.22:564][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2024.11.11-11.51.22:564][871]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.11-11.51.22:579][871]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2738 classes and 663 folders.
+[2024.11.11-11.51.22:584][871]Display: HotReload took  0.6s.
+[2024.11.11-11.55.31:078][612]LogHotReload: New module detected: UE4Editor-Pong-0019.dll
+[2024.11.11-11.55.31:775][615]LogHotReload: Starting Hot-Reload from IDE
+[2024.11.11-11.55.31:887][615]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2024.11.11-11.55.31:887][615]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (unloaded)
+[2024.11.11-11.55.32:037][615]LogClass: Could not find existing class Paddle in package /Script/Pong for HotReload, assuming new class
+[2024.11.11-11.55.32:057][615]LogHotReload: Re-instancing Paddle after hot-reload.
+[2024.11.11-11.55.32:200][615]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (loaded)
+[2024.11.11-11.55.32:201][615]LogContentBrowser: Native class hierarchy updated for 'Pong' in 0.0006 seconds. Added 5 classes and 2 folders.
+[2024.11.11-11.55.32:205][615]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.11-11.55.32:300][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2024.11.11-11.55.32:300][615]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.11-11.55.32:315][615]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2738 classes and 663 folders.
+[2024.11.11-11.55.32:318][615]Display: HotReload took  0.5s.
+[2024.11.11-12.00.10:316][444]LogHotReload: New module detected: UE4Editor-Pong-0020.dll
+[2024.11.11-12.00.11:001][447]LogHotReload: Starting Hot-Reload from IDE
+[2024.11.11-12.00.11:114][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2024.11.11-12.00.11:114][447]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (unloaded)
+[2024.11.11-12.00.11:258][447]LogHotReload: Re-instancing Paddle after hot-reload.
+[2024.11.11-12.00.11:404][447]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (loaded)
+[2024.11.11-12.00.11:405][447]LogContentBrowser: Native class hierarchy updated for 'Pong' in 0.0005 seconds. Added 5 classes and 2 folders.
+[2024.11.11-12.00.11:409][447]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.11-12.00.11:486][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2024.11.11-12.00.11:486][447]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.11-12.00.11:501][447]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2738 classes and 663 folders.
+[2024.11.11-12.00.11:506][447]Display: HotReload took  0.5s.
+[2024.11.11-12.16.28:704][361]LogHotReload: New module detected: UE4Editor-Pong-0022.dll
+[2024.11.11-12.16.29:392][364]LogHotReload: Starting Hot-Reload from IDE
+[2024.11.11-12.16.29:498][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2024.11.11-12.16.29:498][364]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (unloaded)
+[2024.11.11-12.16.29:600][364]LogClass: Could not find existing class PongGameMode in package /Script/Pong for HotReload, assuming new class
+[2024.11.11-12.16.29:609][364]LogHotReload: Re-instancing PongGameMode after hot-reload.
+[2024.11.11-12.16.29:742][364]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (loaded)
+[2024.11.11-12.16.29:742][364]LogContentBrowser: Native class hierarchy updated for 'Pong' in 0.0005 seconds. Added 5 classes and 2 folders.
+[2024.11.11-12.16.29:746][364]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.11-12.16.29:831][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2024.11.11-12.16.29:832][364]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.11-12.16.29:846][364]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2738 classes and 663 folders.
+[2024.11.11-12.16.29:849][364]Display: HotReload took  0.5s.
+[2024.11.11-12.17.32:910][552]LogHotReload: New module detected: UE4Editor-Pong-0023.dll
+[2024.11.11-12.17.33:595][555]LogHotReload: Starting Hot-Reload from IDE
+[2024.11.11-12.17.33:684][555]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2024.11.11-12.17.33:685][555]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (unloaded)
+[2024.11.11-12.17.33:765][555]LogClass: Could not find existing class PongGameMode in package /Script/Pong for HotReload, assuming new class
+[2024.11.11-12.17.33:774][555]LogHotReload: Re-instancing PongGameMode after hot-reload.
+[2024.11.11-12.17.33:894][555]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (loaded)
+[2024.11.11-12.17.33:895][555]LogContentBrowser: Native class hierarchy updated for 'Pong' in 0.0006 seconds. Added 5 classes and 2 folders.
+[2024.11.11-12.17.33:900][555]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.11-12.17.33:970][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.11.11-12.17.33:971][555]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.11-12.17.33:984][555]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2738 classes and 663 folders.
+[2024.11.11-12.17.33:987][555]Display: HotReload took  0.4s.
+[2024.11.11-12.22.03:678][359]LogHotReload: New module detected: UE4Editor-Pong-0024.dll
+[2024.11.11-12.22.04:385][362]LogHotReload: Starting Hot-Reload from IDE
+[2024.11.11-12.22.04:495][362]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2024.11.11-12.22.04:495][362]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (unloaded)
+[2024.11.11-12.22.04:649][362]LogClass: Could not find existing class PongGameMode in package /Script/Pong for HotReload, assuming new class
+[2024.11.11-12.22.04:661][362]LogHotReload: Re-instancing PongGameMode after hot-reload.
+[2024.11.11-12.22.04:771][362]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (loaded)
+[2024.11.11-12.22.04:771][362]LogContentBrowser: Native class hierarchy updated for 'Pong' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2024.11.11-12.22.04:775][362]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.11-12.22.04:843][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.11.11-12.22.04:843][362]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.11-12.22.04:857][362]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2738 classes and 663 folders.
+[2024.11.11-12.22.04:861][362]Display: HotReload took  0.5s.
+[2024.11.11-12.25.14:450][531]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Boundary.BP_Boundary
+[2024.11.11-12.25.14:723][531]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2024.11.11-12.25.32:126][569]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Paddle.BP_Paddle
+[2024.11.11-12.25.32:350][569]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2024.11.11-12.26.08:312][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2024.11.11-12.26.31:176][605]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2024.11.11-12.26.31:183][605]LogMetaData: Removing '/Game/Blueprints/BP_PaddlePlayer.BP_PaddlePlayer:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Paddle.PackageMetaData'
+[2024.11.11-12.26.31:183][605]LogMetaData: Removing '/Game/Blueprints/BP_PaddlePlayer.SKEL_BP_PaddlePlayer_C' ref from Metadata '/Game/Blueprints/BP_Paddle.PackageMetaData'
+[2024.11.11-12.26.31:183][605]LogMetaData: Removing '/Game/Blueprints/BP_PaddlePlayer.BP_PaddlePlayer_C' ref from Metadata '/Game/Blueprints/BP_Paddle.PackageMetaData'
+[2024.11.11-12.26.31:183][605]LogMetaData: Removing '/Game/Blueprints/BP_PaddlePlayer.BP_PaddlePlayer:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_Paddle.PackageMetaData'
+[2024.11.11-12.26.31:183][605]LogMetaData: Removing '/Game/Blueprints/BP_PaddlePlayer.BP_PaddlePlayer:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_Paddle.PackageMetaData'
+[2024.11.11-12.26.31:183][605]LogMetaData: Removing '/Game/Blueprints/BP_PaddlePlayer.BP_PaddlePlayer:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_Paddle.PackageMetaData'
+[2024.11.11-12.26.31:218][605]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/BP_PaddlePlayer746C15904D839D108CAF84B9E37A6D59.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Content/Blueprints/BP_PaddlePlayer.uasset'
+[2024.11.11-12.26.31:378][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.11.11-12.26.31:425][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.11.11-12.26.31:462][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.11.11-12.26.50:384][260]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_PongGameMode.BP_PongGameMode
+[2024.11.11-12.26.50:624][260]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2024.11.11-12.27.01:570][733]Candidate modules for hot reload:
+[2024.11.11-12.27.01:570][733]  Pong
+[2024.11.11-12.27.01:570][733]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pong,7260 Win64 Development -TargetType=Editor -Project="C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Pong.uproject" "C:/Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Pong.uproject"  -IgnoreJunk]
+[2024.11.11-12.27.01:579][733]Warning: Starting HotReload took  1.4s.
+[2024.11.11-12.27.10:673][838]CompilerResultsLog: New page: Compilation - 11 nov. 2024 14:27:10
+[2024.11.11-12.27.10:673][838]CompilerResultsLog: Creating makefile for PongEditor (ini files are newer than makefile)
+[2024.11.11-12.27.10:673][838]CompilerResultsLog: Parsing headers for PongEditor
+[2024.11.11-12.27.10:673][838]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Pong.uproject" "C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\PongEditor\Development\PongEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2024.11.11-12.27.10:673][838]CompilerResultsLog: Reflection code generated for PongEditor in 5,7121971 seconds
+[2024.11.11-12.27.10:673][838]CompilerResultsLog: Using Visual Studio 2019 14.40.33807 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2024.11.11-12.27.10:673][838]CompilerResultsLog: Building 3 actions with 20 processes...
+[2024.11.11-12.27.10:674][838]CompilerResultsLog:   [1/3] UE4Editor-Pong-7260.lib
+[2024.11.11-12.27.10:674][838]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\UE4Editor-Pong-7260.lib and object C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\UE4Editor-Pong-7260.exp
+[2024.11.11-12.27.10:674][838]CompilerResultsLog:   [2/3] UE4Editor-Pong-7260.dll
+[2024.11.11-12.27.10:674][838]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\UE4Editor-Pong-7260.suppressed.lib and object C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\UE4Editor-Pong-7260.suppressed.exp
+[2024.11.11-12.27.10:674][838]CompilerResultsLog:   [3/3] PongEditor.target
+[2024.11.11-12.27.10:674][838]CompilerResultsLog: Total time in Parallel executor: 1,00 seconds
+[2024.11.11-12.27.10:674][838]CompilerResultsLog: Total execution time: 8,73 seconds
+[2024.11.11-12.27.10:674][838]LogMainFrame: MainFrame: Module compiling took 9.108 seconds
+[2024.11.11-12.27.10:730][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.11.11-12.27.10:730][838]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (unloaded)
+[2024.11.11-12.27.10:874][838]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (loaded)
+[2024.11.11-12.27.10:875][838]LogContentBrowser: Native class hierarchy updated for 'Pong' in 0.0006 seconds. Added 5 classes and 2 folders.
+[2024.11.11-12.27.10:881][838]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.11-12.27.10:966][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.11.11-12.27.10:967][838]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.11-12.27.10:982][838]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2738 classes and 663 folders.
+[2024.11.11-12.27.10:982][838]Display: HotReload took 10.8s.
+[2024.11.11-12.27.26:826][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2024.11.11-12.27.26:827][885]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.061
+[2024.11.11-12.27.26:829][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Boundary] ([1] browsable assets)...
+[2024.11.11-12.27.26:829][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Boundary]
+[2024.11.11-12.27.26:837][885]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/BP_Boundary_Auto13C847C7F4D8F91E6E49BB4B8497E93E2.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Autosaves/Game/Blueprints/BP_Boundary_Auto1.uasset'
+[2024.11.11-12.27.26:839][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PaddleAI] ([1] browsable assets)...
+[2024.11.11-12.27.26:839][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PaddleAI]
+[2024.11.11-12.27.26:846][885]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/BP_PaddleAI_Auto190C06E15421890EBAEE4659B579EB54C.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Autosaves/Game/Blueprints/BP_PaddleAI_Auto1.uasset'
+[2024.11.11-12.27.26:848][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PongGameMode] ([1] browsable assets)...
+[2024.11.11-12.27.26:848][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PongGameMode]
+[2024.11.11-12.27.26:856][885]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/BP_PongGameMode_Auto18ED7E3394C2CFCBE71B2B387C8317E02.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Autosaves/Game/Blueprints/BP_PongGameMode_Auto1.uasset'
+[2024.11.11-12.27.26:856][885]LogFileHelpers: Auto-saving content packages took 0.029
+[2024.11.11-12.36.28:430][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.11-12.36.31:395][924]BlueprintLog: New page: Compile BP_Boundary
+[2024.11.11-12.36.31:596][924]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2024.11.11-12.36.32:328][966]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/BP_Boundary6A4B11A84B2BAF55B08E809BFE2E8D38.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Content/Blueprints/BP_Boundary.uasset'
+[2024.11.11-12.36.37:786][293]BlueprintLog: New page: Compile BP_PongGameMode
+[2024.11.11-12.36.37:963][293]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2024.11.11-12.36.38:532][325]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/BP_PongGameMode5CF5785F4F48CF93AC8D9688CE4991D8.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Content/Blueprints/BP_PongGameMode.uasset'
+[2024.11.11-12.42.42:661][861]LogHotReload: New module detected: UE4Editor-Pong-0026.dll
+[2024.11.11-12.42.43:347][864]LogHotReload: Starting Hot-Reload from IDE
+[2024.11.11-12.42.43:429][864]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2024.11.11-12.42.43:429][864]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (unloaded)
+[2024.11.11-12.42.43:552][864]LogClass: Could not find existing class Ball in package /Script/Pong for HotReload, assuming new class
+[2024.11.11-12.42.43:569][864]LogHotReload: Re-instancing Ball after hot-reload.
+[2024.11.11-12.42.43:899][864]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (loaded)
+[2024.11.11-12.42.43:901][864]LogContentBrowser: Native class hierarchy updated for 'Pong' in 0.0006 seconds. Added 5 classes and 2 folders.
+[2024.11.11-12.42.43:906][864]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.11-12.42.43:998][864]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2024.11.11-12.42.43:998][864]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.11-12.42.44:012][864]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2738 classes and 663 folders.
+[2024.11.11-12.42.44:015][864]Display: HotReload took  0.7s.
+[2024.11.11-13.56.08:516][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:516][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:516][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:516][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:516][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:516][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:516][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:516][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:516][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.08:517][925]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-13.56.11:274][926]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2024.11.11-13.56.12:287][930]LogHttp: Warning: 000002BA37F011C0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2024.11.11-13.56.12:287][930]LogHttp: Warning: 000002BA37F011C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2b9ddd4ff70 [can pipeline])
+[2024.11.11-13.56.12:287][930]LogHttp: Warning: 000002BA37F011C0: libcurl info message cache 1 (Re-using existing connection! (#45) with host datarouter.ol.epicgames.com)
+[2024.11.11-13.56.12:287][930]LogHttp: Warning: 000002BA37F011C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.20.162.116) port 443 (#45))
+[2024.11.11-13.56.12:287][930]LogHttp: Warning: 000002BA37F011C0: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.11.11-13.56.12:287][930]LogHttp: Warning: 000002BA37F011C0: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.11.11-13.56.12:287][930]LogHttp: Warning: 000002BA37F011C0: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.11.11-13.56.12:287][930]LogHttp: Warning: 000002BA37F011C0: libcurl info message cache 6 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2024.11.11-13.56.12:287][930]LogHttp: Warning: 000002BA37F011C0: libcurl info message cache 7 (Connection died, retrying a fresh connect)
+[2024.11.11-13.56.12:287][930]LogHttp: Warning: 000002BA37F011C0: libcurl info message cache 8 (necessary data rewind wasn't possible)
+[2024.11.11-13.56.12:288][930]LogHttp: Warning: 000002BA37F011C0: libcurl info message cache 9 (Closing connection 45)
+[2024.11.11-13.56.12:288][930]LogHttp: Warning: 000002BA37F011C0: libcurl info message cache 10 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.11.11-13.56.12:288][930]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E0FEC52-4BF2-D56C-4CAB-8CB78CAA0514%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=6f5b881f45331d87816daf924afe002e%7C5dec2224ee8245e38e0caff7c4780252%7Cd3e8f649-9722-4c6d-b0f1-6f0a0081c516&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.11.11-13.56.28:735][978]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (20.218 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.11-14.02.24:765][ 39]LogHotReload: New module detected: UE4Editor-Pong-0027.dll
+[2024.11.11-14.02.25:454][ 42]LogHotReload: Starting Hot-Reload from IDE
+[2024.11.11-14.02.25:588][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2024.11.11-14.02.25:588][ 42]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (unloaded)
+[2024.11.11-14.02.25:702][ 42]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (loaded)
+[2024.11.11-14.02.25:703][ 42]LogContentBrowser: Native class hierarchy updated for 'Pong' in 0.0009 seconds. Added 5 classes and 2 folders.
+[2024.11.11-14.02.25:710][ 42]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.11-14.02.25:812][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2024.11.11-14.02.25:812][ 42]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.11-14.02.25:828][ 42]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2738 classes and 663 folders.
+[2024.11.11-14.02.25:830][ 42]Display: HotReload took  0.4s.
+[2024.11.11-14.06.29:139][769]LogHttp: Warning: 000002BA345B5080: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2024.11.11-14.06.29:139][769]LogHttp: Warning: 000002BA345B5080: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2b9ddd4ff70 [can pipeline])
+[2024.11.11-14.06.29:139][769]LogHttp: Warning: 000002BA345B5080: libcurl info message cache 1 (Re-using existing connection! (#47) with host datarouter.ol.epicgames.com)
+[2024.11.11-14.06.29:139][769]LogHttp: Warning: 000002BA345B5080: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.208.220.37) port 443 (#47))
+[2024.11.11-14.06.29:139][769]LogHttp: Warning: 000002BA345B5080: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.11.11-14.06.29:139][769]LogHttp: Warning: 000002BA345B5080: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.11.11-14.06.29:139][769]LogHttp: Warning: 000002BA345B5080: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.11.11-14.06.29:139][769]LogHttp: Warning: 000002BA345B5080: libcurl info message cache 6 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2024.11.11-14.06.29:139][769]LogHttp: Warning: 000002BA345B5080: libcurl info message cache 7 (Connection died, retrying a fresh connect)
+[2024.11.11-14.06.29:139][769]LogHttp: Warning: 000002BA345B5080: libcurl info message cache 8 (necessary data rewind wasn't possible)
+[2024.11.11-14.06.29:139][769]LogHttp: Warning: 000002BA345B5080: libcurl info message cache 9 (Closing connection 47)
+[2024.11.11-14.06.29:140][769]LogHttp: Warning: 000002BA345B5080: libcurl info message cache 10 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.11.11-14.06.29:473][770]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E0FEC52-4BF2-D56C-4CAB-8CB78CAA0514%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=6f5b881f45331d87816daf924afe002e%7C5dec2224ee8245e38e0caff7c4780252%7Cd3e8f649-9722-4c6d-b0f1-6f0a0081c516&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.11.11-15.05.14:639][265]LogHotReload: New module detected: UE4Editor-Pong-0029.dll
+[2024.11.11-15.05.14:979][267]LogHotReload: Starting Hot-Reload from IDE
+[2024.11.11-15.05.15:409][267]LogUObjectHash: Compacting FUObjectHashTables data took  11.23ms
+[2024.11.11-15.05.15:410][267]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (unloaded)
+[2024.11.11-15.05.15:653][267]LogClass: Could not find existing class GameHUD in package /Script/Pong for HotReload, assuming new class
+[2024.11.11-15.05.15:677][267]LogHotReload: Re-instancing GameHUD after hot-reload.
+[2024.11.11-15.05.15:892][267]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (loaded)
+[2024.11.11-15.05.15:893][267]LogContentBrowser: Native class hierarchy updated for 'Pong' in 0.0011 seconds. Added 5 classes and 2 folders.
+[2024.11.11-15.05.15:899][267]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.11-15.05.16:027][267]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2024.11.11-15.05.16:028][267]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.11-15.05.16:065][267]LogContentBrowser: Native class hierarchy populated in 0.0151 seconds. Added 2738 classes and 663 folders.
+[2024.11.11-15.05.16:069][267]Display: HotReload took  1.1s.
+[2024.11.11-15.10.10:268][145]LogHotReload: New module detected: UE4Editor-Pong-0030.dll
+[2024.11.11-15.10.10:952][148]LogHotReload: Starting Hot-Reload from IDE
+[2024.11.11-15.10.11:125][148]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2024.11.11-15.10.11:125][148]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (unloaded)
+[2024.11.11-15.10.11:224][148]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (loaded)
+[2024.11.11-15.10.11:225][148]LogContentBrowser: Native class hierarchy updated for 'Pong' in 0.0006 seconds. Added 5 classes and 2 folders.
+[2024.11.11-15.10.11:231][148]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.11-15.10.11:369][148]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2024.11.11-15.10.11:369][148]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.11-15.10.11:385][148]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2738 classes and 663 folders.
+[2024.11.11-15.10.11:388][148]Display: HotReload took  0.4s.
+[2024.11.11-15.20.22:976][971]LogHotReload: New module detected: UE4Editor-Pong-0031.dll
+[2024.11.11-15.20.23:320][973]LogHotReload: Starting Hot-Reload from IDE
+[2024.11.11-15.20.23:427][973]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2024.11.11-15.20.23:427][973]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (unloaded)
+[2024.11.11-15.20.23:545][973]LogClass: Could not find existing class PongGameMode in package /Script/Pong for HotReload, assuming new class
+[2024.11.11-15.20.23:555][973]LogHotReload: Re-instancing PongGameMode after hot-reload.
+[2024.11.11-15.20.23:877][973]LogBlueprintActionDatabase: Requesting refresh due to module change: Pong (loaded)
+[2024.11.11-15.20.23:877][973]LogContentBrowser: Native class hierarchy updated for 'Pong' in 0.0005 seconds. Added 5 classes and 2 folders.
+[2024.11.11-15.20.23:882][973]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.11-15.20.23:986][973]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2024.11.11-15.20.23:986][973]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.11-15.20.23:999][973]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2738 classes and 663 folders.
+[2024.11.11-15.20.24:003][973]Display: HotReload took  0.7s.
+[2024.11.11-16.02.09:229][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.11-16.02.36:378][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.11-16.03.05:672][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.11-16.04.36:122][198]LogUObjectHash: Compacting FUObjectHashTables data took  10.74ms
+[2024.11.11-16.04.36:122][198]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.208
+[2024.11.11-16.04.36:125][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Ball] ([1] browsable assets)...
+[2024.11.11-16.04.36:125][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Ball]
+[2024.11.11-16.04.36:147][198]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/BP_Ball_Auto2A7BE5585415CDA9F447DF196781DBB00.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Autosaves/Game/Blueprints/BP_Ball_Auto2.uasset'
+[2024.11.11-16.04.36:150][198]LogFileHelpers: Auto-saving content packages took 0.027
+[2024.11.11-16.05.36:441][639]BlueprintLog: New page: Compile BP_Ball
+[2024.11.11-16.05.36:815][639]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2024.11.11-16.05.37:438][674]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/BP_Ball6E2DE0B84029FC97A38916B1110CCD49.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Content/Blueprints/BP_Ball.uasset'
+[2024.11.11-16.06.00:221][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.11-16.06.32:798][379]BlueprintLog: New page: Compile BP_Boundary
+[2024.11.11-16.06.33:035][379]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2024.11.11-16.06.33:895][429]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/BP_BoundaryCABD175B40073046305E639762A28657.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Content/Blueprints/BP_Boundary.uasset'
+[2024.11.11-16.07.22:923][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.11-16.09.07:290][ 42]Cmd: TRANSACTION UNDO
+[2024.11.11-16.09.07:290][ 42]LogEditorTransaction: Undo Move Actors
+[2024.11.11-16.09.11:075][268]Cmd: DUPLICATE
+[2024.11.11-16.09.11:075][268]Cmd: ACTOR DUPLICATE
+[2024.11.11-16.09.14:659][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.11-16.09.55:746][758]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_Sprite)
+[2024.11.11-16.09.57:021][830]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_Sprite)
+[2024.11.11-16.09.57:776][875]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_Sprite)
+[2024.11.11-16.09.58:476][917]LogEditorViewport: Clicking on Actor (LMB): BP_Boundary_C (BP_Boundary2)
+[2024.11.11-16.09.59:878][999]Cmd: DUPLICATE
+[2024.11.11-16.09.59:878][999]Cmd: ACTOR DUPLICATE
+[2024.11.11-16.10.02:624][162]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_Sprite)
+[2024.11.11-16.10.04:082][248]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_Sprite)
+[2024.11.11-16.10.04:690][284]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_Sprite)
+[2024.11.11-16.10.05:463][330]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_Sprite)
+[2024.11.11-16.10.05:988][361]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_Sprite)
+[2024.11.11-16.10.06:681][402]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_Sprite)
+[2024.11.11-16.10.06:789][408]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2024.11.11-16.10.07:187][431]LogEditorViewport: Clicking on Actor (LMB): BP_Boundary_C (BP_Boundary3)
+[2024.11.11-16.10.42:800][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.11-16.11.31:508][485]Cmd: DUPLICATE
+[2024.11.11-16.11.31:508][485]Cmd: ACTOR DUPLICATE
+[2024.11.11-16.11.36:759][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.11-16.11.54:386][854]LogEditorViewport: Clicking on Actor (LMB): BP_Boundary_C (BP_Boundary3)
+[2024.11.11-16.11.55:696][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.11-16.11.57:028][ 11]LogEditorViewport: Clicking on Actor (LMB): BP_Boundary_C (BP_Boundary2)
+[2024.11.11-16.11.58:553][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.11-16.12.46:218][478]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_Sprite)
+[2024.11.11-16.12.47:019][520]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_Sprite)
+[2024.11.11-16.12.47:638][557]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_Sprite)
+[2024.11.11-16.12.48:273][595]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_Sprite)
+[2024.11.11-16.12.48:908][633]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_Sprite)
+[2024.11.11-16.12.49:793][686]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_Sprite)
+[2024.11.11-16.12.50:180][709]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2024.11.11-16.12.50:908][752]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2024.11.11-16.12.51:310][776]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2024.11.11-16.12.51:879][810]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2024.11.11-16.12.52:313][836]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2024.11.11-16.12.54:015][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.11-16.13.58:905][830]BlueprintLog: New page: Compile BP_Boundary
+[2024.11.11-16.13.59:191][830]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2024.11.11-16.13.59:635][855]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/BP_BoundaryAD9F155B4CA7D069D423008C5380684E.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Content/Blueprints/BP_Boundary.uasset'
+[2024.11.11-16.15.00:080][611]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2024.11.11-16.15.00:243][611]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Main349E60ED4EE03C744C85348B1A747FD2.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Content/Maps/Main.umap'
+[2024.11.11-16.15.06:130][962]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_PaddleAI.BP_PaddleAI
+[2024.11.11-16.15.06:453][962]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2024.11.11-16.15.09:774][157]LogSlate: Window 'CompilerResults' being destroyed
+[2024.11.11-16.15.09:781][157]LogSlate: Window 'CompilerResults' being destroyed
+[2024.11.11-16.15.13:757][258]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_PaddleAI.BP_PaddleAI
+[2024.11.11-16.15.45:264][127]LogTexture: Display: Building textures: Player (BGRA8, 54X316)
+[2024.11.11-16.16.47:252][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.11-16.17.11:184][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.11-16.25.00:765][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2024.11.11-16.25.00:765][269]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.086
+[2024.11.11-16.25.00:766][269]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PaddleAI] ([1] browsable assets)...
+[2024.11.11-16.25.00:767][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PaddleAI]
+[2024.11.11-16.25.00:777][269]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/BP_PaddleAI_Auto38716132F47D44F3AEF6D898783AD000F.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/Autosaves/Game/Blueprints/BP_PaddleAI_Auto3.uasset'
+[2024.11.11-16.25.00:778][269]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.11.11-16.28.11:217][837]BlueprintLog: New page: Compile BP_PaddleAI
+[2024.11.11-16.28.11:426][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2024.11.11-16.28.12:182][880]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Saved/BP_PaddleAIF649CA2D44D062DECF0B5EB27C316B23.tmp' to '../../../../../../Users/pietd/Documents/GameAssets/Unreal Engine/unreal-engine-4-blueprint-cplusplus-integration 4.22/Pong/Content/Blueprints/BP_PaddleAI.uasset'
+[2024.11.11-16.28.16:003][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.11-16.28.16:195][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.11.11-16.28.16:405][116]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.11-16.28.16:507][116]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.11-16.28.16:610][116]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.11-16.28.16:723][116]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.11-16.28.16:778][116]LogSlate: Window 'Pong - Unreal Editor' being destroyed
+[2024.11.11-16.28.17:151][117]Cmd: QUIT_EDITOR
+[2024.11.11-16.28.17:206][117]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2024.11.11-16.28.17:232][117]LogExit: Preparing to exit.
+[2024.11.11-16.28.17:611][117]LogExit: Editor shut down
+[2024.11.11-16.28.17:616][117]LogExit: Transaction tracking system shut down
+[2024.11.11-16.28.18:228][117]LogExit: Object subsystem successfully closed.
+[2024.11.11-16.28.18:279][117]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.11.11-16.28.18:289][117]LogD3D11RHI: Shutdown
+[2024.11.11-16.28.18:289][117]LogD3D11RHI: CleanupD3DDevice
+[2024.11.11-16.28.18:292][117]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.11.11-16.28.18:292][117]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.11.11-16.28.18:292][117]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.11.11-16.28.18:292][117]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.11.11-16.28.18:292][117]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.11.11-16.28.18:292][117]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.11.11-16.28.18:445][117]LogD3D11RHI: ~FD3D11DynamicRHI
+[2024.11.11-16.28.18:524][117]LogModuleManager: Shutting down and abandoning module Pong (663)
+[2024.11.11-16.28.18:524][117]LogModuleManager: Shutting down and abandoning module BlueprintGraph (648)
+[2024.11.11-16.28.18:524][117]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (646)
+[2024.11.11-16.28.18:524][117]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (644)
+[2024.11.11-16.28.18:525][117]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2024.11.11-16.28.18:525][117]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2024.11.11-16.28.18:538][117]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2024.11.11-16.28.18:538][117]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2024.11.11-16.28.18:538][117]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2024.11.11-16.28.18:540][117]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2024.11.11-16.28.18:540][117]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2024.11.11-16.28.18:541][117]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2024.11.11-16.28.18:543][117]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2024.11.11-16.28.18:543][117]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2024.11.11-16.28.18:543][117]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2024.11.11-16.28.18:543][117]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2024.11.11-16.28.18:544][117]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2024.11.11-16.28.18:544][117]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2024.11.11-16.28.18:544][117]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2024.11.11-16.28.18:545][117]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2024.11.11-16.28.18:545][117]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2024.11.11-16.28.18:546][117]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2024.11.11-16.28.18:546][117]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2024.11.11-16.28.18:546][117]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2024.11.11-16.28.18:546][117]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2024.11.11-16.28.18:549][117]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2024.11.11-16.28.18:549][117]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2024.11.11-16.28.18:550][117]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2024.11.11-16.28.18:550][117]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2024.11.11-16.28.18:550][117]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2024.11.11-16.28.18:550][117]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2024.11.11-16.28.18:551][117]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2024.11.11-16.28.18:551][117]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2024.11.11-16.28.18:551][117]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2024.11.11-16.28.18:551][117]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2024.11.11-16.28.18:552][117]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2024.11.11-16.28.18:553][117]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2024.11.11-16.28.18:553][117]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2024.11.11-16.28.18:553][117]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2024.11.11-16.28.18:553][117]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2024.11.11-16.28.18:553][117]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2024.11.11-16.28.18:553][117]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2024.11.11-16.28.18:554][117]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2024.11.11-16.28.18:554][117]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2024.11.11-16.28.18:554][117]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2024.11.11-16.28.18:554][117]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2024.11.11-16.28.18:554][117]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2024.11.11-16.28.18:554][117]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2024.11.11-16.28.18:554][117]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2024.11.11-16.28.18:554][117]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2024.11.11-16.28.18:554][117]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2024.11.11-16.28.18:555][117]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2024.11.11-16.28.18:555][117]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2024.11.11-16.28.18:555][117]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2024.11.11-16.28.18:555][117]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2024.11.11-16.28.18:556][117]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2024.11.11-16.28.18:558][117]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2024.11.11-16.28.18:558][117]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2024.11.11-16.28.18:559][117]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2024.11.11-16.28.18:559][117]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2024.11.11-16.28.18:559][117]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2024.11.11-16.28.18:559][117]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2024.11.11-16.28.18:559][117]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2024.11.11-16.28.20:410][117]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2024.11.11-16.28.20:410][117]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2024.11.11-16.28.20:410][117]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2024.11.11-16.28.20:410][117]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2024.11.11-16.28.20:410][117]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2024.11.11-16.28.20:411][117]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2024.11.11-16.28.20:412][117]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2024.11.11-16.28.20:413][117]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2024.11.11-16.28.20:414][117]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2024.11.11-16.28.20:415][117]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2024.11.11-16.28.20:415][117]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2024.11.11-16.28.20:416][117]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2024.11.11-16.28.20:416][117]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2024.11.11-16.28.20:417][117]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2024.11.11-16.28.20:417][117]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2024.11.11-16.28.20:417][117]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2024.11.11-16.28.20:417][117]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2024.11.11-16.28.20:417][117]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2024.11.11-16.28.20:417][117]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2024.11.11-16.28.20:419][117]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2024.11.11-16.28.20:420][117]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2024.11.11-16.28.20:420][117]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2024.11.11-16.28.20:421][117]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2024.11.11-16.28.20:465][117]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2024.11.11-16.28.20:466][117]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2024.11.11-16.28.20:467][117]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2024.11.11-16.28.20:469][117]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2024.11.11-16.28.20:469][117]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2024.11.11-16.28.20:470][117]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2024.11.11-16.28.20:470][117]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2024.11.11-16.28.20:470][117]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2024.11.11-16.28.20:474][117]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2024.11.11-16.28.20:474][117]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2024.11.11-16.28.20:474][117]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2024.11.11-16.28.20:492][117]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2024.11.11-16.28.20:493][117]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2024.11.11-16.28.20:496][117]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2024.11.11-16.28.20:497][117]LogModuleManager: Shutting down and abandoning module DesktopPlatform (451)
+[2024.11.11-16.28.20:498][117]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2024.11.11-16.28.20:498][117]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2024.11.11-16.28.20:499][117]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2024.11.11-16.28.20:499][117]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2024.11.11-16.28.20:499][117]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2024.11.11-16.28.20:499][117]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2024.11.11-16.28.20:500][117]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2024.11.11-16.28.20:500][117]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2024.11.11-16.28.20:500][117]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2024.11.11-16.28.20:500][117]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2024.11.11-16.28.20:501][117]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2024.11.11-16.28.20:501][117]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2024.11.11-16.28.20:501][117]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2024.11.11-16.28.20:501][117]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2024.11.11-16.28.20:501][117]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2024.11.11-16.28.20:501][117]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2024.11.11-16.28.20:502][117]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2024.11.11-16.28.20:503][117]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2024.11.11-16.28.20:503][117]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2024.11.11-16.28.20:503][117]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2024.11.11-16.28.20:508][117]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2024.11.11-16.28.20:753][117]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2024.11.11-16.28.20:753][117]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2024.11.11-16.28.20:754][117]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2024.11.11-16.28.20:754][117]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2024.11.11-16.28.20:754][117]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2024.11.11-16.28.20:755][117]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2024.11.11-16.28.20:755][117]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2024.11.11-16.28.20:755][117]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2024.11.11-16.28.20:755][117]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2024.11.11-16.28.20:755][117]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2024.11.11-16.28.20:755][117]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2024.11.11-16.28.20:755][117]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2024.11.11-16.28.20:755][117]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2024.11.11-16.28.20:755][117]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2024.11.11-16.28.20:755][117]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2024.11.11-16.28.20:757][117]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2024.11.11-16.28.20:757][117]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2024.11.11-16.28.20:757][117]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2024.11.11-16.28.20:757][117]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2024.11.11-16.28.20:757][117]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2024.11.11-16.28.20:757][117]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2024.11.11-16.28.20:757][117]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2024.11.11-16.28.20:757][117]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2024.11.11-16.28.20:757][117]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2024.11.11-16.28.20:757][117]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2024.11.11-16.28.20:757][117]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2024.11.11-16.28.20:757][117]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2024.11.11-16.28.20:757][117]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2024.11.11-16.28.20:757][117]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2024.11.11-16.28.20:757][117]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2024.11.11-16.28.20:757][117]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2024.11.11-16.28.20:757][117]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2024.11.11-16.28.20:757][117]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2024.11.11-16.28.20:758][117]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2024.11.11-16.28.20:758][117]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2024.11.11-16.28.20:758][117]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2024.11.11-16.28.20:760][117]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2024.11.11-16.28.20:761][117]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2024.11.11-16.28.20:762][117]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2024.11.11-16.28.20:762][117]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2024.11.11-16.28.20:762][117]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2024.11.11-16.28.20:762][117]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2024.11.11-16.28.20:762][117]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2024.11.11-16.28.20:762][117]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2024.11.11-16.28.20:763][117]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2024.11.11-16.28.20:765][117]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2024.11.11-16.28.20:767][117]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2024.11.11-16.28.20:767][117]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2024.11.11-16.28.20:767][117]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2024.11.11-16.28.20:768][117]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2024.11.11-16.28.20:768][117]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2024.11.11-16.28.20:768][117]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2024.11.11-16.28.20:769][117]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2024.11.11-16.28.20:769][117]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2024.11.11-16.28.20:769][117]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2024.11.11-16.28.20:770][117]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2024.11.11-16.28.20:770][117]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2024.11.11-16.28.20:770][117]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2024.11.11-16.28.20:770][117]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2024.11.11-16.28.20:770][117]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2024.11.11-16.28.20:770][117]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2024.11.11-16.28.20:770][117]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2024.11.11-16.28.20:871][117]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2024.11.11-16.28.20:974][117]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2024.11.11-16.28.20:974][117]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2024.11.11-16.28.20:974][117]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2024.11.11-16.28.20:975][117]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2024.11.11-16.28.20:975][117]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2024.11.11-16.28.20:977][117]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.11.11-16.28.20:977][117]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2024.11.11-16.28.20:977][117]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2024.11.11-16.28.20:977][117]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2024.11.11-16.28.20:977][117]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2024.11.11-16.28.20:978][117]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2024.11.11-16.28.20:978][117]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2024.11.11-16.28.20:978][117]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2024.11.11-16.28.20:979][117]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2024.11.11-16.28.20:983][117]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2024.11.11-16.28.20:984][117]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2024.11.11-16.28.20:984][117]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2024.11.11-16.28.20:984][117]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2024.11.11-16.28.20:985][117]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2024.11.11-16.28.20:988][117]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2024.11.11-16.28.20:989][117]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2024.11.11-16.28.20:989][117]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2024.11.11-16.28.20:989][117]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2024.11.11-16.28.20:989][117]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2024.11.11-16.28.20:989][117]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2024.11.11-16.28.20:990][117]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2024.11.11-16.28.20:990][117]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2024.11.11-16.28.20:990][117]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2024.11.11-16.28.20:990][117]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2024.11.11-16.28.20:992][117]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2024.11.11-16.28.20:992][117]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2024.11.11-16.28.20:992][117]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2024.11.11-16.28.20:992][117]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2024.11.11-16.28.20:992][117]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2024.11.11-16.28.20:993][117]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2024.11.11-16.28.20:993][117]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2024.11.11-16.28.20:994][117]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2024.11.11-16.28.20:994][117]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2024.11.11-16.28.20:995][117]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2024.11.11-16.28.20:998][117]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2024.11.11-16.28.20:998][117]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2024.11.11-16.28.21:000][117]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2024.11.11-16.28.21:004][117]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2024.11.11-16.28.21:004][117]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2024.11.11-16.28.21:006][117]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2024.11.11-16.28.21:006][117]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2024.11.11-16.28.21:014][117]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2024.11.11-16.28.21:014][117]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2024.11.11-16.28.21:014][117]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2024.11.11-16.28.21:015][117]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2024.11.11-16.28.21:015][117]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2024.11.11-16.28.21:015][117]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2024.11.11-16.28.21:015][117]LogModuleManager: Shutting down and abandoning module Core (174)
+[2024.11.11-16.28.21:015][117]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2024.11.11-16.28.21:015][117]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2024.11.11-16.28.21:016][117]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2024.11.11-16.28.21:017][117]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2024.11.11-16.28.21:017][117]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2024.11.11-16.28.21:018][117]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2024.11.11-16.28.21:021][117]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2024.11.11-16.28.21:021][117]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2024.11.11-16.28.21:021][117]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2024.11.11-16.28.21:117][117]LogDerivedDataCache: Shutdown
+[2024.11.11-16.28.21:117][117]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2024.11.11-16.28.21:117][117]LogXGEController: Cleaning working directory: C:/Users/pietd/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.11.11-16.28.21:118][117]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2024.11.11-16.28.21:119][117]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2024.11.11-16.28.21:120][117]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2024.11.11-16.28.21:120][117]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2024.11.11-16.28.21:121][117]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2024.11.11-16.28.21:121][117]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2024.11.11-16.28.21:121][117]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2024.11.11-16.28.21:122][117]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2024.11.11-16.28.21:122][117]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2024.11.11-16.28.21:122][117]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2024.11.11-16.28.21:123][117]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2024.11.11-16.28.21:123][117]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2024.11.11-16.28.21:123][117]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2024.11.11-16.28.21:123][117]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2024.11.11-16.28.21:123][117]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2024.11.11-16.28.21:123][117]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2024.11.11-16.28.21:123][117]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2024.11.11-16.28.21:144][117]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2024.11.11-16.28.21:144][117]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2024.11.11-16.28.21:144][117]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2024.11.11-16.28.21:144][117]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2024.11.11-16.28.21:144][117]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2024.11.11-16.28.21:151][117]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2024.11.11-16.28.21:151][117]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2024.11.11-16.28.21:156][117]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2024.11.11-16.28.21:156][117]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2024.11.11-16.28.21:199][117]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2024.11.11-16.28.21:199][117]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2024.11.11-16.28.21:199][117]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2024.11.11-16.28.21:199][117]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2024.11.11-16.28.21:199][117]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2024.11.11-16.28.21:199][117]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2024.11.11-16.28.21:199][117]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2024.11.11-16.28.21:199][117]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2024.11.11-16.28.21:199][117]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2024.11.11-16.28.21:199][117]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2024.11.11-16.28.21:199][117]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2024.11.11-16.28.21:200][117]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2024.11.11-16.28.21:201][117]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2024.11.11-16.28.21:201][117]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2024.11.11-16.28.21:201][117]LogHMD: Freeing OpenVRDLLHandle.
+[2024.11.11-16.28.21:201][117]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2024.11.11-16.28.21:202][117]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2024.11.11-16.28.21:202][117]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2024.11.11-16.28.21:202][117]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2024.11.11-16.28.21:202][117]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2024.11.11-16.28.21:207][117]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2024.11.11-16.28.21:207][117]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2024.11.11-16.28.21:220][117]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2024.11.11-16.28.21:220][117]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2024.11.11-16.28.21:220][117]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E0FEC52-4BF2-D56C-4CAB-8CB78CAA0514%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=6f5b881f45331d87816daf924afe002e%7C5dec2224ee8245e38e0caff7c4780252%7Cd3e8f649-9722-4c6d-b0f1-6f0a0081c516&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2024.11.11-16.28.21:256][117]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2024.11.11-16.28.21:260][117]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2024.11.11-16.28.21:262][117]LogModuleManager: Shutting down and abandoning module Media (45)
+[2024.11.11-16.28.21:268][117]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2024.11.11-16.28.21:269][117]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2024.11.11-16.28.21:269][117]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2024.11.11-16.28.21:271][117]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2024.11.11-16.28.21:272][117]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2024.11.11-16.28.21:274][117]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.11.11-16.28.21:275][117]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2024.11.11-16.28.21:275][117]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2024.11.11-16.28.21:275][117]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2024.11.11-16.28.21:281][117]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2024.11.11-16.28.21:282][117]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2024.11.11-16.28.21:282][117]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2024.11.11-16.28.21:282][117]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2024.11.11-16.28.21:282][117]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2024.11.11-16.28.21:282][117]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2024.11.11-16.28.21:282][117]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2024.11.11-16.28.21:282][117]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2024.11.11-16.28.21:282][117]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2024.11.11-16.28.21:283][117]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2024.11.11-16.28.21:283][117]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2024.11.11-16.28.21:283][117]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2024.11.11-16.28.21:304][117]LogExit: Exiting.
+[2024.11.11-16.28.21:326][117]Log file closed, 11/11/24 17:28:21

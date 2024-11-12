@@ -1,0 +1,16 @@
+﻿  Creating makefile for PongEditor (ini files are newer than makefile)
+  Parsing headers for PongEditor
+    Running UnrealHeaderTool "C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Pong.uproject" "C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\PongEditor\Development\PongEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for PongEditor in 45,6619463 seconds
+  Using Visual Studio 2019 14.40.33807 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 20 processes...
+    [1/6] Pong.init.gen.cpp
+    [2/6] PongGameMode.cpp
+    [3/6] PongGameMode.gen.cpp
+    [4/6] UE4Editor-Pong-0001.lib
+       Creating library C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\UE4Editor-Pong-0001.lib and object C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\UE4Editor-Pong-0001.exp
+    [5/6] UE4Editor-Pong-0001.dll
+       Creating library C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\UE4Editor-Pong-0001.suppressed.lib and object C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\UE4Editor-Pong-0001.suppressed.exp
+    [6/6] PongEditor.target
+  Total time in Parallel executor: 5,94 seconds
+  Total execution time: 58,53 seconds

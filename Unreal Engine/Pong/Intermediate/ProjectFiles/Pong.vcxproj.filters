@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Pong.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8213E626-31B7-4FC5-A27C-0C4E6420F14E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Pong.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PongEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{AE3C6BCC-C34F-4B1D-A1AE-BB92E9225F82}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Pong">
+      <UniqueIdentifier>{FE9B373C-4D94-44BE-BFDE-72807716AAD0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Pong\Ball.cpp">
+      <Filter>Source\Pong</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Pong\Ball.h">
+      <Filter>Source\Pong</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Pong\Boundary.cpp">
+      <Filter>Source\Pong</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Pong\Boundary.h">
+      <Filter>Source\Pong</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Pong\GameHUD.cpp">
+      <Filter>Source\Pong</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Pong\GameHUD.h">
+      <Filter>Source\Pong</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Pong\Paddle.cpp">
+      <Filter>Source\Pong</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Pong\Paddle.h">
+      <Filter>Source\Pong</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Pong\Pong.Build.cs">
+      <Filter>Source\Pong</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Pong\Pong.cpp">
+      <Filter>Source\Pong</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Pong\Pong.h">
+      <Filter>Source\Pong</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Pong\PongGameMode.cpp">
+      <Filter>Source\Pong</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Pong\PongGameMode.h">
+      <Filter>Source\Pong</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

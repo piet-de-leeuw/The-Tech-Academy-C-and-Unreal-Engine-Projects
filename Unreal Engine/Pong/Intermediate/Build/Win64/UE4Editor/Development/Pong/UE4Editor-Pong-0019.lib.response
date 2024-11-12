@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Pong-0019.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\PongEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\Ball.cpp.obj"
+"C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\Boundary.cpp.obj"
+"C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\GameHUD.cpp.obj"
+"C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\Paddle.cpp.obj"
+"C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\Pong.cpp.obj"
+"C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\PongGameMode.cpp.obj"
+"C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\Ball.gen.cpp.obj"
+"C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\Boundary.gen.cpp.obj"
+"C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\GameHUD.gen.cpp.obj"
+"C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\Paddle.gen.cpp.obj"
+"C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\Pong.init.gen.cpp.obj"
+"C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\PongGameMode.gen.cpp.obj"
+"C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\Default.rc2.res"
+/OUT:"C:\Users\pietd\Documents\GameAssets\Unreal Engine\unreal-engine-4-blueprint-cplusplus-integration 4.22\Pong\Intermediate\Build\Win64\UE4Editor\Development\Pong\UE4Editor-Pong-0019.lib"
+/INCLUDE:IMPLEMENT_MODULE_Pong
