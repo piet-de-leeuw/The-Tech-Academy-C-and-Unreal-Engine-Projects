@@ -12,6 +12,9 @@ In this Repository you find some of my C++ and Unreal Engine projects for the te
   - [Simple-Challenges](#simple-challenges)
   - [Operators-Challenges](#operators-challenges)
 - ### Unreal Engine:
+  - [Fundamentals](#fundamentals)
+  - [Blueprint-Fundamentals](#blueprint-fundamentals)
+  - [Pong](#pong)
 
 ___
 
@@ -49,3 +52,16 @@ In this project I worked whit the very basic C++ concepts like: in\output, vasia
 
 ### Operators-Challenges
 This is a project where I explored the moste common C++ operators.
+
+## Unreal Engine:
+
+### Fundamentals:
+In this project i discovert the basics of the Unreal Engine. Things like: camera, lighting, materials, built-in physics, animation, partical effects,
+basic player movment, basic AI movment and sound.
+
+### Blueprint-Fundamentals:
+In this project I learned how to use blueprints to add functionality to a game. for example to create interactable objects.
+
+### Pong:
+In this project I learned how tu use C++ and blueprints together to create a pong game. we used C++ to create base classes and, 
+blueprints that derive from those classes to add functionality. 
