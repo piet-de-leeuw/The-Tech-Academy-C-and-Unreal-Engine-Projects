@@ -1,0 +1,7 @@
+C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\Definitions.CrossTheRoad.h
+C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Source\CrossTheRoad\CrossRoadGameMode.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Inc\CrossTheRoad\CrossRoadGameMode.generated.h

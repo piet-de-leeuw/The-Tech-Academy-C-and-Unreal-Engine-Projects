@@ -1,0 +1,3 @@
+C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Source\CrossTheRoad\CrossTheRoad.Build.cs
+C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Source\CrossTheRoad.Target.cs
+C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Source\CrossTheRoadEditor.Target.cs

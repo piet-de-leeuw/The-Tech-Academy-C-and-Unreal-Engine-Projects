@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CrossTheRoad.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EFB6555A-2189-4DA6-ADE1-E458649CE162}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CrossTheRoad.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CrossTheRoadEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{10DF5228-E1EE-4BE5-A113-D65121BDCD28}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CrossTheRoad">
+      <UniqueIdentifier>{DEF2AF9E-477C-4392-BB49-FF9BDFA258A3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CrossTheRoad\Boundary.cpp">
+      <Filter>Source\CrossTheRoad</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CrossTheRoad\Boundary.h">
+      <Filter>Source\CrossTheRoad</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CrossTheRoad\Car.cpp">
+      <Filter>Source\CrossTheRoad</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CrossTheRoad\Car.h">
+      <Filter>Source\CrossTheRoad</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CrossTheRoad\CrossRoadGameMode.cpp">
+      <Filter>Source\CrossTheRoad</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CrossTheRoad\CrossRoadGameMode.h">
+      <Filter>Source\CrossTheRoad</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\CrossTheRoad\CrossTheRoad.Build.cs">
+      <Filter>Source\CrossTheRoad</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CrossTheRoad\CrossTheRoad.cpp">
+      <Filter>Source\CrossTheRoad</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CrossTheRoad\CrossTheRoad.h">
+      <Filter>Source\CrossTheRoad</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CrossTheRoad\GameHUD.cpp">
+      <Filter>Source\CrossTheRoad</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CrossTheRoad\GameHUD.h">
+      <Filter>Source\CrossTheRoad</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\CrossTheRoad\Goal.h">
+      <Filter>Source\CrossTheRoad</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\CrossTheRoad\Goal.cpp">
+      <Filter>Source\CrossTheRoad</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

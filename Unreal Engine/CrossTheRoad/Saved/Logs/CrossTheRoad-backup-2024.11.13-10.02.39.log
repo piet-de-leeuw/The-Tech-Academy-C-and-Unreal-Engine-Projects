@@ -1,0 +1,1779 @@
+﻿Log file open, 11/13/24 09:35:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CrossTheRoad
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.923150
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i9-12900H, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -AUTH_LOGIN=unused -AUTH_PASSWORD=36087372f6f84d0b9349ee17eb52e8c6 -AUTH_TYPE=exchangecode -epicapp=UE_4.22 -epicenv=Prod -EpicPortal -epicusername=Kolibrie156 -epicuserid=5dec2224ee8245e38e0caff7c4780252 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.11.13-08.35.43:955][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.13-08.35.43:956][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.11.13-08.35.43:956][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.11.13-08.35.43:957][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.11.13-08.35.43:957][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.11.13-08.35.43:957][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.11.13-08.35.43:957][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.13-08.35.43:957][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.13-08.35.43:961][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-08.35.43:961][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.11.13-08.35.43:961][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.11.13-08.35.43:961][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-08.35.43:961][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.11.13-08.35.43:961][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-08.35.43:961][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.11.13-08.35.43:961][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.11.13-08.35.43:961][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.11.13-08.35.43:961][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.11.13-08.35.43:961][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.11.13-08.35.43:961][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.11.13-08.35.43:962][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.11.13-08.35.43:963][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.11.13-08.35.43:963][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.11.13-08.35.43:963][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.11.13-08.35.43:963][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.11.13-08.35.43:963][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.11.13-08.35.43:963][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.11.13-08.35.43:963][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.11.13-08.35.43:963][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-08.35.43:963][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.11.13-08.35.43:963][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.11.13-08.35.43:963][  0]LogInit: Selected Device Profile: [Windows]
+[2024.11.13-08.35.43:963][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.11.13-08.35.43:973][  0]LogHAL: Display: Platform has ~ 16 GB [16851132416 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2024.11.13-08.35.43:973][  0]LogInit: Going up to parent DeviceProfile []
+[2024.11.13-08.35.43:973][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.11.13-08.35.43:973][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.11.13-08.35.43:974][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.13-08.35.43:974][  0]LogInit: Computer: DELEEUW
+[2024.11.13-08.35.43:974][  0]LogInit: User: pietd
+[2024.11.13-08.35.43:974][  0]LogInit: CPU Page size=4096, Cores=14
+[2024.11.13-08.35.43:974][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.11.13-08.35.43:975][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2024.11.13-08.35.43:975][  0]LogMemory: Platform Memory Stats for Windows
+[2024.11.13-08.35.43:975][  0]LogMemory: Process Physical Memory: 101.66 MB used, 101.66 MB peak
+[2024.11.13-08.35.43:975][  0]LogMemory: Process Virtual Memory: 91.54 MB used, 91.54 MB peak
+[2024.11.13-08.35.43:975][  0]LogMemory: Physical Memory: 7817.19 MB used,  8253.30 MB free, 16070.49 MB total
+[2024.11.13-08.35.43:975][  0]LogMemory: Virtual Memory: 4704.25 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2024.11.13-08.35.44:005][  0]LogInit: Using OS detected language (nl-NL).
+[2024.11.13-08.35.44:005][  0]LogInit: Using OS detected locale (nl-NL).
+[2024.11.13-08.35.44:006][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2024.11.13-08.35.44:147][  0]LogInit: Setting process to per monitor DPI aware
+[2024.11.13-08.35.44:175][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.11.13-08.35.44:175][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.11.13-08.35.44:336][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.11.13-08.35.44:336][  0]LogD3D11RHI: D3D11 adapters:
+[2024.11.13-08.35.44:428][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 4060 Laptop GPU' (Feature Level 11_0)
+[2024.11.13-08.35.44:428][  0]LogD3D11RHI:       7971/0/8035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2024.11.13-08.35.44:453][  0]LogD3D11RHI:    1. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2024.11.13-08.35.44:453][  0]LogD3D11RHI:       128/0/8035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2024.11.13-08.35.44:454][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.11.13-08.35.44:454][  0]LogD3D11RHI:       0/0/8035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.11.13-08.35.44:454][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.11.13-08.35.44:461][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.11.13-08.35.44:461][  0]LogD3D11RHI:     GPU DeviceId: 0x28a0 (for the marketing name, search the web for "GPU Device Id")
+[2024.11.13-08.35.44:461][  0]LogWindows: EnumDisplayDevices:
+[2024.11.13-08.35.44:461][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1)
+[2024.11.13-08.35.44:461][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2024.11.13-08.35.44:461][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2024.11.13-08.35.44:462][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2024.11.13-08.35.44:462][  0]LogWindows:    4. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:1)
+[2024.11.13-08.35.44:462][  0]LogWindows:    5. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:0)
+[2024.11.13-08.35.44:462][  0]LogWindows:    6. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:0)
+[2024.11.13-08.35.44:462][  0]LogWindows:    7. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:0)
+[2024.11.13-08.35.44:462][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2024.11.13-08.35.44:462][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 4060 Laptop GPU
+[2024.11.13-08.35.44:462][  0]LogD3D11RHI:   Driver Version: 527.58 (internal:31.0.15.2758, unified:527.58)
+[2024.11.13-08.35.44:462][  0]LogD3D11RHI:      Driver Date: 12-6-2022
+[2024.11.13-08.35.44:462][  0]LogRHI: Texture pool is 5579 MB (70% of 7971 MB)
+[2024.11.13-08.35.44:514][  0]LogD3D11RHI: Async texture creation enabled
+[2024.11.13-08.35.44:517][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.11.13-08.35.44:517][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.11.13-08.35.44:517][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.11.13-08.35.44:531][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2024.11.13-08.35.44:788][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2024.11.13-08.35.44:799][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2024.11.13-08.35.44:811][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2024.11.13-08.35.44:822][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2024.11.13-08.35.44:833][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2024.11.13-08.35.44:844][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2024.11.13-08.35.44:855][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2024.11.13-08.35.44:866][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2024.11.13-08.35.44:872][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2024.11.13-08.35.44:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2024.11.13-08.35.44:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2024.11.13-08.35.44:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2024.11.13-08.35.44:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2024.11.13-08.35.44:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2024.11.13-08.35.44:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2024.11.13-08.35.44:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2024.11.13-08.35.44:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2024.11.13-08.35.44:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2024.11.13-08.35.44:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2024.11.13-08.35.44:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2024.11.13-08.35.44:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2024.11.13-08.35.44:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2024.11.13-08.35.44:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2024.11.13-08.35.44:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2024.11.13-08.35.44:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2024.11.13-08.35.44:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2024.11.13-08.35.44:937][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2024.11.13-08.35.44:938][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2024.11.13-08.35.44:990][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2024.11.13-08.35.44:990][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2024.11.13-08.35.45:010][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2024.11.13-08.35.45:010][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2024.11.13-08.35.45:020][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2024.11.13-08.35.45:030][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2024.11.13-08.35.45:039][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2024.11.13-08.35.45:050][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2024.11.13-08.35.45:084][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2024.11.13-08.35.45:084][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2024.11.13-08.35.45:084][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.11.13-08.35.45:091][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.11.13-08.35.45:131][  0]LogShaderCompilers: Guid format shader working directory is -74 characters bigger than the processId version (../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Intermediate/Shaders/WorkingDirectory/10016/).
+[2024.11.13-08.35.45:131][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/pietd/AppData/Local/Temp/UnrealShaderWorkingDir/F3317FDA4E3F24213A0D31B1859D8352/'.
+[2024.11.13-08.35.45:133][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.11.13-08.35.45:133][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.11.13-08.35.45:133][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.11.13-08.35.45:616][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.11.13-08.35.45:662][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/pietd/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.11.13-08.35.45:662][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/pietd/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2024.11.13-08.35.45:662][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.11.13-08.35.45:662][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.11.13-08.35.45:662][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.11.13-08.35.45:662][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.11.13-08.35.45:674][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.11.13-08.35.45:674][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.11.13-08.35.45:674][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.11.13-08.35.45:687][  0]LogDerivedDataCache: Using Local data cache path C:/Users/pietd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.11.13-08.35.45:687][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.11.13-08.35.45:687][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.11.13-08.35.45:705][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2024.11.13-08.35.45:706][  0]LogSlate: Using FreeType 2.6.0
+[2024.11.13-08.35.45:706][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.11.13-08.35.45:782][  0]LogAssetRegistry: FAssetRegistry took 0.0315 seconds to start up
+[2024.11.13-08.35.46:039][  0]LogInit: Selected Device Profile: [Windows]
+[2024.11.13-08.35.46:142][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.11.13-08.35.46:142][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.11.13-08.35.46:142][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.11.13-08.35.46:142][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.11.13-08.35.46:142][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.11.13-08.35.46:152][  0]LogNetVersion: CrossTheRoad 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3894662119)
+[2024.11.13-08.35.46:429][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.018437 seconds
+[2024.11.13-08.35.46:435][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2024.11.13-08.35.46:435][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2024.11.13-08.35.46:435][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.11.13-08.35.47:101][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.11.13-08.35.47:124][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.11.13-08.35.47:233][  0]SourceControl: Source control is disabled
+[2024.11.13-08.35.47:233][  0]SourceControl: Source control is disabled
+[2024.11.13-08.35.47:235][  0]SourceControl: Source control is disabled
+[2024.11.13-08.35.47:235][  0]SourceControl: Source control is disabled
+[2024.11.13-08.35.47:301][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.11.13-08.35.47:358][  0]LogOcInput: OculusInput pre-init called
+[2024.11.13-08.35.47:925][  0]LogEngine: Initializing Engine...
+[2024.11.13-08.35.47:926][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.11.13-08.35.47:927][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.11.13-08.35.48:071][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.11.13-08.35.48:081][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.11.13-08.35.48:097][  0]LogInit: XAudio2 using 'Luidsprekers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.11.13-08.35.48:557][  0]LogInit: FAudioDevice initialized.
+[2024.11.13-08.35.48:558][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.11.13-08.35.48:603][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/pietd/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.11.13-08.35.48:607][  0]LogInit: Texture streaming: Enabled
+[2024.11.13-08.35.48:622][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.11.13-08.35.48:639][  0]LogInit: Transaction tracking system initialized
+[2024.11.13-08.35.48:660][  0]BlueprintLog: New page: Editor Load
+[2024.11.13-08.35.48:755][  0]LocalizationService: Localization service is disabled
+[2024.11.13-08.35.49:017][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/' took 0.01s
+[2024.11.13-08.35.49:017][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2024.11.13-08.35.49:017][  0]LogCook: Display: Mobile HDR setting 1
+[2024.11.13-08.35.49:173][  0]SourceControl: Source control is disabled
+[2024.11.13-08.35.49:173][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.11.13-08.35.49:174][  0]LightingResults: New page: Lighting Build
+[2024.11.13-08.35.49:176][  0]MapCheck: New page: Map Check
+[2024.11.13-08.35.49:177][  0]LightingResults: New page: Lighting Build
+[2024.11.13-08.35.49:211][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.11.13-08.35.49:266][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2024.11.13-08.35.49:270][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.13-08.35.49:306][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.11.13-08.35.49:306][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.13-08.35.49:306][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,139ms to complete.
+[2024.11.13-08.35.49:306][  0]LogFileHelpers: Loading map 'Template_Default' took 0.133
+[2024.11.13-08.35.49:466][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.13-08.35.49:472][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.13-08.35.49:478][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.13-08.35.49:484][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.13-08.35.49:495][  0]LogCollectionManager: Loaded 0 collections in 0.001394 seconds
+[2024.11.13-08.35.49:555][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Collections/' took 0.01s
+[2024.11.13-08.35.49:555][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Developers/pietd/Collections/' took 0.01s
+[2024.11.13-08.35.49:555][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Collections/' took 0.01s
+[2024.11.13-08.35.49:555][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2024.11.13-08.35.49:566][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2732 classes and 659 folders.
+[2024.11.13-08.35.49:579][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.11.13-08.35.49:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:588][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:589][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:592][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:594][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:595][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:597][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:599][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:600][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:602][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:603][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:604][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:608][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:609][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:611][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:612][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:614][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:615][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:616][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:617][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:618][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:619][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:620][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:621][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:623][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-08.35.49:680][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.11.13-08.35.49:693][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2024.11.13-08.35.50:514][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.11.13-08.35.50:535][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.11.13-08.35.50:537][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.11.13-08.35.50:544][  0]LogSlate: Took 0.000913 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.11.13-08.35.50:656][  0]LogRenderer: Reallocating scene render targets to support 832x428 Format 10 NumSamples 1 (Frame:1).
+[2024.11.13-08.35.50:857][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.11.13-08.35.50:857][  0]LogLoad: (Engine Initialization) Total time: 9.65 seconds
+[2024.11.13-08.35.50:857][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.11.13-08.35.50:900][  0]LogAssetRegistry: Asset discovery search completed in 5.1403 seconds
+[2024.11.13-08.35.50:901][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2024.11.13-08.35.50:901][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2024.11.13-08.35.50:903][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.11.13-08.36.01:456][262]LogEditorViewport: Clicking on Actor (context menu): SphereReflectionCapture (SphereReflectionCapture)
+[2024.11.13-08.36.01:495][262]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.13-08.36.18:196][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.11.13-08.36.23:124][846]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2024.11.13-08.45.01:268][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-08.45.01:359][984]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.13-08.45.01:363][984]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2024.11.13-08.45.01:363][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.13-08.45.01:365][984]PIE: New page: PIE session: Untitled_1 (13 nov. 2024 10:45:01)
+[2024.11.13-08.45.01:379][984]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2024.11.13-08.45.01:383][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003514s)
+[2024.11.13-08.45.01:384][984]LogAIModule: Creating AISystem for world Untitled_1
+[2024.11.13-08.45.01:384][984]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2024.11.13-08.45.01:384][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004915s)
+[2024.11.13-08.45.01:451][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.11.13-08.45.01:464][984]LogInit: XAudio2 using 'Luidsprekers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.11.13-08.45.01:567][984]LogInit: FAudioDevice initialized.
+[2024.11.13-08.45.01:617][984]LogLoad: Game class is 'GameModeBase'
+[2024.11.13-08.45.01:620][984]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2024.11.13-09.45.01
+[2024.11.13-08.45.01:621][984]LogWorld: Bringing up level for play took: 0.001071
+[2024.11.13-08.45.01:649][984]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2024.11.13-08.45.01:652][984]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0,536
+[2024.11.13-08.45.01:653][984]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2024.11.13-08.45.09:974][972]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2024.11.13-08.45.10:003][972]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.13-08.45.12:324][230]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.11.13-08.45.13:805][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-08.45.20:020][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-08.45.29:595][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2024.11.13-08.45.29:595][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.13-08.45.29:628][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.13-08.45.29:629][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2024.11.13-08.45.29:678][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.13-08.45.29:680][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.11.13-08.45.29:717][281]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.11.13-08.45.40:295][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.11.13-08.46.07:281][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-08.46.29:464][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.11.13-08.46.53:806][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-08.47.46:340][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-08.48.04:507][770]LogSlate: Took 0.006070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.13-08.48.28:245][617]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.13-08.48.28:257][617]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/M_Base.M_Base
+[2024.11.13-08.48.28:260][617]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.48.28:630][617]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.48.28:644][617]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.48.28:644][617]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.48.28:690][617]LogSlate: Took 0.007249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.11.13-08.48.30:458][756]MaterialEditorStats: Base pass shader: 107 instructions
+[2024.11.13-08.48.30:458][756]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2024.11.13-08.48.30:458][756]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.48.30:458][756]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.48.39:649][838]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.48.39:661][838]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.48.39:661][838]LogMaterial: Warning: /Engine/Transient.M_Base (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.11.13-08.48.39:661][838]LogMaterial: 	(Node Desaturation) Missing Desaturation input
+[2024.11.13-08.48.39:664][838]MaterialEditorStats: Error: [SM5] (Node Desaturation) Missing Desaturation input
+[2024.11.13-08.48.43:184][250]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.48.43:209][251]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.48.43:209][251]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.48.43:821][296]MaterialEditorStats: Base pass shader: 107 instructions
+[2024.11.13-08.48.43:821][296]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2024.11.13-08.48.43:822][296]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.48.43:822][296]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.49.11:355][553]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.49.11:379][553]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.49.11:379][553]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.49.11:382][553]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.49.11:440][554]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2024.11.13-08.49.11:860][587]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.49.12:160][603]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.49.12:708][637]MaterialEditorStats: Base pass shader: 115 instructions
+[2024.11.13-08.49.12:708][637]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 189 instructions
+[2024.11.13-08.49.12:708][637]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2024.11.13-08.49.12:708][637]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.49.12:708][637]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.13-08.49.17:512][197]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.49.17:535][198]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.49.17:535][198]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.49.18:131][241]MaterialEditorStats: Base pass shader: 107 instructions
+[2024.11.13-08.49.18:131][241]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2024.11.13-08.49.18:131][241]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.49.18:131][241]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.51.50:709][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.11.13-08.51.50:734][903]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Untitled_1_Auto15868BAE84C18D1D74A1CD593FDB0AA90.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2024.11.13-08.51.50:737][903]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.069
+[2024.11.13-08.51.50:737][903]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.069
+[2024.11.13-08.51.50:740][903]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Base] ([1] browsable assets)...
+[2024.11.13-08.51.50:762][903]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Base.M_Base]
+[2024.11.13-08.51.50:762][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Base]
+[2024.11.13-08.51.50:778][903]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/M_Base_Auto1F66A42DF408C73A170817B83516BE63A.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Materials/M_Base_Auto1.uasset'
+[2024.11.13-08.51.50:779][903]LogFileHelpers: Auto-saving content packages took 0.039
+[2024.11.13-08.51.52:441][  1]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.51.52:455][  1]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.51.52:455][  1]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.51.52:455][  1]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2024.11.13-08.51.53:404][ 65]MaterialEditorStats: Base pass shader: 107 instructions
+[2024.11.13-08.51.53:404][ 65]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2024.11.13-08.51.53:404][ 65]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.51.53:404][ 65]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.51.57:897][575]LogSlate: Window 'M_Base' being destroyed
+[2024.11.13-08.52.16:459][794]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2024.11.13-08.52.38:878][477]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.52.38:894][477]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.52.38:894][477]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.52.38:896][477]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2024.11.13-08.52.39:812][569]MaterialEditorStats: Base pass shader: 107 instructions
+[2024.11.13-08.52.39:812][569]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2024.11.13-08.52.39:812][569]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.52.39:812][569]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.52.44:527][125]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.52.44:539][125]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2024.11.13-08.52.44:549][125]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.52.44:549][125]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.52.44:551][125]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2024.11.13-08.52.44:589][125]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.52.44:635][125]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2024.11.13-08.52.44:690][126]LogSlate: Took 0.012876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.11.13-08.52.44:780][135]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.52.45:050][162]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.52.45:605][217]MaterialEditorStats: Base pass shader: 109 instructions
+[2024.11.13-08.52.45:605][217]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2024.11.13-08.52.45:605][217]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.52.45:605][217]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.53.33:855][994]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.53.33:870][994]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.53.33:871][994]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.53.33:901][994]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2024.11.13-08.53.33:907][994]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.53.33:947][995]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2024.11.13-08.53.34:384][ 43]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.53.34:642][ 70]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.53.35:156][122]MaterialEditorStats: Base pass shader: 109 instructions
+[2024.11.13-08.53.35:156][122]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2024.11.13-08.53.35:156][122]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.53.35:156][122]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.53.39:622][657]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.53.39:653][658]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.53.39:653][658]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.53.40:278][728]MaterialEditorStats: Base pass shader: 109 instructions
+[2024.11.13-08.53.40:278][728]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2024.11.13-08.53.40:278][728]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.53.40:278][728]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.54.25:684][167]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.54.25:710][168]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.54.25:710][168]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.54.26:554][265]MaterialEditorStats: Base pass shader: 109 instructions
+[2024.11.13-08.54.26:554][265]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2024.11.13-08.54.26:554][265]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.54.26:554][265]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.54.29:637][634]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.54.29:667][635]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.54.29:667][635]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.54.30:296][705]MaterialEditorStats: Base pass shader: 109 instructions
+[2024.11.13-08.54.30:296][705]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2024.11.13-08.54.30:296][705]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.54.30:296][705]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.56.06:454][317]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.56.06:480][318]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.56.06:480][318]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.56.07:376][418]MaterialEditorStats: Base pass shader: 109 instructions
+[2024.11.13-08.56.07:376][418]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2024.11.13-08.56.07:376][418]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.56.07:376][418]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.56.25:244][559]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.56.25:259][559]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.56.25:259][559]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.56.25:260][559]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.56.25:482][580]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.56.25:692][598]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.56.26:262][659]MaterialEditorStats: Base pass shader: 109 instructions
+[2024.11.13-08.56.26:262][659]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2024.11.13-08.56.26:262][659]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.56.26:262][659]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.56.43:056][673]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.56.43:075][674]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.56.43:075][674]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.56.43:729][740]MaterialEditorStats: Base pass shader: 110 instructions
+[2024.11.13-08.56.43:729][740]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2024.11.13-08.56.43:729][740]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.56.43:729][740]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.56.56:730][294]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.56.56:742][294]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.56.56:769][295]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.56.56:769][295]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.56.57:418][367]MaterialEditorStats: Base pass shader: 111 instructions
+[2024.11.13-08.56.57:418][367]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2024.11.13-08.56.57:418][367]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.56.57:418][367]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.57.21:875][289]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.57.21:890][289]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.57.21:919][290]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.57.21:919][290]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.57.22:776][384]MaterialEditorStats: Base pass shader: 110 instructions
+[2024.11.13-08.57.22:776][384]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2024.11.13-08.57.22:776][384]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.57.22:776][384]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.57.38:603][282]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_0, compiling. 
+[2024.11.13-08.58.26:174][968]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.58.26:195][968]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.58.26:196][968]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.58.26:196][968]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2024.11.13-08.58.26:228][968]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_0, compiling. 
+[2024.11.13-08.58.27:101][ 49]MaterialEditorStats: Base pass shader: 110 instructions
+[2024.11.13-08.58.27:101][ 49]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2024.11.13-08.58.27:101][ 49]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.58.27:101][ 49]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.58.28:480][214]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.58.28:496][214]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2024.11.13-08.58.28:511][214]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.58.28:511][214]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.58.29:263][289]MaterialEditorStats: Base pass shader: 110 instructions
+[2024.11.13-08.58.29:263][289]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2024.11.13-08.58.29:263][289]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.58.29:263][289]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.58.30:717][463]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.58.30:735][463]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2024.11.13-08.58.30:749][463]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.58.30:749][463]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.58.31:377][528]MaterialEditorStats: Base pass shader: 110 instructions
+[2024.11.13-08.58.31:378][528]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2024.11.13-08.58.31:378][528]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.58.31:378][528]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.58.35:249][992]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.58.35:264][992]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2024.11.13-08.58.35:279][992]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.58.35:279][992]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.58.35:292][992]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.13-08.58.35:896][ 56]MaterialEditorStats: Base pass shader: 110 instructions
+[2024.11.13-08.58.35:896][ 56]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2024.11.13-08.58.35:896][ 56]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.58.35:896][ 56]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.58.37:785][282]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_1, compiling. 
+[2024.11.13-08.59.07:886][884]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.59.07:901][884]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_0, compiling. 
+[2024.11.13-08.59.07:915][884]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.59.07:915][884]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.59.07:932][884]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_1, compiling. 
+[2024.11.13-08.59.08:831][973]MaterialEditorStats: Base pass shader: 108 instructions
+[2024.11.13-08.59.08:831][973]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2024.11.13-08.59.08:831][973]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.59.08:831][973]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.59.18:861][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-08.59.25:072][908]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.59.25:092][910]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.59.25:092][910]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.59.25:695][976]MaterialEditorStats: Base pass shader: 109 instructions
+[2024.11.13-08.59.25:695][976]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2024.11.13-08.59.25:695][976]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.59.25:695][976]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.59.43:217][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-08.59.44:662][249]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.59.44:701][250]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.59.44:701][250]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.59.45:270][312]MaterialEditorStats: Base pass shader: 109 instructions
+[2024.11.13-08.59.45:270][312]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2024.11.13-08.59.45:270][312]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.59.45:270][312]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.59.49:079][765]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.59.49:107][766]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.59.49:107][766]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.59.49:696][832]MaterialEditorStats: Base pass shader: 109 instructions
+[2024.11.13-08.59.49:696][832]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2024.11.13-08.59.49:696][832]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-08.59.49:696][832]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-08.59.50:910][977]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_2, compiling. 
+[2024.11.13-08.59.59:820][ 43]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-08.59.59:839][ 43]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_2, compiling. 
+[2024.11.13-08.59.59:854][ 43]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-08.59.59:854][ 43]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-08.59.59:870][ 43]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.00.00:097][ 65]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-09.00.00:364][ 92]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-09.00.00:879][147]MaterialEditorStats: Base pass shader: 109 instructions
+[2024.11.13-09.00.00:879][147]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2024.11.13-09.00.00:879][147]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-09.00.00:879][147]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-09.00.03:118][414]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.00.03:135][415]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-09.00.03:135][415]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-09.00.03:742][480]MaterialEditorStats: Base pass shader: 109 instructions
+[2024.11.13-09.00.03:742][480]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2024.11.13-09.00.03:743][480]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-09.00.03:743][480]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-09.00.09:882][214]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.00.09:897][214]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-09.00.09:897][214]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-09.00.09:899][214]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.00.10:128][234]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-09.00.10:317][251]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-09.00.10:870][309]MaterialEditorStats: Base pass shader: 109 instructions
+[2024.11.13-09.00.10:870][309]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2024.11.13-09.00.10:870][309]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-09.00.10:870][309]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-09.00.21:170][545]LogEditorTransaction: Undo Rename Node
+[2024.11.13-09.00.21:185][545]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.00.21:197][545]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-09.00.21:197][545]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-09.00.21:790][592]MaterialEditorStats: Base pass shader: 109 instructions
+[2024.11.13-09.00.21:790][592]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2024.11.13-09.00.21:790][592]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-09.00.21:790][592]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-09.00.22:331][657]LogEditorTransaction: Undo Material Editor: Convert
+[2024.11.13-09.00.22:334][657]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.00.22:346][657]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.00.22:371][657]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-09.00.22:371][657]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-09.00.22:383][657]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_2, compiling. 
+[2024.11.13-09.00.22:995][720]MaterialEditorStats: Base pass shader: 109 instructions
+[2024.11.13-09.00.22:995][720]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2024.11.13-09.00.22:995][720]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-09.00.22:996][720]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-09.00.26:992][195]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.00.27:019][195]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-09.00.27:019][195]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-09.00.27:033][195]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_2, compiling. 
+[2024.11.13-09.00.27:040][195]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_3, compiling. 
+[2024.11.13-09.00.27:708][260]MaterialEditorStats: Base pass shader: 109 instructions
+[2024.11.13-09.00.27:708][260]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2024.11.13-09.00.27:708][260]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-09.00.27:708][260]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-09.00.28:389][340]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.00.28:418][340]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-09.00.28:418][340]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-09.00.28:431][340]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_3, compiling. 
+[2024.11.13-09.00.28:437][340]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_4, compiling. 
+[2024.11.13-09.00.29:084][404]MaterialEditorStats: Base pass shader: 109 instructions
+[2024.11.13-09.00.29:084][404]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2024.11.13-09.00.29:084][404]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-09.00.29:084][404]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-09.00.33:831][969]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.00.33:856][969]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-09.00.33:856][969]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-09.00.33:871][969]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_4, compiling. 
+[2024.11.13-09.00.33:884][969]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.00.34:090][985]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-09.00.34:367][ 13]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-09.00.34:849][ 65]MaterialEditorStats: Base pass shader: 109 instructions
+[2024.11.13-09.00.34:849][ 65]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2024.11.13-09.00.34:849][ 65]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-09.00.34:849][ 65]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-09.00.40:981][800]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.00.41:006][802]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-09.00.41:006][802]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-09.00.41:581][857]MaterialEditorStats: Base pass shader: 110 instructions
+[2024.11.13-09.00.41:581][857]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2024.11.13-09.00.41:581][857]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-09.00.41:581][857]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-09.00.44:470][200]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.00.44:485][200]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-09.00.44:485][200]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-09.00.44:486][200]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.00.44:718][220]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-09.00.44:908][236]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-09.00.45:455][295]MaterialEditorStats: Base pass shader: 110 instructions
+[2024.11.13-09.00.45:455][295]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2024.11.13-09.00.45:455][295]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-09.00.45:455][295]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-09.00.54:868][424]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.00.54:889][426]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-09.00.54:889][426]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-09.00.55:498][487]MaterialEditorStats: Base pass shader: 108 instructions
+[2024.11.13-09.00.55:498][487]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2024.11.13-09.00.55:498][487]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-09.00.55:498][487]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-09.01.03:386][424]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.01.03:400][424]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-09.01.03:400][424]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-09.01.03:402][424]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.01.03:643][444]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-09.01.03:821][458]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-09.01.04:348][513]MaterialEditorStats: Base pass shader: 108 instructions
+[2024.11.13-09.01.04:348][513]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2024.11.13-09.01.04:348][513]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-09.01.04:348][513]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-09.01.17:012][ 32]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.01.17:033][ 34]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-09.01.17:033][ 34]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-09.01.17:677][ 99]MaterialEditorStats: Base pass shader: 108 instructions
+[2024.11.13-09.01.17:677][ 99]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2024.11.13-09.01.17:677][ 99]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-09.01.17:677][ 99]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-09.01.37:732][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.01.37:831][515]LogMaterialEditor: Saving and Compiling material M_Base
+[2024.11.13-09.01.39:986][515]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.01.40:020][515]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-09.01.40:020][515]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-09.01.40:041][515]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.01.40:058][515]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.01.40:109][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.11.13-09.01.40:118][515]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.11.13-09.01.40:702][515]TextureStreamingBuild: Display: Compiling optional shaders took 0.593 seconds.
+[2024.11.13-09.01.40:746][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.11.13-09.01.42:365][515]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/M_Base3C2E07234083CDA4AFF0B9A335606E04.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Materials/M_Base.uasset'
+[2024.11.13-09.02.24:861][559]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Main.Main
+[2024.11.13-09.02.24:901][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.11.13-09.02.44:416][559]LogSlate: Window 'Save Content' being destroyed
+[2024.11.13-09.02.44:471][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.11.13-09.02.44:479][559]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/MainEF251D9E4371A1FA7C5A9293DA7D37ED.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main.umap'
+[2024.11.13-09.02.44:481][559]LogFileHelpers: Saving map 'Main' took 0.047
+[2024.11.13-09.02.44:483][559]Cmd: MAP LOAD FILE="../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.11.13-09.02.44:483][559]LightingResults: New page: Lighting Build
+[2024.11.13-09.02.44:485][559]LoadErrors: New page: Loading map: Main.umap
+[2024.11.13-09.02.44:486][559]MapCheck: New page: Map Check
+[2024.11.13-09.02.44:486][559]LightingResults: New page: Lighting Build
+[2024.11.13-09.02.44:523][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.11.13-09.02.44:524][559]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.13-09.02.44:524][559]LogAIModule: Creating AISystem for world Main
+[2024.11.13-09.02.44:559][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.11.13-09.02.44:573][559]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.13-09.02.44:573][559]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,134ms to complete.
+[2024.11.13-09.02.44:575][559]LogFileHelpers: Loading map 'Main' took 0.093
+[2024.11.13-09.03.03:341][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.03.04:841][963]LogEditorViewport: Clicking Background
+[2024.11.13-09.03.06:263][133]LogEditorViewport: Clicking Background
+[2024.11.13-09.03.11:375][746]LogEditorViewport: Clicking Background
+[2024.11.13-09.03.11:966][815]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.13-09.03.12:458][872]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.13-09.03.44:134][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.03.46:268][908]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.13-09.03.53:793][809]LogEditorViewport: Clicking Background
+[2024.11.13-09.03.54:648][908]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2024.11.13-09.03.54:660][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.13-09.04.31:889][356]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2024.11.13-09.04.35:631][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.05.08:757][774]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2024.11.13-09.05.12:449][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.05.26:251][868]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.11.13-09.05.26:459][890]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.13-09.05.27:679][ 36]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.13-09.05.29:498][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.05.34:712][874]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.13-09.05.57:851][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.06.04:878][483]LogActorFactory: Actor Factory created Plane
+[2024.11.13-09.06.05:331][534]LogActorFactory: Actor Factory created Plane
+[2024.11.13-09.06.07:678][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.06.17:413][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2024.11.13-09.07.21:617][672]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.13-09.07.27:536][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.13-09.07.36:349][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.08.04:144][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.09.27:839][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.10.04:034][139]LogActorFactory: Actor Factory created Cube
+[2024.11.13-09.10.05:241][283]LogActorFactory: Actor Factory created Cube
+[2024.11.13-09.10.06:690][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.10.15:491][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2024.11.13-09.10.37:755][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2024.11.13-09.10.38:267][204]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2024.11.13-09.10.38:293][204]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.13-09.10.39:046][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2024.11.13-09.10.42:103][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.11.02:933][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.12.24:875][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.11.13-09.12.24:973][933]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Main_Auto2852F889E4E914BDB09F222B155E69658.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Maps/Main_Auto2.umap'
+[2024.11.13-09.12.24:975][933]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.138
+[2024.11.13-09.12.24:975][933]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.138
+[2024.11.13-09.30.47:307][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.30.50:831][439]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.13-09.30.53:130][577]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2024.11.13-09.31.52:758][151]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.11.13-09.31.53:181][175]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.11.13-09.31.53:202][175]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.13-09.32.08:251][ 74]MapCheck: New page: Map Check
+[2024.11.13-09.32.08:277][ 74]LightingResults: New page: Lighting Build - 13 nov. 2024 11:32:08
+[2024.11.13-09.32.08:344][ 74]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.11.13-09.32.08:463][ 74]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.11.13-09.32.08:478][ 74]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.11.13-09.32.09:505][ 74]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.11.13-09.32.09:505][ 74]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10016
+[2024.11.13-09.32.16:639][ 74]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2024.11.13-09.32.16:639][ 74]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.11.13-09.32.16:639][ 74]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.11.13-09.32.16:639][ 74]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.11.13-09.32.16:639][ 74]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.11.13-09.32.16:639][ 74]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.11.13-09.32.16:855][ 74]LogEditorBuildUtils: Build time 0:08
+[2024.11.13-09.32.16:869][ 74]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2024.11.13-09.32.16:876][ 74]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2024.11.13-09.32.16:899][ 75]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2024.11.13-09.32.16:908][ 75]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2024.11.13-09.32.16:963][ 76]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2024.11.13-09.32.16:971][ 76]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2024.11.13-09.32.17:827][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.11.13-09.32.18:717][ 84]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.11.13-09.32.18:747][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.13-09.32.21:803][266]Job is a success!
+[2024.11.13-09.32.21:841][267]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.13-09.32.21:871][267]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2024.11.13-09.32.21:871][267]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2024.11.13-09.32.21:871][267]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2024.11.13-09.32.21:871][267]LogVolumetricLightmapImport:      Bricks at Level
+[2024.11.13-09.32.21:871][267]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2024.11.13-09.32.21:871][267]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2024.11.13-09.32.21:871][267]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2024.11.13-09.32.21:905][267]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 128X64)
+[2024.11.13-09.32.21:905][267]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2024.11.13-09.32.21:905][267]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2024.11.13-09.32.21:905][267]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2024.11.13-09.32.21:905][267]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2024.11.13-09.32.21:905][267]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2024.11.13-09.32.21:905][267]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2024.11.13-09.32.21:905][267]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X64)
+[2024.11.13-09.32.21:935][267]LogStaticLightingSystem: Main_BuiltData storing lightmap data for 3 meshes in 2 LightmapResourceClusters (1.5 Meshes per cluster).
+[2024.11.13-09.32.21:980][267]Lightmass on DELEEUW: 2.92 sec total, 100 ms importing, 7 ms setup, 1.86 sec photons, 767 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 12.0 sec total, 107 ms processing.
+[2024.11.13-09.32.21:981][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.11.13-09.32.21:992][267]LogStaticLightingSystem: Illumination: 13.6 sec (14 ms encoding lightmaps, 6 ms encoding shadowmaps)
+[2024.11.13-09.32.21:992][267]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2024.11.13-09.32.21:992][267]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2024.11.13-09.32.22:646][267]DumpUnbuiltLightIteractions
+[2024.11.13-09.32.22:647][267]Lights with unbuilt interactions: 0
+[2024.11.13-09.32.22:647][267]
+[2024.11.13-09.32.22:647][267]Primitives with unbuilt interactions: 0
+[2024.11.13-09.32.22:661][267]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.13-09.32.22:722][268]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.11.13-09.32.22:723][268]MapCheck: New page: Main - 13 nov. 2024 11:32:22
+[2024.11.13-09.32.22:727][268]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,761ms to complete.
+[2024.11.13-09.32.39:564][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2024.11.13-09.32.53:876][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2024.11.13-09.32.55:616][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.33.06:687][901]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/M_Grass.M_Grass
+[2024.11.13-09.33.06:789][901]LogRenderer: Reallocating scene render targets to support 1068x700 Format 10 NumSamples 1 (Frame:1).
+[2024.11.13-09.33.24:875][982]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.13-09.34.15:761][ 33]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.13-09.34.18:749][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.13-09.34.18:752][207]TextureStreamingBuild: Display: Compiling optional shaders took 0.004 seconds.
+[2024.11.13-09.34.18:785][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.13-09.34.18:795][207]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/M_Grass2624414F4FCEC79FF44183BD2BA5A206.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Materials/M_Grass.uasset'
+[2024.11.13-09.34.21:554][372]LogMaterial: Warning: Material /Game/Materials/M_Base.M_Base needed to have new flag set bUsedWithStaticLighting !
+[2024.11.13-09.34.21:555][372]LogMaterial: Warning: Material /Engine/Transient.M_Base needed to have new flag set bUsedWithStaticLighting !
+[2024.11.13-09.34.21:557][372]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.34.21:586][372]LogShaderCompilers: Display: Shaders left to compile 30
+[2024.11.13-09.34.21:586][372]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-09.34.21:586][372]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.34.22:125][403]LogShaderCompilers: Display: Shaders left to compile 40
+[2024.11.13-09.34.24:555][548]MaterialEditorStats: Base pass shader: 108 instructions
+[2024.11.13-09.34.24:555][548]MaterialEditorStats: Base pass shader with Surface Lightmap: 136 instructions
+[2024.11.13-09.34.24:555][548]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2024.11.13-09.34.24:555][548]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-09.34.24:555][548]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-09.34.31:459][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.34.37:801][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.11.13-09.34.37:804][288]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.11.13-09.34.37:925][288]TextureStreamingBuild: Display: Compiling optional shaders took 0.124 seconds.
+[2024.11.13-09.34.37:958][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.13-09.34.37:960][288]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/M_Grass68C017E7469565F3C53AAA9BE1CF72CB.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Materials/M_Grass.uasset'
+[2024.11.13-09.34.53:826][230]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.13-09.34.57:870][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.11.13-09.34.57:873][469]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.11.13-09.34.57:994][469]TextureStreamingBuild: Display: Compiling optional shaders took 0.123 seconds.
+[2024.11.13-09.34.58:025][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.11.13-09.34.58:038][469]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/M_GrassC572ECA14944F3097E62BB92D6E7C88D.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Materials/M_Grass.uasset'
+[2024.11.13-09.35.00:785][633]LogSlate: Window 'M_Grass' being destroyed
+[2024.11.13-09.35.00:793][633]LogSlate: Window 'M_Grass' being destroyed
+[2024.11.13-09.35.10:884][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.35.16:776][589]LogMaterialEditor: Saving and Compiling material M_Base
+[2024.11.13-09.35.16:795][589]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/M_Base7B4FE348456E5D79B3F17F8145376104.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Materials/M_Base.uasset'
+[2024.11.13-09.35.30:163][390]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/road.road
+[2024.11.13-09.35.47:409][416]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.13-09.36.03:959][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.11.13-09.36.03:963][404]TextureStreamingBuild: Display: Compiling optional shaders took 0.004 seconds.
+[2024.11.13-09.36.03:993][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.11.13-09.36.04:004][404]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/roadF67F2ECC4F876B1B30413D96598250F0.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Materials/road.uasset'
+[2024.11.13-09.36.08:880][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2024.11.13-09.36.21:141][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.37.11:215][429]Cmd: TRANSACTION UNDO
+[2024.11.13-09.37.11:215][429]LogEditorTransaction: Undo Move Actors
+[2024.11.13-09.37.11:237][429]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-09.37.11:279][430]LogShaderCompilers: Display: Shaders left to compile 30
+[2024.11.13-09.37.11:280][430]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-09.37.11:811][462]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.11.13-09.37.12:443][499]MaterialEditorStats: Base pass shader: 108 instructions
+[2024.11.13-09.37.12:443][499]MaterialEditorStats: Base pass shader with Surface Lightmap: 136 instructions
+[2024.11.13-09.37.12:443][499]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2024.11.13-09.37.12:443][499]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2024.11.13-09.37.12:443][499]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.13-09.37.30:217][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2024.11.13-09.37.35:569][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.37.37:659][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.37.39:529][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.38.24:517][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.38.31:961][264]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -70.00,-420.00,1080.00
+[2024.11.13-09.38.33:577][358]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 800.00,10.00,0.00
+[2024.11.13-09.38.35:681][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.38.55:912][684]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.13-09.39.51:248][  3]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.11.13-09.39.56:927][340]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2024.11.13-09.40.07:940][999]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.13-09.40.08:557][ 36]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.13-09.40.09:856][114]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.13-09.40.11:007][183]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.13-09.40.21:258][798]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.11.13-09.40.34:478][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.40.48:586][435]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2024.11.13-09.40.59:411][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.41.13:386][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.41.13:486][926]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.13-09.41.13:493][926]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2024.11.13-09.41.13:494][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.13-09.41.13:494][926]PIE: New page: PIE session: Main (13 nov. 2024 11:41:13)
+[2024.11.13-09.41.13:495][926]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.13-09.41.13:497][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001699s)
+[2024.11.13-09.41.13:497][926]LogAIModule: Creating AISystem for world Main
+[2024.11.13-09.41.13:498][926]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2024.11.13-09.41.13:498][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002688s)
+[2024.11.13-09.41.13:533][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.11.13-09.41.13:542][926]LogInit: XAudio2 using 'Luidsprekers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.11.13-09.41.13:610][926]LogInit: FAudioDevice initialized.
+[2024.11.13-09.41.13:643][926]LogLoad: Game class is 'GameModeBase'
+[2024.11.13-09.41.13:644][926]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.13-10.41.13
+[2024.11.13-09.41.13:645][926]LogWorld: Bringing up level for play took: 0.000663
+[2024.11.13-09.41.13:657][926]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 1,03
+[2024.11.13-09.41.13:658][926]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2024.11.13-09.41.19:716][287]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2024.11.13-09.41.19:716][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.13-09.41.19:753][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.13-09.41.19:753][287]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2024.11.13-09.41.19:798][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.13-09.41.19:801][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.11.13-09.41.19:815][288]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.11.13-09.41.21:899][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-09.43.25:368][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.11.13-09.43.25:437][810]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Main_Auto3ECDC7C3047324F901AF35D831C4C230D.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Maps/Main_Auto3.umap'
+[2024.11.13-09.43.25:440][810]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.105
+[2024.11.13-09.43.25:440][810]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.105
+[2024.11.13-09.43.25:443][810]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/road] ([1] browsable assets)...
+[2024.11.13-09.43.25:443][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/road]
+[2024.11.13-09.43.25:478][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.11.13-09.43.25:483][810]TextureStreamingBuild: Display: Compiling optional shaders took 0.004 seconds.
+[2024.11.13-09.43.25:515][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.11.13-09.43.25:518][810]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/road_Auto3DCC87B0E404C78A0E9357488858F19B1.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Materials/road_Auto3.uasset'
+[2024.11.13-09.43.25:519][810]LogFileHelpers: Auto-saving content packages took 0.077
+[2024.11.13-09.49.08:397][164]LogSlate: Window 'Add C++ Class' being destroyed
+[2024.11.13-09.54.03:425][ 70]Running C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject" -game -rocket -progress
+[2024.11.13-09.54.03:836][ 70]Discovering modules, targets and source code for project...
+[2024.11.13-09.54.09:577][ 70]Binding IntelliSense data...
+[2024.11.13-09.54.11:289][ 70]Binding IntelliSense data... 100%
+[2024.11.13-09.54.11:289][ 70]Writing project files...
+[2024.11.13-09.54.13:510][ 70]Writing project files... 100%
+[2024.11.13-09.54.13:625][ 70]LogHotReload: Recompiling module CrossTheRoad...
+[2024.11.13-09.54.13:646][ 70]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2024.11.13-09.54.13:650][ 70]Candidate modules for hot reload:
+[2024.11.13-09.54.13:650][ 70]  CrossTheRoad
+[2024.11.13-09.54.13:651][ 70]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CrossTheRoad,1449 Win64 Development -TargetType=Editor -Project="C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject" "C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject"  -IgnoreJunk]
+[2024.11.13-09.54.44:501][ 70]Creating makefile for CrossTheRoadEditor (no existing makefile)
+Parsing headers for CrossTheRoadEditor
+  Running UnrealHeaderTool "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\CrossTheRoad.uproject" "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\CrossTheRoadEditor\Development\CrossTheRoadEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for CrossTheRoadEditor in 6,0029425 seconds
+Using Visual Studio 2019 14.40.33807 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Building 9 actions with 20 processes...
+  [1/9] Default.rc2
+  [2/9] SharedPCH.Engine.cpp
+  Detected compiler newer than Visual Studio 2019, please update min version checking in WindowsPlatformCompilerSetup.h
+  [3/9] CrossTheRoad.cpp
+  [4/9] CrossTheRoad.init.gen.cpp
+  [5/9] CrossRoadGameMode.cpp
+  [6/9] CrossRoadGameMode.gen.cpp
+  [7/9] UE4Editor-CrossTheRoad-1449.lib
+     Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-1449.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-1449.exp
+  [8/9] UE4Editor-CrossTheRoad-1449.dll
+     Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-1449.suppressed.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-1449.suppressed.exp
+  [9/9] CrossTheRoadEditor.target
+Total time in Parallel executor: 16,32 seconds
+Total execution time: 30,76 seconds
+
+[2024.11.13-09.54.44:501][ 70]CompilerResultsLog: New page: Compilation - 13 nov. 2024 11:54:44
+[2024.11.13-09.54.44:501][ 70]CompilerResultsLog: Creating makefile for CrossTheRoadEditor (no existing makefile)
+[2024.11.13-09.54.44:501][ 70]CompilerResultsLog: Parsing headers for CrossTheRoadEditor
+[2024.11.13-09.54.44:501][ 70]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\CrossTheRoad.uproject" "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\CrossTheRoadEditor\Development\CrossTheRoadEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2024.11.13-09.54.44:501][ 70]CompilerResultsLog: Reflection code generated for CrossTheRoadEditor in 6,0029425 seconds
+[2024.11.13-09.54.44:501][ 70]CompilerResultsLog: Using Visual Studio 2019 14.40.33807 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2024.11.13-09.54.44:501][ 70]CompilerResultsLog: Building 9 actions with 20 processes...
+[2024.11.13-09.54.44:501][ 70]CompilerResultsLog:   [1/9] Default.rc2
+[2024.11.13-09.54.44:501][ 70]CompilerResultsLog:   [2/9] SharedPCH.Engine.cpp
+[2024.11.13-09.54.44:501][ 70]CompilerResultsLog:   Detected compiler newer than Visual Studio 2019, please update min version checking in WindowsPlatformCompilerSetup.h
+[2024.11.13-09.54.44:501][ 70]CompilerResultsLog:   [3/9] CrossTheRoad.cpp
+[2024.11.13-09.54.44:501][ 70]CompilerResultsLog:   [4/9] CrossTheRoad.init.gen.cpp
+[2024.11.13-09.54.44:503][ 70]CompilerResultsLog:   [5/9] CrossRoadGameMode.cpp
+[2024.11.13-09.54.44:503][ 70]CompilerResultsLog:   [6/9] CrossRoadGameMode.gen.cpp
+[2024.11.13-09.54.44:503][ 70]CompilerResultsLog:   [7/9] UE4Editor-CrossTheRoad-1449.lib
+[2024.11.13-09.54.44:503][ 70]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-1449.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-1449.exp
+[2024.11.13-09.54.44:503][ 70]CompilerResultsLog:   [8/9] UE4Editor-CrossTheRoad-1449.dll
+[2024.11.13-09.54.44:503][ 70]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-1449.suppressed.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-1449.suppressed.exp
+[2024.11.13-09.54.44:503][ 70]CompilerResultsLog:   [9/9] CrossTheRoadEditor.target
+[2024.11.13-09.54.44:503][ 70]CompilerResultsLog: Total time in Parallel executor: 16,32 seconds
+[2024.11.13-09.54.44:503][ 70]CompilerResultsLog: Total execution time: 30,76 seconds
+[2024.11.13-09.54.44:503][ 70]LogMainFrame: MainFrame: Module compiling took 30.858 seconds
+[2024.11.13-09.54.44:505][ 70]Reloading module CrossTheRoad after successful compile.
+[2024.11.13-09.54.44:582][ 70]LogClass: Could not find existing package /Script/CrossTheRoad for HotReload of class CrossRoadGameMode, assuming a new package.
+[2024.11.13-09.54.44:586][ 70]LogContentBrowser: Native class hierarchy updated for 'CrossTheRoad' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2024.11.13-09.54.44:633][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.11.13-09.54.44:645][ 70]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2736 classes and 666 folders.
+[2024.11.13-09.54.44:771][ 70]LogSlate: Window 'Add C++ Class' being destroyed
+[2024.11.13-09.55.50:281][618]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (52.723 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.11.13-09.57.41:653][201]LogVSAccessor: Warning: Cannot add source files as we failed to find 'C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Source/CrossTheRoad/CrossTheRoad.Build.cs' in the solution
+[2024.11.13-09.57.41:654][201]Running C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject" -game -rocket -progress
+[2024.11.13-09.57.41:960][201]Discovering modules, targets and source code for project...
+[2024.11.13-09.57.43:669][201]Binding IntelliSense data...
+[2024.11.13-09.57.44:981][201]Binding IntelliSense data... 100%
+[2024.11.13-09.57.44:982][201]Writing project files...
+[2024.11.13-09.57.46:797][201]Writing project files... 100%
+[2024.11.13-09.57.46:939][201]Candidate modules for hot reload:
+[2024.11.13-09.57.46:939][201]  CrossTheRoad
+[2024.11.13-09.57.46:939][201]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CrossTheRoad,3880 Win64 Development -TargetType=Editor -Project="C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject" "C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject"  -IgnoreJunk]
+[2024.11.13-09.57.55:621][201]CompilerResultsLog: New page: Compilation - 13 nov. 2024 11:57:55
+[2024.11.13-09.57.55:621][201]CompilerResultsLog: Creating makefile for CrossTheRoadEditor (no existing makefile)
+[2024.11.13-09.57.55:621][201]CompilerResultsLog: Parsing headers for CrossTheRoadEditor
+[2024.11.13-09.57.55:621][201]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\CrossTheRoad.uproject" "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\CrossTheRoadEditor\Development\CrossTheRoadEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2024.11.13-09.57.55:621][201]CompilerResultsLog: Reflection code generated for CrossTheRoadEditor in 5,4527162 seconds
+[2024.11.13-09.57.55:621][201]CompilerResultsLog: Using Visual Studio 2019 14.40.33807 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2024.11.13-09.57.55:621][201]CompilerResultsLog: Building 6 actions with 20 processes...
+[2024.11.13-09.57.55:621][201]CompilerResultsLog:   [1/6] Car.cpp
+[2024.11.13-09.57.55:621][201]CompilerResultsLog:   [2/6] CrossTheRoad.init.gen.cpp
+[2024.11.13-09.57.55:621][201]CompilerResultsLog:   [3/6] Car.gen.cpp
+[2024.11.13-09.57.55:621][201]CompilerResultsLog:   [4/6] UE4Editor-CrossTheRoad-3880.lib
+[2024.11.13-09.57.55:621][201]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-3880.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-3880.exp
+[2024.11.13-09.57.55:621][201]CompilerResultsLog:   [5/6] UE4Editor-CrossTheRoad-3880.dll
+[2024.11.13-09.57.55:621][201]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-3880.suppressed.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-3880.suppressed.exp
+[2024.11.13-09.57.55:621][201]CompilerResultsLog:   [6/6] CrossTheRoadEditor.target
+[2024.11.13-09.57.55:621][201]CompilerResultsLog: Total time in Parallel executor: 1,48 seconds
+[2024.11.13-09.57.55:621][201]CompilerResultsLog: Total execution time: 8,59 seconds
+[2024.11.13-09.57.55:621][201]LogMainFrame: MainFrame: Module compiling took 8.689 seconds
+[2024.11.13-09.57.55:661][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.11.13-09.57.55:669][201]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2736 classes and 666 folders.
+[2024.11.13-09.57.55:672][201]Display: HotReload took  8.8s.
+[2024.11.13-09.57.55:673][201]Warning: HotReload operation took  8.8s.
+[2024.11.13-09.57.55:832][201]LogVSAccessor: Couldn't get item operations. Visual Studio may still be initializing.
+[2024.11.13-09.57.55:835][201]LogSlate: Window 'Add C++ Class' being destroyed
+[2024.11.13-09.57.55:890][201]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.57.55:916][202]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.57.56:254][203]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.57.56:592][204]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.57.56:926][205]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.57.57:257][206]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.57.57:597][207]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.57.57:935][208]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.57.58:274][209]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.57.58:603][210]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.57.58:939][211]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.57.59:278][212]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.57.59:618][213]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.57.59:940][214]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.00:274][215]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.00:610][216]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.00:937][217]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.01:273][218]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.01:604][219]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.01:937][220]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.02:274][221]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.02:606][222]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.02:941][223]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.03:276][224]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.03:613][225]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.03:945][226]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.04:280][227]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.04:616][228]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.04:952][229]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.05:285][230]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.05:620][231]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.05:960][232]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.06:296][233]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.06:628][234]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.06:965][235]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.07:297][236]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.07:629][237]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.58.08:341][238]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-09.59.34:991][954]Candidate modules for hot reload:
+[2024.11.13-09.59.34:991][954]  CrossTheRoad
+[2024.11.13-09.59.34:991][954]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CrossTheRoad,146 Win64 Development -TargetType=Editor -Project="C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject" "C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject"  -IgnoreJunk]
+[2024.11.13-09.59.42:850][954]CompilerResultsLog: New page: Compilation - 13 nov. 2024 11:59:42
+[2024.11.13-09.59.42:850][954]CompilerResultsLog: Invalidating makefile for CrossTheRoadEditor (source file added)
+[2024.11.13-09.59.42:850][954]CompilerResultsLog: Parsing headers for CrossTheRoadEditor
+[2024.11.13-09.59.42:850][954]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\CrossTheRoad.uproject" "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\CrossTheRoadEditor\Development\CrossTheRoadEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2024.11.13-09.59.42:850][954]CompilerResultsLog: Reflection code generated for CrossTheRoadEditor in 4,9884782 seconds
+[2024.11.13-09.59.42:850][954]CompilerResultsLog: Using Visual Studio 2019 14.40.33807 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2024.11.13-09.59.42:850][954]CompilerResultsLog: Building 6 actions with 20 processes...
+[2024.11.13-09.59.42:850][954]CompilerResultsLog:   [1/6] Boundary.cpp
+[2024.11.13-09.59.42:850][954]CompilerResultsLog:   [2/6] CrossTheRoad.init.gen.cpp
+[2024.11.13-09.59.42:850][954]CompilerResultsLog:   [3/6] Boundary.gen.cpp
+[2024.11.13-09.59.42:850][954]CompilerResultsLog:   [4/6] UE4Editor-CrossTheRoad-0146.lib
+[2024.11.13-09.59.42:850][954]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-0146.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-0146.exp
+[2024.11.13-09.59.42:850][954]CompilerResultsLog:   [5/6] UE4Editor-CrossTheRoad-0146.dll
+[2024.11.13-09.59.42:850][954]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-0146.suppressed.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-0146.suppressed.exp
+[2024.11.13-09.59.42:850][954]CompilerResultsLog:   [6/6] CrossTheRoadEditor.target
+[2024.11.13-09.59.42:850][954]CompilerResultsLog: Total time in Parallel executor: 1,27 seconds
+[2024.11.13-09.59.42:850][954]CompilerResultsLog: Total execution time: 7,78 seconds
+[2024.11.13-09.59.42:850][954]LogMainFrame: MainFrame: Module compiling took 7.866 seconds
+[2024.11.13-09.59.42:895][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.11.13-09.59.42:904][954]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2736 classes and 666 folders.
+[2024.11.13-09.59.42:908][954]Display: HotReload took  7.9s.
+[2024.11.13-09.59.42:909][954]Warning: HotReload operation took  7.9s.
+[2024.11.13-09.59.43:228][954]LogSlate: Window 'Add C++ Class' being destroyed
+[2024.11.13-10.00.27:923][619]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.11.13-10.00.27:923][619]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2024.11.13-10.00.27:926][619]Candidate modules for hot reload:
+[2024.11.13-10.00.27:926][619]  CrossTheRoad
+[2024.11.13-10.00.27:926][619]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CrossTheRoad,1921 Win64 Development -TargetType=Editor -Project="C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject" "C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject"  -IgnoreJunk]
+[2024.11.13-10.00.38:587][619]CompilerResultsLog: New page: Compilation - 13 nov. 2024 12:00:38
+[2024.11.13-10.00.38:587][619]CompilerResultsLog: Creating makefile for CrossTheRoadEditor (.uproject file is newer)
+[2024.11.13-10.00.38:587][619]CompilerResultsLog: Parsing headers for CrossTheRoadEditor
+[2024.11.13-10.00.38:587][619]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\CrossTheRoad.uproject" "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\CrossTheRoadEditor\Development\CrossTheRoadEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2024.11.13-10.00.38:587][619]CompilerResultsLog: Reflection code generated for CrossTheRoadEditor in 5,4104637 seconds
+[2024.11.13-10.00.38:587][619]CompilerResultsLog: Using Visual Studio 2019 14.40.33807 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2024.11.13-10.00.38:587][619]CompilerResultsLog: Building 6 actions with 20 processes...
+[2024.11.13-10.00.38:587][619]CompilerResultsLog:   [1/6] CrossTheRoad.init.gen.cpp
+[2024.11.13-10.00.38:587][619]CompilerResultsLog:   [2/6] GameHUD.cpp
+[2024.11.13-10.00.38:587][619]CompilerResultsLog:   [3/6] GameHUD.gen.cpp
+[2024.11.13-10.00.38:587][619]CompilerResultsLog:   [4/6] UE4Editor-CrossTheRoad-1921.lib
+[2024.11.13-10.00.38:587][619]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-1921.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-1921.exp
+[2024.11.13-10.00.38:588][619]CompilerResultsLog:   [5/6] UE4Editor-CrossTheRoad-1921.dll
+[2024.11.13-10.00.38:588][619]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-1921.suppressed.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-1921.suppressed.exp
+[2024.11.13-10.00.38:588][619]CompilerResultsLog:   [6/6] CrossTheRoadEditor.target
+[2024.11.13-10.00.38:588][619]CompilerResultsLog: Total time in Parallel executor: 3,55 seconds
+[2024.11.13-10.00.38:588][619]CompilerResultsLog: Total execution time: 10,56 seconds
+[2024.11.13-10.00.38:588][619]LogMainFrame: MainFrame: Module compiling took 10.665 seconds
+[2024.11.13-10.00.38:625][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.11.13-10.00.38:634][619]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2736 classes and 666 folders.
+[2024.11.13-10.00.38:637][619]Display: HotReload took 10.7s.
+[2024.11.13-10.00.38:640][619]Warning: HotReload operation took 10.7s.
+[2024.11.13-10.00.38:993][619]LogSlate: Window 'Add C++ Class' being destroyed
+[2024.11.13-10.01.55:730][575]Candidate modules for hot reload:
+[2024.11.13-10.01.55:731][575]  CrossTheRoad
+[2024.11.13-10.01.55:731][575]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CrossTheRoad,6444 Win64 Development -TargetType=Editor -Project="C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject" "C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject"  -IgnoreJunk]
+[2024.11.13-10.01.55:736][575]Warning: Starting HotReload took  0.0s.
+[2024.11.13-10.02.03:386][ 35]CompilerResultsLog: New page: Compilation - 13 nov. 2024 12:02:03
+[2024.11.13-10.02.03:386][ 35]CompilerResultsLog: Parsing headers for CrossTheRoadEditor
+[2024.11.13-10.02.03:386][ 35]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\CrossTheRoad.uproject" "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\CrossTheRoadEditor\Development\CrossTheRoadEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2024.11.13-10.02.03:386][ 35]CompilerResultsLog: Reflection code generated for CrossTheRoadEditor in 5,7048172 seconds
+[2024.11.13-10.02.03:386][ 35]CompilerResultsLog: Using Visual Studio 2019 14.40.33807 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2024.11.13-10.02.03:386][ 35]CompilerResultsLog: Building 3 actions with 20 processes...
+[2024.11.13-10.02.03:386][ 35]CompilerResultsLog:   [1/3] UE4Editor-CrossTheRoad-6444.lib
+[2024.11.13-10.02.03:386][ 35]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-6444.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-6444.exp
+[2024.11.13-10.02.03:386][ 35]CompilerResultsLog:   [2/3] UE4Editor-CrossTheRoad-6444.dll
+[2024.11.13-10.02.03:386][ 35]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-6444.suppressed.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-6444.suppressed.exp
+[2024.11.13-10.02.03:386][ 35]CompilerResultsLog:   [3/3] CrossTheRoadEditor.target
+[2024.11.13-10.02.03:386][ 35]CompilerResultsLog: Total time in Parallel executor: 0,97 seconds
+[2024.11.13-10.02.03:386][ 35]CompilerResultsLog: Total execution time: 7,56 seconds
+[2024.11.13-10.02.03:386][ 35]LogMainFrame: MainFrame: Module compiling took 7.661 seconds
+[2024.11.13-10.02.03:436][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.13-10.02.03:444][ 35]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2736 classes and 666 folders.
+[2024.11.13-10.02.03:446][ 35]Display: HotReload took  7.7s.
+[2024.11.13-10.02.10:825][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.11.13-10.02.10:899][474]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Main955F10A44279BFA3AD9B88B2437319A6.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main.umap'
+[2024.11.13-10.02.10:929][474]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Main_BuiltDataD695CB684CD1690881A2889E07AA1EB8.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main_BuiltData.uasset'
+[2024.11.13-10.02.13:697][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.11.13-10.02.13:701][636]TextureStreamingBuild: Display: Compiling optional shaders took 0.004 seconds.
+[2024.11.13-10.02.13:733][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.13-10.02.13:736][636]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/roadA0355508479A73EE815F5DB1EE0D4B85.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Materials/road.uasset'
+[2024.11.13-10.02.21:362][822]LogSlate: Window 'Message' being destroyed
+[2024.11.13-10.02.21:894][822]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-10.02.21:952][822]LogShaderCompilers: Display: Shaders left to compile 30
+[2024.11.13-10.02.21:952][822]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.11.13-10.02.21:963][822]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-10.02.21:982][822]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.11.13-10.02.22:037][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.11.13-10.02.22:046][822]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.11.13-10.02.23:060][822]LogShaderCompilers: Display: Shaders left to compile 40
+[2024.11.13-10.02.23:064][822]TextureStreamingBuild: Display: Compiling optional shaders took 1.026 seconds.
+[2024.11.13-10.02.23:109][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.11.13-10.02.28:459][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.11.13-10.02.34:045][132]LogSlate: Window 'Save Content' being destroyed
+[2024.11.13-10.02.34:119][132]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/M_Base2DA6BAA2493AF0B86F57D181E3A58B16.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Materials/M_Base.uasset'
+[2024.11.13-10.02.34:181][132]LogSlate: Window 'CrossTheRoad - Unreal Editor' being destroyed
+[2024.11.13-10.02.34:464][133]Cmd: QUIT_EDITOR
+[2024.11.13-10.02.35:575][133]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2024.11.13-10.02.35:594][133]LogExit: Preparing to exit.
+[2024.11.13-10.02.36:332][133]LogExit: Editor shut down
+[2024.11.13-10.02.36:334][133]LogExit: Transaction tracking system shut down
+[2024.11.13-10.02.36:676][133]LogExit: Object subsystem successfully closed.
+[2024.11.13-10.02.36:728][133]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.11.13-10.02.36:735][133]LogD3D11RHI: Shutdown
+[2024.11.13-10.02.36:735][133]LogD3D11RHI: CleanupD3DDevice
+[2024.11.13-10.02.36:736][133]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.11.13-10.02.36:736][133]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.11.13-10.02.36:737][133]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.11.13-10.02.36:737][133]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.11.13-10.02.36:737][133]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.11.13-10.02.36:737][133]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.11.13-10.02.36:884][133]LogD3D11RHI: ~FD3D11DynamicRHI
+[2024.11.13-10.02.36:938][133]LogModuleManager: Shutting down and abandoning module CrossTheRoad (654)
+[2024.11.13-10.02.36:938][133]LogModuleManager: Shutting down and abandoning module WorldBrowser (652)
+[2024.11.13-10.02.36:938][133]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2024.11.13-10.02.36:938][133]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2024.11.13-10.02.36:938][133]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (646)
+[2024.11.13-10.02.36:939][133]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (644)
+[2024.11.13-10.02.36:939][133]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2024.11.13-10.02.36:939][133]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2024.11.13-10.02.36:942][133]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2024.11.13-10.02.36:942][133]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2024.11.13-10.02.36:942][133]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2024.11.13-10.02.36:943][133]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (632)
+[2024.11.13-10.02.36:943][133]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2024.11.13-10.02.36:943][133]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2024.11.13-10.02.36:944][133]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2024.11.13-10.02.36:945][133]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2024.11.13-10.02.36:945][133]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2024.11.13-10.02.36:945][133]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2024.11.13-10.02.36:945][133]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2024.11.13-10.02.36:945][133]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2024.11.13-10.02.36:945][133]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2024.11.13-10.02.36:945][133]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2024.11.13-10.02.36:946][133]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2024.11.13-10.02.36:946][133]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2024.11.13-10.02.36:946][133]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2024.11.13-10.02.36:947][133]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2024.11.13-10.02.36:947][133]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2024.11.13-10.02.36:947][133]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2024.11.13-10.02.36:949][133]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2024.11.13-10.02.36:949][133]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2024.11.13-10.02.36:949][133]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2024.11.13-10.02.36:949][133]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2024.11.13-10.02.36:949][133]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2024.11.13-10.02.36:949][133]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2024.11.13-10.02.36:949][133]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2024.11.13-10.02.36:949][133]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2024.11.13-10.02.36:950][133]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2024.11.13-10.02.36:950][133]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2024.11.13-10.02.36:951][133]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2024.11.13-10.02.36:951][133]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2024.11.13-10.02.36:951][133]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2024.11.13-10.02.36:951][133]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2024.11.13-10.02.36:951][133]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2024.11.13-10.02.36:951][133]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2024.11.13-10.02.36:951][133]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2024.11.13-10.02.36:951][133]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2024.11.13-10.02.36:951][133]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2024.11.13-10.02.36:951][133]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2024.11.13-10.02.36:951][133]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2024.11.13-10.02.36:951][133]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2024.11.13-10.02.36:951][133]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2024.11.13-10.02.36:951][133]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2024.11.13-10.02.36:951][133]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2024.11.13-10.02.36:951][133]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2024.11.13-10.02.36:951][133]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2024.11.13-10.02.36:951][133]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2024.11.13-10.02.36:951][133]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2024.11.13-10.02.36:952][133]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2024.11.13-10.02.36:953][133]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2024.11.13-10.02.36:954][133]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2024.11.13-10.02.36:955][133]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2024.11.13-10.02.36:955][133]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2024.11.13-10.02.36:955][133]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2024.11.13-10.02.36:955][133]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2024.11.13-10.02.36:955][133]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2024.11.13-10.02.36:955][133]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2024.11.13-10.02.38:455][133]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2024.11.13-10.02.38:455][133]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2024.11.13-10.02.38:455][133]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2024.11.13-10.02.38:455][133]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2024.11.13-10.02.38:455][133]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2024.11.13-10.02.38:455][133]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2024.11.13-10.02.38:457][133]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2024.11.13-10.02.38:457][133]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2024.11.13-10.02.38:458][133]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2024.11.13-10.02.38:459][133]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2024.11.13-10.02.38:459][133]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2024.11.13-10.02.38:459][133]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2024.11.13-10.02.38:459][133]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2024.11.13-10.02.38:459][133]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2024.11.13-10.02.38:459][133]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2024.11.13-10.02.38:459][133]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2024.11.13-10.02.38:460][133]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2024.11.13-10.02.38:460][133]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2024.11.13-10.02.38:460][133]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2024.11.13-10.02.38:460][133]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2024.11.13-10.02.38:461][133]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2024.11.13-10.02.38:461][133]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2024.11.13-10.02.38:461][133]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2024.11.13-10.02.38:505][133]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2024.11.13-10.02.38:506][133]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2024.11.13-10.02.38:507][133]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2024.11.13-10.02.38:509][133]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2024.11.13-10.02.38:509][133]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2024.11.13-10.02.38:509][133]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2024.11.13-10.02.38:510][133]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2024.11.13-10.02.38:511][133]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2024.11.13-10.02.38:512][133]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2024.11.13-10.02.38:512][133]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2024.11.13-10.02.38:512][133]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2024.11.13-10.02.38:514][133]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2024.11.13-10.02.38:514][133]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2024.11.13-10.02.38:515][133]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2024.11.13-10.02.38:515][133]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2024.11.13-10.02.38:516][133]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2024.11.13-10.02.38:516][133]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2024.11.13-10.02.38:516][133]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2024.11.13-10.02.38:516][133]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2024.11.13-10.02.38:516][133]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2024.11.13-10.02.38:517][133]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2024.11.13-10.02.38:517][133]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2024.11.13-10.02.38:517][133]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2024.11.13-10.02.38:518][133]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2024.11.13-10.02.38:518][133]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2024.11.13-10.02.38:518][133]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2024.11.13-10.02.38:518][133]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2024.11.13-10.02.38:518][133]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2024.11.13-10.02.38:518][133]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2024.11.13-10.02.38:518][133]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2024.11.13-10.02.38:519][133]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2024.11.13-10.02.38:519][133]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2024.11.13-10.02.38:519][133]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2024.11.13-10.02.38:519][133]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2024.11.13-10.02.38:519][133]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2024.11.13-10.02.38:523][133]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2024.11.13-10.02.38:706][133]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2024.11.13-10.02.38:706][133]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2024.11.13-10.02.38:707][133]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2024.11.13-10.02.38:707][133]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2024.11.13-10.02.38:707][133]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2024.11.13-10.02.38:708][133]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2024.11.13-10.02.38:708][133]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2024.11.13-10.02.38:708][133]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2024.11.13-10.02.38:708][133]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2024.11.13-10.02.38:708][133]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2024.11.13-10.02.38:708][133]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2024.11.13-10.02.38:708][133]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2024.11.13-10.02.38:708][133]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2024.11.13-10.02.38:708][133]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2024.11.13-10.02.38:709][133]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2024.11.13-10.02.38:709][133]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2024.11.13-10.02.38:710][133]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2024.11.13-10.02.38:710][133]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2024.11.13-10.02.38:710][133]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2024.11.13-10.02.38:710][133]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2024.11.13-10.02.38:710][133]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2024.11.13-10.02.38:710][133]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2024.11.13-10.02.38:710][133]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2024.11.13-10.02.38:710][133]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2024.11.13-10.02.38:710][133]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2024.11.13-10.02.38:711][133]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2024.11.13-10.02.38:711][133]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2024.11.13-10.02.38:711][133]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2024.11.13-10.02.38:711][133]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2024.11.13-10.02.38:711][133]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2024.11.13-10.02.38:711][133]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2024.11.13-10.02.38:711][133]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2024.11.13-10.02.38:711][133]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2024.11.13-10.02.38:711][133]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2024.11.13-10.02.38:711][133]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2024.11.13-10.02.38:711][133]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2024.11.13-10.02.38:713][133]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2024.11.13-10.02.38:714][133]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2024.11.13-10.02.38:714][133]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2024.11.13-10.02.38:714][133]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2024.11.13-10.02.38:714][133]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2024.11.13-10.02.38:714][133]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2024.11.13-10.02.38:714][133]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2024.11.13-10.02.38:714][133]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2024.11.13-10.02.38:715][133]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2024.11.13-10.02.38:716][133]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2024.11.13-10.02.38:717][133]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2024.11.13-10.02.38:717][133]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2024.11.13-10.02.38:717][133]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2024.11.13-10.02.38:717][133]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2024.11.13-10.02.38:717][133]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2024.11.13-10.02.38:717][133]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2024.11.13-10.02.38:717][133]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2024.11.13-10.02.38:717][133]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2024.11.13-10.02.38:717][133]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2024.11.13-10.02.38:718][133]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2024.11.13-10.02.38:718][133]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2024.11.13-10.02.38:718][133]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2024.11.13-10.02.38:718][133]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2024.11.13-10.02.38:719][133]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2024.11.13-10.02.38:719][133]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2024.11.13-10.02.38:719][133]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2024.11.13-10.02.38:820][133]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2024.11.13-10.02.38:921][133]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2024.11.13-10.02.38:921][133]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2024.11.13-10.02.38:921][133]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2024.11.13-10.02.38:921][133]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2024.11.13-10.02.38:921][133]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2024.11.13-10.02.38:922][133]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.11.13-10.02.38:922][133]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2024.11.13-10.02.38:922][133]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2024.11.13-10.02.38:922][133]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2024.11.13-10.02.38:922][133]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2024.11.13-10.02.38:922][133]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2024.11.13-10.02.38:922][133]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2024.11.13-10.02.38:922][133]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2024.11.13-10.02.38:923][133]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2024.11.13-10.02.38:925][133]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2024.11.13-10.02.38:925][133]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2024.11.13-10.02.38:925][133]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2024.11.13-10.02.38:925][133]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2024.11.13-10.02.38:926][133]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2024.11.13-10.02.38:928][133]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2024.11.13-10.02.38:928][133]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2024.11.13-10.02.38:929][133]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2024.11.13-10.02.38:929][133]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2024.11.13-10.02.38:929][133]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2024.11.13-10.02.38:929][133]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2024.11.13-10.02.38:929][133]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2024.11.13-10.02.38:930][133]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2024.11.13-10.02.38:930][133]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2024.11.13-10.02.38:930][133]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2024.11.13-10.02.38:930][133]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2024.11.13-10.02.38:930][133]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2024.11.13-10.02.38:930][133]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2024.11.13-10.02.38:930][133]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2024.11.13-10.02.38:931][133]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2024.11.13-10.02.38:932][133]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2024.11.13-10.02.38:932][133]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2024.11.13-10.02.38:933][133]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2024.11.13-10.02.38:934][133]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2024.11.13-10.02.38:935][133]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2024.11.13-10.02.38:936][133]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2024.11.13-10.02.38:936][133]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2024.11.13-10.02.38:937][133]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2024.11.13-10.02.38:939][133]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2024.11.13-10.02.38:939][133]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2024.11.13-10.02.38:941][133]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2024.11.13-10.02.38:941][133]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2024.11.13-10.02.38:944][133]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2024.11.13-10.02.38:944][133]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2024.11.13-10.02.38:944][133]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2024.11.13-10.02.38:944][133]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2024.11.13-10.02.38:944][133]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2024.11.13-10.02.38:944][133]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2024.11.13-10.02.38:944][133]LogModuleManager: Shutting down and abandoning module Core (174)
+[2024.11.13-10.02.38:944][133]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2024.11.13-10.02.38:944][133]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2024.11.13-10.02.38:944][133]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2024.11.13-10.02.38:945][133]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2024.11.13-10.02.38:945][133]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2024.11.13-10.02.38:945][133]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2024.11.13-10.02.38:946][133]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2024.11.13-10.02.38:946][133]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2024.11.13-10.02.38:947][133]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2024.11.13-10.02.38:995][133]LogDerivedDataCache: Shutdown
+[2024.11.13-10.02.38:995][133]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2024.11.13-10.02.38:995][133]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2024.11.13-10.02.38:996][133]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2024.11.13-10.02.38:996][133]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2024.11.13-10.02.38:997][133]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2024.11.13-10.02.38:997][133]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2024.11.13-10.02.38:998][133]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2024.11.13-10.02.38:998][133]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2024.11.13-10.02.38:998][133]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2024.11.13-10.02.38:998][133]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2024.11.13-10.02.38:998][133]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2024.11.13-10.02.38:999][133]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2024.11.13-10.02.38:999][133]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2024.11.13-10.02.38:999][133]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2024.11.13-10.02.38:999][133]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2024.11.13-10.02.38:999][133]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2024.11.13-10.02.38:999][133]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2024.11.13-10.02.39:000][133]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2024.11.13-10.02.39:010][133]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2024.11.13-10.02.39:010][133]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2024.11.13-10.02.39:011][133]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2024.11.13-10.02.39:011][133]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2024.11.13-10.02.39:011][133]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2024.11.13-10.02.39:017][133]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2024.11.13-10.02.39:017][133]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2024.11.13-10.02.39:021][133]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2024.11.13-10.02.39:021][133]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2024.11.13-10.02.39:060][133]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2024.11.13-10.02.39:060][133]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2024.11.13-10.02.39:060][133]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2024.11.13-10.02.39:060][133]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2024.11.13-10.02.39:060][133]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2024.11.13-10.02.39:060][133]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2024.11.13-10.02.39:060][133]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2024.11.13-10.02.39:060][133]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2024.11.13-10.02.39:060][133]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2024.11.13-10.02.39:060][133]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2024.11.13-10.02.39:060][133]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2024.11.13-10.02.39:060][133]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2024.11.13-10.02.39:061][133]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2024.11.13-10.02.39:061][133]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2024.11.13-10.02.39:061][133]LogHMD: Freeing OpenVRDLLHandle.
+[2024.11.13-10.02.39:061][133]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2024.11.13-10.02.39:061][133]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2024.11.13-10.02.39:061][133]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2024.11.13-10.02.39:061][133]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2024.11.13-10.02.39:061][133]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2024.11.13-10.02.39:063][133]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2024.11.13-10.02.39:063][133]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2024.11.13-10.02.39:077][133]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2024.11.13-10.02.39:077][133]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2024.11.13-10.02.39:077][133]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4C61F9F8-4EC3-994D-335E-CDAA2E3165C3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=6f5b881f45331d87816daf924afe002e%7C5dec2224ee8245e38e0caff7c4780252%7Cd3e8f649-9722-4c6d-b0f1-6f0a0081c516&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2024.11.13-10.02.39:093][133]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2024.11.13-10.02.39:095][133]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2024.11.13-10.02.39:098][133]LogModuleManager: Shutting down and abandoning module Media (45)
+[2024.11.13-10.02.39:105][133]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2024.11.13-10.02.39:105][133]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2024.11.13-10.02.39:105][133]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2024.11.13-10.02.39:106][133]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2024.11.13-10.02.39:106][133]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2024.11.13-10.02.39:108][133]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.11.13-10.02.39:108][133]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2024.11.13-10.02.39:108][133]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2024.11.13-10.02.39:108][133]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2024.11.13-10.02.39:110][133]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2024.11.13-10.02.39:111][133]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2024.11.13-10.02.39:111][133]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2024.11.13-10.02.39:111][133]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2024.11.13-10.02.39:111][133]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2024.11.13-10.02.39:111][133]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2024.11.13-10.02.39:111][133]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2024.11.13-10.02.39:112][133]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2024.11.13-10.02.39:112][133]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2024.11.13-10.02.39:114][133]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2024.11.13-10.02.39:114][133]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2024.11.13-10.02.39:114][133]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2024.11.13-10.02.39:136][133]LogExit: Exiting.
+[2024.11.13-10.02.39:154][133]Log file closed, 11/13/24 11:02:39

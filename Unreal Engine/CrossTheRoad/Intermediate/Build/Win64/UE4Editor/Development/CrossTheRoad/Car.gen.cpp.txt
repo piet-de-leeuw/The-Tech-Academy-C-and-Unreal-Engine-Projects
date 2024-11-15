@@ -1,0 +1,11 @@
+C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\Definitions.CrossTheRoad.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Source\CrossTheRoad/Car.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperSpriteComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4Editor\Inc\Paper2D\PaperSpriteComponent.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Inc\CrossTheRoad\Car.generated.h

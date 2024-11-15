@@ -1,0 +1,18 @@
+﻿  Creating makefile for CrossTheRoadEditor (ini files are newer than makefile)
+  Parsing headers for CrossTheRoadEditor
+    Running UnrealHeaderTool "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\CrossTheRoad.uproject" "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\CrossTheRoadEditor\Development\CrossTheRoadEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for CrossTheRoadEditor in 5,310613 seconds
+  Using Visual Studio 2019 14.40.33807 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 8 actions with 20 processes...
+    [1/8] CrossTheRoad.init.gen.cpp
+    [2/8] Boundary.cpp
+    [3/8] Goal.cpp
+    [4/8] Boundary.gen.cpp
+    [5/8] Goal.gen.cpp
+    [6/8] UE4Editor-CrossTheRoad-0020.lib
+       Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-0020.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-0020.exp
+    [7/8] UE4Editor-CrossTheRoad-0020.dll
+       Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-0020.suppressed.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-0020.suppressed.exp
+    [8/8] CrossTheRoadEditor.target
+  Total time in Parallel executor: 1,35 seconds
+  Total execution time: 8,32 seconds

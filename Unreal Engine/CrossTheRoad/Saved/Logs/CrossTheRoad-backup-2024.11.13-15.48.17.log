@@ -1,0 +1,1099 @@
+﻿Log file open, 11/13/24 16:12:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CrossTheRoad
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.923223
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i9-12900H, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.11.13-15.12.03:851][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.11.13-15.12.03:851][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.11.13-15.12.03:851][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.13-15.12.03:851][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.11.13-15.12.03:851][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2024.11.13-15.12.03:851][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.13-15.12.03:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.11.13-15.12.03:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2024.11.13-15.12.03:853][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.11.13-15.12.03:854][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.11.13-15.12.03:854][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.11.13-15.12.03:854][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.11.13-15.12.03:854][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.11.13-15.12.03:854][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.11.13-15.12.03:854][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.13-15.12.03:854][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.13-15.12.03:859][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-15.12.03:859][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.11.13-15.12.03:859][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.11.13-15.12.03:859][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-15.12.03:859][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.11.13-15.12.03:859][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-15.12.03:859][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.11.13-15.12.03:859][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.11.13-15.12.03:859][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.11.13-15.12.03:859][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.11.13-15.12.03:859][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.11.13-15.12.03:859][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.11.13-15.12.03:860][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.11.13-15.12.03:861][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.11.13-15.12.03:861][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.11.13-15.12.03:861][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.11.13-15.12.03:861][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.11.13-15.12.03:861][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.11.13-15.12.03:861][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.11.13-15.12.03:861][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.11.13-15.12.03:861][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.11.13-15.12.03:861][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-15.12.03:861][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.11.13-15.12.03:861][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.11.13-15.12.03:861][  0]LogInit: Selected Device Profile: [Windows]
+[2024.11.13-15.12.03:861][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.11.13-15.12.03:897][  0]LogHAL: Display: Platform has ~ 16 GB [16851132416 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.11.13-15.12.03:897][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2024.11.13-15.12.03:897][  0]LogInit: Going up to parent DeviceProfile []
+[2024.11.13-15.12.03:897][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-15.12.03:897][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.11.13-15.12.03:897][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.11.13-15.12.03:897][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-15.12.03:897][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.11.13-15.12.03:897][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-15.12.03:897][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.11.13-15.12.03:897][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.11.13-15.12.03:897][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.11.13-15.12.03:898][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.11.13-15.12.03:899][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.11.13-15.12.03:899][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.11.13-15.12.03:899][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.13-15.12.03:899][  0]LogInit: Computer: DELEEUW
+[2024.11.13-15.12.03:899][  0]LogInit: User: pietd
+[2024.11.13-15.12.03:899][  0]LogInit: CPU Page size=4096, Cores=14
+[2024.11.13-15.12.03:899][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.11.13-15.12.03:899][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2024.11.13-15.12.03:899][  0]LogMemory: Platform Memory Stats for Windows
+[2024.11.13-15.12.03:899][  0]LogMemory: Process Physical Memory: 101.20 MB used, 101.20 MB peak
+[2024.11.13-15.12.03:899][  0]LogMemory: Process Virtual Memory: 95.29 MB used, 95.29 MB peak
+[2024.11.13-15.12.03:900][  0]LogMemory: Physical Memory: 11915.75 MB used,  4154.75 MB free, 16070.49 MB total
+[2024.11.13-15.12.03:900][  0]LogMemory: Virtual Memory: 4707.87 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2024.11.13-15.12.03:995][  0]LogInit: Using OS detected language (nl-NL).
+[2024.11.13-15.12.03:995][  0]LogInit: Using OS detected locale (nl-NL).
+[2024.11.13-15.12.03:998][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2024.11.13-15.12.04:189][  0]LogInit: Setting process to per monitor DPI aware
+[2024.11.13-15.12.04:222][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.11.13-15.12.04:222][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.11.13-15.12.04:499][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.11.13-15.12.04:499][  0]LogD3D11RHI: D3D11 adapters:
+[2024.11.13-15.12.04:605][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 4060 Laptop GPU' (Feature Level 11_0)
+[2024.11.13-15.12.04:605][  0]LogD3D11RHI:       7971/0/8035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2024.11.13-15.12.04:631][  0]LogD3D11RHI:    1. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2024.11.13-15.12.04:631][  0]LogD3D11RHI:       128/0/8035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2024.11.13-15.12.04:634][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.11.13-15.12.04:634][  0]LogD3D11RHI:       0/0/8035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.11.13-15.12.04:634][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.11.13-15.12.04:644][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.11.13-15.12.04:644][  0]LogD3D11RHI:     GPU DeviceId: 0x28a0 (for the marketing name, search the web for "GPU Device Id")
+[2024.11.13-15.12.04:644][  0]LogWindows: EnumDisplayDevices:
+[2024.11.13-15.12.04:644][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1)
+[2024.11.13-15.12.04:644][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2024.11.13-15.12.04:644][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2024.11.13-15.12.04:644][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2024.11.13-15.12.04:644][  0]LogWindows:    4. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:1)
+[2024.11.13-15.12.04:645][  0]LogWindows:    5. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:0)
+[2024.11.13-15.12.04:645][  0]LogWindows:    6. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:0)
+[2024.11.13-15.12.04:645][  0]LogWindows:    7. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:0)
+[2024.11.13-15.12.04:645][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2024.11.13-15.12.04:645][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 4060 Laptop GPU
+[2024.11.13-15.12.04:645][  0]LogD3D11RHI:   Driver Version: 527.58 (internal:31.0.15.2758, unified:527.58)
+[2024.11.13-15.12.04:645][  0]LogD3D11RHI:      Driver Date: 12-6-2022
+[2024.11.13-15.12.04:645][  0]LogRHI: Texture pool is 5579 MB (70% of 7971 MB)
+[2024.11.13-15.12.04:701][  0]LogD3D11RHI: Async texture creation enabled
+[2024.11.13-15.12.04:704][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.11.13-15.12.04:705][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.11.13-15.12.04:705][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.11.13-15.12.04:718][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2024.11.13-15.12.04:955][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2024.11.13-15.12.04:966][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2024.11.13-15.12.04:977][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2024.11.13-15.12.04:990][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2024.11.13-15.12.05:009][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2024.11.13-15.12.05:022][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2024.11.13-15.12.05:036][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2024.11.13-15.12.05:048][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2024.11.13-15.12.05:057][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2024.11.13-15.12.05:132][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2024.11.13-15.12.05:132][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2024.11.13-15.12.05:132][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2024.11.13-15.12.05:132][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2024.11.13-15.12.05:132][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2024.11.13-15.12.05:132][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2024.11.13-15.12.05:132][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2024.11.13-15.12.05:132][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2024.11.13-15.12.05:132][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2024.11.13-15.12.05:132][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2024.11.13-15.12.05:132][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2024.11.13-15.12.05:132][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2024.11.13-15.12.05:132][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2024.11.13-15.12.05:132][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2024.11.13-15.12.05:132][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2024.11.13-15.12.05:132][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2024.11.13-15.12.05:132][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2024.11.13-15.12.05:132][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2024.11.13-15.12.05:134][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2024.11.13-15.12.05:189][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2024.11.13-15.12.05:189][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2024.11.13-15.12.05:213][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2024.11.13-15.12.05:213][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2024.11.13-15.12.05:224][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2024.11.13-15.12.05:234][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2024.11.13-15.12.05:244][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2024.11.13-15.12.05:262][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2024.11.13-15.12.05:304][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2024.11.13-15.12.05:304][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2024.11.13-15.12.05:304][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.11.13-15.12.05:312][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.11.13-15.12.05:371][  0]LogShaderCompilers: Guid format shader working directory is -74 characters bigger than the processId version (../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Intermediate/Shaders/WorkingDirectory/27656/).
+[2024.11.13-15.12.05:371][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/pietd/AppData/Local/Temp/UnrealShaderWorkingDir/61269F5A4E465F2693E52DA72E1D7C05/'.
+[2024.11.13-15.12.05:373][  0]LogXGEController: Cleaning working directory: C:/Users/pietd/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.11.13-15.12.05:373][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.11.13-15.12.05:373][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.11.13-15.12.05:373][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.11.13-15.12.05:927][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.11.13-15.12.06:007][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/pietd/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.11.13-15.12.06:007][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/pietd/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2024.11.13-15.12.06:007][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.11.13-15.12.06:007][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.11.13-15.12.06:007][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.11.13-15.12.06:007][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.11.13-15.12.06:019][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.11.13-15.12.06:020][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.11.13-15.12.06:020][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.11.13-15.12.06:032][  0]LogDerivedDataCache: Using Local data cache path C:/Users/pietd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.11.13-15.12.06:032][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.11.13-15.12.06:032][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.11.13-15.12.06:050][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2024.11.13-15.12.06:051][  0]LogSlate: Using FreeType 2.6.0
+[2024.11.13-15.12.06:052][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.11.13-15.12.06:142][  0]LogAssetRegistry: FAssetRegistry took 0.0320 seconds to start up
+[2024.11.13-15.12.06:418][  0]LogInit: Selected Device Profile: [Windows]
+[2024.11.13-15.12.06:548][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.11.13-15.12.06:548][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.11.13-15.12.06:548][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.11.13-15.12.06:548][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.11.13-15.12.06:548][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.11.13-15.12.06:557][  0]LogNetVersion: CrossTheRoad 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3894662119)
+[2024.11.13-15.12.06:914][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.041192 seconds
+[2024.11.13-15.12.06:918][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2024.11.13-15.12.06:918][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2024.11.13-15.12.06:918][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.11.13-15.12.08:186][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.11.13-15.12.08:201][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.11.13-15.12.08:347][  0]SourceControl: Source control is disabled
+[2024.11.13-15.12.08:347][  0]SourceControl: Source control is disabled
+[2024.11.13-15.12.08:353][  0]SourceControl: Source control is disabled
+[2024.11.13-15.12.08:356][  0]SourceControl: Source control is disabled
+[2024.11.13-15.12.08:456][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.11.13-15.12.08:525][  0]LogOcInput: OculusInput pre-init called
+[2024.11.13-15.12.09:150][  0]LogEngine: Initializing Engine...
+[2024.11.13-15.12.09:151][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.11.13-15.12.09:152][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.11.13-15.12.09:312][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.11.13-15.12.09:329][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.11.13-15.12.09:342][  0]LogInit: XAudio2 using 'Luidsprekers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.11.13-15.12.09:860][  0]LogInit: FAudioDevice initialized.
+[2024.11.13-15.12.09:860][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.11.13-15.12.09:899][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/pietd/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.11.13-15.12.09:904][  0]LogInit: Texture streaming: Enabled
+[2024.11.13-15.12.09:920][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.11.13-15.12.09:921][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={4C812DF2-4799-F002-2615-9A836D23ECB9}
+[2024.11.13-15.12.09:945][  0]LogInit: Transaction tracking system initialized
+[2024.11.13-15.12.09:975][  0]BlueprintLog: New page: Editor Load
+[2024.11.13-15.12.10:080][  0]LocalizationService: Localization service is disabled
+[2024.11.13-15.12.10:339][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/' took 0.01s
+[2024.11.13-15.12.10:339][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2024.11.13-15.12.10:339][  0]LogCook: Display: Mobile HDR setting 1
+[2024.11.13-15.12.10:566][  0]SourceControl: Source control is disabled
+[2024.11.13-15.12.10:673][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.11.13-15.12.37:185][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2024.11.13-15.12.45:521][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2024.11.13-15.12.45:563][  0]Cmd: MAP LOAD FILE="../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.11.13-15.12.45:563][  0]LightingResults: New page: Lighting Build
+[2024.11.13-15.12.45:566][  0]MapCheck: New page: Map Check
+[2024.11.13-15.12.45:566][  0]LightingResults: New page: Lighting Build
+[2024.11.13-15.12.45:627][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.11.13-15.12.45:672][  0]LogLinker: Warning: Can't find file '/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite'
+[2024.11.13-15.12.45:673][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite' while loading NULL.
+[2024.11.13-15.12.45:673][  0]LogLinker: Warning: Can't find file '/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite'
+[2024.11.13-15.12.45:673][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite' while loading NULL.
+[2024.11.13-15.12.45:673][  0]LogLinker: Warning: Can't find file '/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite'
+[2024.11.13-15.12.45:673][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite' while loading NULL.
+[2024.11.13-15.12.45:673][  0]LogLinker: Warning: Can't find file '/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite'
+[2024.11.13-15.12.45:674][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite' while loading NULL.
+[2024.11.13-15.12.45:674][  0]LogLinker: Warning: Can't find file '/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite'
+[2024.11.13-15.12.45:674][  0]LoadErrors: Failed to load /Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite.16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite Referenced by Sprite
+[2024.11.13-15.12.45:674][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite' while loading NULL.
+[2024.11.13-15.12.45:702][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2024.11.13-15.12.45:702][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2024.11.13-15.12.45:702][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 128X64)
+[2024.11.13-15.12.45:702][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2024.11.13-15.12.45:702][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2024.11.13-15.12.45:702][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2024.11.13-15.12.45:703][  0]LogAIModule: Creating AISystem for world Main
+[2024.11.13-15.12.45:707][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.13-15.12.45:753][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.11.13-15.12.45:753][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.13-15.12.45:754][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,194ms to complete.
+[2024.11.13-15.12.45:754][  0]LogFileHelpers: Loading map 'Main' took 0.190
+[2024.11.13-15.12.45:813][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.13-15.12.45:820][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.13-15.12.45:826][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.13-15.12.45:832][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.13-15.12.45:839][  0]LogCollectionManager: Loaded 0 collections in 0.001516 seconds
+[2024.11.13-15.12.45:857][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Collections/' took 0.01s
+[2024.11.13-15.12.45:857][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Developers/pietd/Collections/' took 0.00s
+[2024.11.13-15.12.45:857][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Collections/' took 0.00s
+[2024.11.13-15.12.45:857][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2024.11.13-15.12.45:866][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2736 classes and 661 folders.
+[2024.11.13-15.12.45:875][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.11.13-15.12.45:879][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:880][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:881][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:883][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:884][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:885][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:888][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:890][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:891][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:891][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:894][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:896][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:897][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:898][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:899][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:900][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:901][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:902][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:903][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:904][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:905][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:906][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:907][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.13-15.12.45:974][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2024.11.13-15.12.45:983][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2024.11.13-15.12.46:851][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.11.13-15.12.46:891][  0]LogSlate: Took 0.000527 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.11.13-15.12.46:908][  0]LogSlate: Took 0.001383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.11.13-15.12.46:964][  0]LogRenderer: Reallocating scene render targets to support 832x428 Format 10 NumSamples 1 (Frame:1).
+[2024.11.13-15.12.47:014][  0]LogSlate: Took 0.000828 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.13-15.12.47:100][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2024.11.13-15.12.47:100][  0]LogLoad: (Engine Initialization) Total time: 46.41 seconds
+[2024.11.13-15.12.47:100][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.11.13-15.12.47:143][  0]LogAssetRegistry: Asset discovery search completed in 41.0233 seconds
+[2024.11.13-15.12.47:145][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2024.11.13-15.12.47:145][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2024.11.13-15.12.47:153][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.11.13-15.12.47:163][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.13-15.12.48:134][ 57]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.13-15.12.59:350][555]LogSlate: Window 'Message Log' being destroyed
+[2024.11.13-15.12.59:357][555]LogSlate: Window 'Message Log' being destroyed
+[2024.11.13-15.13.10:337][214]LogEditorViewport: Clicking on Actor (LMB): BP_Player_C (BP_Player)
+[2024.11.13-15.13.12:603][348]Cmd: DELETE
+[2024.11.13-15.13.12:603][348]Cmd: ACTOR DELETE
+[2024.11.13-15.13.12:607][348]LogEditorActor: Deleted Actor: BP_Player_C
+[2024.11.13-15.13.12:655][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.11.13-15.13.12:655][348]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2024.11.13-15.13.15:196][500]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.13-15.13.16:920][602]MapCheck: New page: Map Check
+[2024.11.13-15.13.16:934][602]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.13-15.13.16:942][602]LightingResults: New page: Lighting Build - 13 nov. 2024 17:13:16
+[2024.11.13-15.13.16:974][602]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.11.13-15.13.17:035][602]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.11.13-15.13.17:047][602]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.11.13-15.13.17:567][602]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.11.13-15.13.17:567][602]LogSwarmInterface: [TryOpenConnection] Local Process ID is 27656
+[2024.11.13-15.13.24:979][602]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2024.11.13-15.13.24:979][602]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.11.13-15.13.24:979][602]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.11.13-15.13.24:979][602]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.11.13-15.13.24:979][602]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.11.13-15.13.24:979][602]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.11.13-15.13.25:265][602]LogEditorBuildUtils: Build time 0:08
+[2024.11.13-15.13.25:380][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.11.13-15.13.26:660][665]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2024.11.13-15.13.26:855][665]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2024.11.13-15.13.28:825][748]Job is a success!
+[2024.11.13-15.13.28:887][750]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2024.11.13-15.13.28:887][750]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2024.11.13-15.13.28:887][750]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2024.11.13-15.13.28:887][750]LogVolumetricLightmapImport:      Bricks at Level
+[2024.11.13-15.13.28:887][750]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2024.11.13-15.13.28:887][750]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2024.11.13-15.13.28:887][750]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2024.11.13-15.13.28:932][750]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2024.11.13-15.13.28:933][750]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2024.11.13-15.13.28:933][750]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2024.11.13-15.13.28:933][750]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2024.11.13-15.13.28:933][750]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2024.11.13-15.13.28:933][750]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2024.11.13-15.13.28:933][750]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2024.11.13-15.13.28:933][750]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X64)
+[2024.11.13-15.13.28:965][750]LogStaticLightingSystem: Main_BuiltData storing lightmap data for 5 meshes in 2 LightmapResourceClusters (2.5 Meshes per cluster).
+[2024.11.13-15.13.29:008][750]Lightmass on DELEEUW: 2.85 sec total, 85 ms importing, 7 ms setup, 1.85 sec photons, 801 ms processing, 0 ms extra exporting [5/5 mappings]. Threads: 12.6 sec total, 170 ms processing.
+[2024.11.13-15.13.29:012][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.11.13-15.13.29:021][750]LogStaticLightingSystem: Illumination: 12.0 sec (22 ms encoding lightmaps, 12 ms encoding shadowmaps)
+[2024.11.13-15.13.29:021][750]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 4 textures
+[2024.11.13-15.13.29:021][750]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2024.11.13-15.13.29:994][750]DumpUnbuiltLightIteractions
+[2024.11.13-15.13.29:994][750]Lights with unbuilt interactions: 0
+[2024.11.13-15.13.29:994][750]
+[2024.11.13-15.13.29:994][750]Primitives with unbuilt interactions: 0
+[2024.11.13-15.13.30:003][750]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.13-15.13.30:061][751]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.11.13-15.13.30:062][751]MapCheck: New page: Main - 13 nov. 2024 17:13:30
+[2024.11.13-15.13.30:062][751]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,469ms to complete.
+[2024.11.13-15.13.30:349][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-15.13.31:180][818]LogSlate: Window 'BP_Player' being destroyed
+[2024.11.13-15.13.33:181][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-15.13.33:368][944]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2024.11.13-15.13.33:642][944]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.11.13-15.13.36:110][ 91]LogSlate: Window 'BP_Player' being destroyed
+[2024.11.13-15.13.36:728][128]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.11.13-15.13.41:434][408]LogRenderer: Reallocating scene render targets to support 912x532 Format 10 NumSamples 1 (Frame:1).
+[2024.11.13-15.14.46:870][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-15.14.46:936][144]BlueprintLog: New page: Compile BP_Player
+[2024.11.13-15.14.47:113][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.11.13-15.14.48:499][225]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_Player3FBBF9924911BF08D0BBA0A24A7F9FD3.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Blueprints/BP_Player.uasset'
+[2024.11.13-15.14.52:853][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.11.13-15.14.52:948][480]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/MainD8C5A0BB4A03684FCC678EA0EFE03B65.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main.umap'
+[2024.11.13-15.14.52:980][480]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Main_BuiltData4CF16E3047FAD5A6E85AFD822B17A601.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main_BuiltData.uasset'
+[2024.11.13-15.15.10:518][527]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Boundary.BP_Boundary
+[2024.11.13-15.15.10:764][527]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2024.11.13-15.16.20:052][675]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.13-15.16.20:079][675]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_Boundary335513014EC7A9E53C2AC0A62674CDDB.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Blueprints/BP_Boundary.uasset'
+[2024.11.13-15.16.22:706][832]BlueprintLog: New page: Compile BP_Boundary
+[2024.11.13-15.16.22:848][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.11.13-15.16.24:128][907]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_Boundary4FA51853497F47D2B90A68BAB67BFB00.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Blueprints/BP_Boundary.uasset'
+[2024.11.13-15.16.36:677][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-15.16.45:598][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-15.17.32:476][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-15.17.53:629][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-15.18.15:215][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-15.19.42:296][175]BlueprintLog: New page: Compile BP_Boundary
+[2024.11.13-15.19.42:503][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.11.13-15.19.43:598][239]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_Boundary31C584D7473DFF9334948786A34D339C.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Blueprints/BP_Boundary.uasset'
+[2024.11.13-15.20.16:540][214]LogEditorViewport: Clicking on Actor (LMB): BP_Boundary_C (BP_Boundary)
+[2024.11.13-15.20.23:544][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-15.20.45:642][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-15.21.01:560][912]Cmd: TRANSACTION UNDO
+[2024.11.13-15.21.01:560][912]LogEditorTransaction: Undo Move Actors
+[2024.11.13-15.21.09:594][389]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.13-15.21.33:778][837]LogEditorViewport: Clicking on Actor (LMB): BP_Boundary_C (BP_Boundary)
+[2024.11.13-15.21.39:726][191]Cmd: TRANSACTION UNDO
+[2024.11.13-15.21.39:726][191]LogEditorTransaction: Undo Move Actors
+[2024.11.13-15.22.06:907][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-15.22.49:509][368]LogEditorViewport: Clicking on Actor (LMB): BP_Boundary_C (BP_Boundary)
+[2024.11.13-15.23.00:015][995]LogEditorViewport: Clicking on Actor (LMB): BP_Boundary_C (BP_Boundary2)
+[2024.11.13-15.23.19:766][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-15.23.29:664][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-15.23.35:043][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-15.23.56:606][368]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Car.BP_Car
+[2024.11.13-15.23.56:832][368]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2024.11.13-15.24.58:145][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.13-15.25.23:115][536]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.13-15.25.23:141][536]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_CarEA556A8C4CE7BA7C9B644FA24CD06F4F.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Blueprints/BP_Car.uasset'
+[2024.11.13-15.25.24:358][608]BlueprintLog: New page: Compile BP_Car
+[2024.11.13-15.25.24:509][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.11.13-15.25.24:987][635]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_Car281611B946FADF48313FA29165321ACF.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Blueprints/BP_Car.uasset'
+[2024.11.13-15.25.29:865][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.11.13-15.25.29:966][923]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/MainB466D6CC4FDA0FB9B04A22BD17918434.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main.umap'
+[2024.11.13-15.25.30:001][923]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Main_BuiltDataA9EDAE34422AFA5DDD9F3C945F3C76FA.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main_BuiltData.uasset'
+[2024.11.13-15.25.52:257][256]BlueprintLog: New page: Compile BP_Boundary
+[2024.11.13-15.25.52:407][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.11.13-15.25.52:966][288]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_Boundary323A9EE44BA8DA5C3A3E7D8B6AC292AF.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Blueprints/BP_Boundary.uasset'
+[2024.11.13-15.26.44:511][377]BlueprintLog: New page: Compile BP_Car
+[2024.11.13-15.26.44:661][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.11.13-15.26.45:417][421]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_CarF9DBD2654375EB0C905823938E333855.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Blueprints/BP_Car.uasset'
+[2024.11.13-15.26.52:501][842]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_Car7E05440F4F8907F374ACCFA33A4387BC.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Blueprints/BP_Car.uasset'
+[2024.11.13-15.26.54:341][952]BlueprintLog: New page: Compile BP_Car
+[2024.11.13-15.26.54:490][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.11.13-15.26.55:234][995]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_Car257B87F744D2EC2335DB00A86FD6FB20.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Blueprints/BP_Car.uasset'
+[2024.11.13-15.27.06:948][694]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_Boundary77A0660649B66B68E5DB50BCF66A646A.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Blueprints/BP_Boundary.uasset'
+[2024.11.13-15.27.10:920][932]BlueprintLog: New page: Compile BP_Boundary
+[2024.11.13-15.27.11:119][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.11.13-15.27.11:732][967]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_Boundary8B2E540B460023597813D9A95B431067.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Blueprints/BP_Boundary.uasset'
+[2024.11.13-15.35.30:093][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.11.13-15.35.30:203][851]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Main_Auto1D018355B4A2167843F66E0957C9CECF2.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Maps/Main_Auto1.umap'
+[2024.11.13-15.35.30:206][851]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.163
+[2024.11.13-15.35.30:206][851]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.163
+[2024.11.13-15.35.30:208][851]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite] ([1] browsable assets)...
+[2024.11.13-15.35.30:215][851]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite.16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite]
+[2024.11.13-15.35.30:215][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite]
+[2024.11.13-15.35.30:225][851]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/16798828-geel-geschilderd-muur-vFD2201E54E52658AA9EF77B22B04B8FD.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite_Auto1.uasset'
+[2024.11.13-15.35.30:225][851]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/16798828-geel-geschilderd-muur-vFD2201E54E52658AA9EF77B22B04B8FD.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite_Auto1.uasset', retrying in .5s...
+[2024.11.13-15.35.30:726][851]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/16798828-geel-geschilderd-muur-vFD2201E54E52658AA9EF77B22B04B8FD.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite_Auto1.uasset', retrying in .5s...
+[2024.11.13-15.35.31:227][851]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/16798828-geel-geschilderd-muur-vFD2201E54E52658AA9EF77B22B04B8FD.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite_Auto1.uasset', retrying in .5s...
+[2024.11.13-15.35.31:728][851]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/16798828-geel-geschilderd-muur-vFD2201E54E52658AA9EF77B22B04B8FD.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite_Auto1.uasset', retrying in .5s...
+[2024.11.13-15.35.32:230][851]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/16798828-geel-geschilderd-muur-vFD2201E54E52658AA9EF77B22B04B8FD.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite_Auto1.uasset', retrying in .5s...
+[2024.11.13-15.35.32:732][851]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/16798828-geel-geschilderd-muur-vFD2201E54E52658AA9EF77B22B04B8FD.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite_Auto1.uasset', retrying in .5s...
+[2024.11.13-15.35.33:233][851]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/16798828-geel-geschilderd-muur-vFD2201E54E52658AA9EF77B22B04B8FD.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite_Auto1.uasset', retrying in .5s...
+[2024.11.13-15.35.33:735][851]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/16798828-geel-geschilderd-muur-vFD2201E54E52658AA9EF77B22B04B8FD.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite_Auto1.uasset', retrying in .5s...
+[2024.11.13-15.35.34:236][851]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/16798828-geel-geschilderd-muur-vFD2201E54E52658AA9EF77B22B04B8FD.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite_Auto1.uasset', retrying in .5s...
+[2024.11.13-15.35.34:737][851]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/16798828-geel-geschilderd-muur-vFD2201E54E52658AA9EF77B22B04B8FD.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite_Auto1.uasset', retrying in .5s...
+[2024.11.13-15.35.35:238][851]LogFileManager: Error: Error moving file '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/16798828-geel-geschilderd-muur-vFD2201E54E52658AA9EF77B22B04B8FD.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite_Auto1.uasset'.
+[2024.11.13-15.35.35:238][851]LogSavePackage: Error: Error saving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite_Auto1.uasset'
+[2024.11.13-15.35.35:238][851]Warning: Error saving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite_Auto1.uasset'
+[2024.11.13-15.45.09:258][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.11.13-15.45.09:360][275]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Main929308B545677ECB139FCD9D06C795F2.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main.umap'
+[2024.11.13-15.45.09:394][275]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Main_BuiltData8EEF3ABF46B63EC07900C8A67D19431A.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main_BuiltData.uasset'
+[2024.11.13-15.48.09:979][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.11.13-15.48.10:082][ 73]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/MainE581456141B9E45E9E75E58DE86A20D7.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main.umap'
+[2024.11.13-15.48.10:113][ 73]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Main_BuiltData2CDA3C9244C9DB1624657A891B658282.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main_BuiltData.uasset'
+[2024.11.13-15.48.11:760][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.11.13-15.48.14:403][168]LogSlate: Window 'Save Content' being destroyed
+[2024.11.13-15.48.14:446][168]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/16798828-geel-geschilderd-muur-vBE3F33384957E7C3C63296BB5AD7D704.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Assets/Sprites/16798828-geel-geschilderd-muur-voor-achtergrond-kleurrijk-of-pastel-kleur-van-beton-behang-gratis-foto_Sprite.uasset'
+[2024.11.13-15.48.14:565][168]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.13-15.48.14:628][168]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.13-15.48.14:686][168]LogSlate: Window 'CrossTheRoad - Unreal Editor' being destroyed
+[2024.11.13-15.48.14:986][169]Cmd: QUIT_EDITOR
+[2024.11.13-15.48.15:141][169]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2024.11.13-15.48.15:155][169]LogExit: Preparing to exit.
+[2024.11.13-15.48.15:466][169]LogExit: Editor shut down
+[2024.11.13-15.48.15:466][169]LogExit: Transaction tracking system shut down
+[2024.11.13-15.48.15:808][169]LogExit: Object subsystem successfully closed.
+[2024.11.13-15.48.15:854][169]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.11.13-15.48.15:860][169]LogD3D11RHI: Shutdown
+[2024.11.13-15.48.15:860][169]LogD3D11RHI: CleanupD3DDevice
+[2024.11.13-15.48.15:862][169]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.11.13-15.48.15:862][169]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.11.13-15.48.15:862][169]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.11.13-15.48.15:862][169]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.11.13-15.48.15:862][169]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.11.13-15.48.15:862][169]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.11.13-15.48.15:993][169]LogD3D11RHI: ~FD3D11DynamicRHI
+[2024.11.13-15.48.16:042][169]LogModuleManager: Shutting down and abandoning module BlueprintGraph (648)
+[2024.11.13-15.48.16:042][169]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (646)
+[2024.11.13-15.48.16:042][169]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (644)
+[2024.11.13-15.48.16:042][169]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2024.11.13-15.48.16:042][169]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2024.11.13-15.48.16:044][169]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2024.11.13-15.48.16:044][169]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2024.11.13-15.48.16:044][169]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2024.11.13-15.48.16:045][169]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2024.11.13-15.48.16:045][169]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2024.11.13-15.48.16:045][169]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2024.11.13-15.48.16:046][169]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2024.11.13-15.48.16:046][169]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2024.11.13-15.48.16:046][169]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2024.11.13-15.48.16:046][169]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2024.11.13-15.48.16:046][169]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2024.11.13-15.48.16:046][169]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2024.11.13-15.48.16:046][169]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2024.11.13-15.48.16:047][169]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2024.11.13-15.48.16:047][169]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2024.11.13-15.48.16:048][169]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2024.11.13-15.48.16:048][169]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2024.11.13-15.48.16:048][169]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2024.11.13-15.48.16:048][169]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2024.11.13-15.48.16:049][169]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2024.11.13-15.48.16:049][169]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2024.11.13-15.48.16:049][169]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2024.11.13-15.48.16:050][169]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2024.11.13-15.48.16:050][169]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2024.11.13-15.48.16:050][169]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2024.11.13-15.48.16:050][169]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2024.11.13-15.48.16:050][169]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2024.11.13-15.48.16:050][169]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2024.11.13-15.48.16:051][169]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2024.11.13-15.48.16:051][169]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2024.11.13-15.48.16:051][169]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2024.11.13-15.48.16:051][169]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2024.11.13-15.48.16:051][169]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2024.11.13-15.48.16:051][169]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2024.11.13-15.48.16:051][169]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2024.11.13-15.48.16:051][169]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2024.11.13-15.48.16:051][169]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2024.11.13-15.48.16:051][169]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2024.11.13-15.48.16:051][169]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2024.11.13-15.48.16:051][169]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2024.11.13-15.48.16:051][169]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2024.11.13-15.48.16:051][169]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2024.11.13-15.48.16:051][169]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2024.11.13-15.48.16:051][169]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2024.11.13-15.48.16:051][169]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2024.11.13-15.48.16:052][169]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2024.11.13-15.48.16:052][169]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2024.11.13-15.48.16:052][169]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2024.11.13-15.48.16:052][169]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2024.11.13-15.48.16:053][169]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2024.11.13-15.48.16:054][169]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2024.11.13-15.48.16:055][169]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2024.11.13-15.48.16:055][169]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2024.11.13-15.48.16:055][169]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2024.11.13-15.48.16:055][169]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2024.11.13-15.48.16:055][169]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2024.11.13-15.48.16:055][169]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2024.11.13-15.48.16:527][169]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2024.11.13-15.48.16:527][169]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2024.11.13-15.48.16:527][169]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2024.11.13-15.48.16:527][169]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2024.11.13-15.48.16:527][169]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2024.11.13-15.48.16:527][169]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2024.11.13-15.48.16:534][169]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2024.11.13-15.48.16:535][169]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2024.11.13-15.48.16:536][169]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2024.11.13-15.48.16:537][169]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2024.11.13-15.48.16:537][169]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2024.11.13-15.48.16:537][169]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2024.11.13-15.48.16:538][169]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2024.11.13-15.48.16:539][169]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2024.11.13-15.48.16:539][169]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2024.11.13-15.48.16:539][169]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2024.11.13-15.48.16:539][169]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2024.11.13-15.48.16:539][169]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2024.11.13-15.48.16:540][169]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2024.11.13-15.48.16:541][169]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2024.11.13-15.48.16:542][169]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2024.11.13-15.48.16:542][169]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2024.11.13-15.48.16:543][169]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2024.11.13-15.48.16:586][169]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2024.11.13-15.48.16:587][169]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2024.11.13-15.48.16:589][169]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2024.11.13-15.48.16:591][169]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2024.11.13-15.48.16:591][169]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2024.11.13-15.48.16:591][169]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2024.11.13-15.48.16:591][169]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2024.11.13-15.48.16:592][169]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2024.11.13-15.48.16:593][169]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2024.11.13-15.48.16:593][169]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2024.11.13-15.48.16:593][169]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2024.11.13-15.48.16:602][169]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2024.11.13-15.48.16:603][169]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2024.11.13-15.48.16:605][169]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2024.11.13-15.48.16:605][169]LogModuleManager: Shutting down and abandoning module DesktopPlatform (451)
+[2024.11.13-15.48.16:605][169]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2024.11.13-15.48.16:606][169]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2024.11.13-15.48.16:607][169]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2024.11.13-15.48.16:607][169]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2024.11.13-15.48.16:607][169]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2024.11.13-15.48.16:607][169]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2024.11.13-15.48.16:608][169]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2024.11.13-15.48.16:608][169]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2024.11.13-15.48.16:608][169]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2024.11.13-15.48.16:609][169]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2024.11.13-15.48.16:609][169]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2024.11.13-15.48.16:609][169]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2024.11.13-15.48.16:609][169]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2024.11.13-15.48.16:609][169]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2024.11.13-15.48.16:609][169]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2024.11.13-15.48.16:610][169]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2024.11.13-15.48.16:610][169]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2024.11.13-15.48.16:610][169]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2024.11.13-15.48.16:611][169]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2024.11.13-15.48.16:611][169]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2024.11.13-15.48.16:615][169]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2024.11.13-15.48.16:800][169]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2024.11.13-15.48.16:801][169]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2024.11.13-15.48.16:801][169]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2024.11.13-15.48.16:802][169]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2024.11.13-15.48.16:802][169]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2024.11.13-15.48.16:803][169]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2024.11.13-15.48.16:803][169]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2024.11.13-15.48.16:803][169]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2024.11.13-15.48.16:803][169]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2024.11.13-15.48.16:803][169]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2024.11.13-15.48.16:803][169]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2024.11.13-15.48.16:803][169]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2024.11.13-15.48.16:803][169]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2024.11.13-15.48.16:803][169]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2024.11.13-15.48.16:803][169]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2024.11.13-15.48.16:804][169]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2024.11.13-15.48.16:804][169]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2024.11.13-15.48.16:804][169]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2024.11.13-15.48.16:804][169]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2024.11.13-15.48.16:804][169]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2024.11.13-15.48.16:805][169]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2024.11.13-15.48.16:805][169]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2024.11.13-15.48.16:805][169]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2024.11.13-15.48.16:805][169]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2024.11.13-15.48.16:805][169]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2024.11.13-15.48.16:805][169]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2024.11.13-15.48.16:805][169]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2024.11.13-15.48.16:805][169]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2024.11.13-15.48.16:806][169]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2024.11.13-15.48.16:806][169]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2024.11.13-15.48.16:806][169]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2024.11.13-15.48.16:806][169]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2024.11.13-15.48.16:806][169]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2024.11.13-15.48.16:806][169]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2024.11.13-15.48.16:806][169]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2024.11.13-15.48.16:806][169]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2024.11.13-15.48.16:808][169]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2024.11.13-15.48.16:808][169]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2024.11.13-15.48.16:808][169]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2024.11.13-15.48.16:809][169]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2024.11.13-15.48.16:809][169]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2024.11.13-15.48.16:809][169]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2024.11.13-15.48.16:809][169]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2024.11.13-15.48.16:809][169]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2024.11.13-15.48.16:809][169]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2024.11.13-15.48.16:811][169]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2024.11.13-15.48.16:811][169]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2024.11.13-15.48.16:811][169]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2024.11.13-15.48.16:811][169]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2024.11.13-15.48.16:811][169]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2024.11.13-15.48.16:811][169]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2024.11.13-15.48.16:811][169]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2024.11.13-15.48.16:811][169]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2024.11.13-15.48.16:811][169]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2024.11.13-15.48.16:811][169]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2024.11.13-15.48.16:812][169]LogModuleManager: Shutting down and abandoning module CrossTheRoad (296)
+[2024.11.13-15.48.16:812][169]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2024.11.13-15.48.16:812][169]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2024.11.13-15.48.16:812][169]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2024.11.13-15.48.16:812][169]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2024.11.13-15.48.16:812][169]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2024.11.13-15.48.16:813][169]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2024.11.13-15.48.16:813][169]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2024.11.13-15.48.16:913][169]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2024.11.13-15.48.17:016][169]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2024.11.13-15.48.17:016][169]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2024.11.13-15.48.17:016][169]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2024.11.13-15.48.17:016][169]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2024.11.13-15.48.17:016][169]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2024.11.13-15.48.17:017][169]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.11.13-15.48.17:017][169]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2024.11.13-15.48.17:017][169]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2024.11.13-15.48.17:017][169]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2024.11.13-15.48.17:017][169]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2024.11.13-15.48.17:017][169]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2024.11.13-15.48.17:017][169]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2024.11.13-15.48.17:017][169]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2024.11.13-15.48.17:018][169]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2024.11.13-15.48.17:020][169]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2024.11.13-15.48.17:020][169]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2024.11.13-15.48.17:020][169]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2024.11.13-15.48.17:020][169]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2024.11.13-15.48.17:021][169]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2024.11.13-15.48.17:022][169]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2024.11.13-15.48.17:022][169]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2024.11.13-15.48.17:022][169]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2024.11.13-15.48.17:022][169]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2024.11.13-15.48.17:022][169]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2024.11.13-15.48.17:023][169]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2024.11.13-15.48.17:023][169]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2024.11.13-15.48.17:023][169]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2024.11.13-15.48.17:023][169]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2024.11.13-15.48.17:023][169]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2024.11.13-15.48.17:024][169]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2024.11.13-15.48.17:024][169]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2024.11.13-15.48.17:024][169]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2024.11.13-15.48.17:024][169]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2024.11.13-15.48.17:024][169]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2024.11.13-15.48.17:025][169]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2024.11.13-15.48.17:025][169]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2024.11.13-15.48.17:026][169]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2024.11.13-15.48.17:027][169]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2024.11.13-15.48.17:028][169]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2024.11.13-15.48.17:028][169]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2024.11.13-15.48.17:028][169]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2024.11.13-15.48.17:029][169]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2024.11.13-15.48.17:031][169]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2024.11.13-15.48.17:031][169]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2024.11.13-15.48.17:033][169]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2024.11.13-15.48.17:033][169]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2024.11.13-15.48.17:035][169]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2024.11.13-15.48.17:036][169]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2024.11.13-15.48.17:036][169]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2024.11.13-15.48.17:036][169]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2024.11.13-15.48.17:036][169]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2024.11.13-15.48.17:036][169]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2024.11.13-15.48.17:036][169]LogModuleManager: Shutting down and abandoning module Core (174)
+[2024.11.13-15.48.17:036][169]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2024.11.13-15.48.17:036][169]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2024.11.13-15.48.17:036][169]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2024.11.13-15.48.17:036][169]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2024.11.13-15.48.17:036][169]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2024.11.13-15.48.17:037][169]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2024.11.13-15.48.17:037][169]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2024.11.13-15.48.17:038][169]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2024.11.13-15.48.17:038][169]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2024.11.13-15.48.17:120][169]LogDerivedDataCache: Shutdown
+[2024.11.13-15.48.17:121][169]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2024.11.13-15.48.17:121][169]LogXGEController: Cleaning working directory: C:/Users/pietd/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.11.13-15.48.17:121][169]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2024.11.13-15.48.17:122][169]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2024.11.13-15.48.17:122][169]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2024.11.13-15.48.17:123][169]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2024.11.13-15.48.17:123][169]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2024.11.13-15.48.17:123][169]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2024.11.13-15.48.17:124][169]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2024.11.13-15.48.17:124][169]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2024.11.13-15.48.17:124][169]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2024.11.13-15.48.17:124][169]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2024.11.13-15.48.17:125][169]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2024.11.13-15.48.17:125][169]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2024.11.13-15.48.17:125][169]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2024.11.13-15.48.17:125][169]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2024.11.13-15.48.17:125][169]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2024.11.13-15.48.17:125][169]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2024.11.13-15.48.17:125][169]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2024.11.13-15.48.17:129][169]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2024.11.13-15.48.17:129][169]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2024.11.13-15.48.17:129][169]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2024.11.13-15.48.17:129][169]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2024.11.13-15.48.17:129][169]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2024.11.13-15.48.17:133][169]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2024.11.13-15.48.17:133][169]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2024.11.13-15.48.17:135][169]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2024.11.13-15.48.17:135][169]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2024.11.13-15.48.17:145][169]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2024.11.13-15.48.17:145][169]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2024.11.13-15.48.17:145][169]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2024.11.13-15.48.17:145][169]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2024.11.13-15.48.17:145][169]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2024.11.13-15.48.17:145][169]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2024.11.13-15.48.17:145][169]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2024.11.13-15.48.17:145][169]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2024.11.13-15.48.17:145][169]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2024.11.13-15.48.17:145][169]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2024.11.13-15.48.17:145][169]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2024.11.13-15.48.17:146][169]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2024.11.13-15.48.17:146][169]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2024.11.13-15.48.17:146][169]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2024.11.13-15.48.17:146][169]LogHMD: Freeing OpenVRDLLHandle.
+[2024.11.13-15.48.17:146][169]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2024.11.13-15.48.17:147][169]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2024.11.13-15.48.17:147][169]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2024.11.13-15.48.17:147][169]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2024.11.13-15.48.17:147][169]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2024.11.13-15.48.17:150][169]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2024.11.13-15.48.17:151][169]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2024.11.13-15.48.17:179][169]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2024.11.13-15.48.17:180][169]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2024.11.13-15.48.17:180][169]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF7C85921-44AE-B7BA-2CF2-F6974C97D000%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=6f5b881f45331d87816daf924afe002e%7C5dec2224ee8245e38e0caff7c4780252%7Cd3e8f649-9722-4c6d-b0f1-6f0a0081c516&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2024.11.13-15.48.17:212][169]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2024.11.13-15.48.17:214][169]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2024.11.13-15.48.17:217][169]LogModuleManager: Shutting down and abandoning module Media (45)
+[2024.11.13-15.48.17:224][169]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2024.11.13-15.48.17:225][169]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2024.11.13-15.48.17:225][169]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2024.11.13-15.48.17:226][169]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2024.11.13-15.48.17:226][169]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2024.11.13-15.48.17:227][169]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.11.13-15.48.17:227][169]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2024.11.13-15.48.17:227][169]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2024.11.13-15.48.17:227][169]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2024.11.13-15.48.17:229][169]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2024.11.13-15.48.17:229][169]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2024.11.13-15.48.17:229][169]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2024.11.13-15.48.17:229][169]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2024.11.13-15.48.17:229][169]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2024.11.13-15.48.17:229][169]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2024.11.13-15.48.17:229][169]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2024.11.13-15.48.17:230][169]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2024.11.13-15.48.17:230][169]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2024.11.13-15.48.17:230][169]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2024.11.13-15.48.17:230][169]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2024.11.13-15.48.17:231][169]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2024.11.13-15.48.17:269][169]LogExit: Exiting.
+[2024.11.13-15.48.17:282][169]Log file closed, 11/13/24 16:48:17

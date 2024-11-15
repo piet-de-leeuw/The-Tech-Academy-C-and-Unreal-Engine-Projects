@@ -1,0 +1,1293 @@
+﻿Log file open, 11/14/24 16:11:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CrossTheRoad
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.952614
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i9-12900H, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.11.14-15.11.46:497][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.11.14-15.11.46:497][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.11.14-15.11.46:497][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.14-15.11.46:497][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.14-15.11.46:498][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.11.14-15.11.46:498][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.14-15.11.46:498][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.14-15.11.46:500][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.11.14-15.11.46:500][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.11.14-15.11.46:501][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.11.14-15.11.46:501][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.11.14-15.11.46:501][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.11.14-15.11.46:501][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.11.14-15.11.46:501][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.11.14-15.11.46:501][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.14-15.11.46:501][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.11.14-15.11.46:501][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.11.14-15.11.46:501][  0]LogInit: Selected Device Profile: [Windows]
+[2024.11.14-15.11.46:501][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.11.14-15.11.46:509][  0]LogHAL: Display: Platform has ~ 16 GB [16851132416 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.11.14-15.11.46:509][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2024.11.14-15.11.46:509][  0]LogInit: Going up to parent DeviceProfile []
+[2024.11.14-15.11.46:510][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Scalability.ini]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.11.14-15.11.46:510][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Config/Windows/Engine.ini]
+[2024.11.14-15.11.46:511][  0]LogInit: Computer: DELEEUW
+[2024.11.14-15.11.46:511][  0]LogInit: User: pietd
+[2024.11.14-15.11.46:511][  0]LogInit: CPU Page size=4096, Cores=14
+[2024.11.14-15.11.46:511][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.11.14-15.11.46:511][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2024.11.14-15.11.46:511][  0]LogMemory: Platform Memory Stats for Windows
+[2024.11.14-15.11.46:511][  0]LogMemory: Process Physical Memory: 102.64 MB used, 102.64 MB peak
+[2024.11.14-15.11.46:511][  0]LogMemory: Process Virtual Memory: 91.41 MB used, 91.41 MB peak
+[2024.11.14-15.11.46:511][  0]LogMemory: Physical Memory: 12203.38 MB used,  3867.12 MB free, 16070.49 MB total
+[2024.11.14-15.11.46:511][  0]LogMemory: Virtual Memory: 4704.25 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2024.11.14-15.11.46:566][  0]LogInit: Using OS detected language (nl-NL).
+[2024.11.14-15.11.46:566][  0]LogInit: Using OS detected locale (nl-NL).
+[2024.11.14-15.11.46:567][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2024.11.14-15.11.46:760][  0]LogInit: Setting process to per monitor DPI aware
+[2024.11.14-15.11.46:791][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.11.14-15.11.46:791][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.11.14-15.11.47:038][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.11.14-15.11.47:038][  0]LogD3D11RHI: D3D11 adapters:
+[2024.11.14-15.11.47:157][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 4060 Laptop GPU' (Feature Level 11_0)
+[2024.11.14-15.11.47:157][  0]LogD3D11RHI:       7971/0/8035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2024.11.14-15.11.47:181][  0]LogD3D11RHI:    1. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2024.11.14-15.11.47:181][  0]LogD3D11RHI:       128/0/8035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2024.11.14-15.11.47:184][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.11.14-15.11.47:184][  0]LogD3D11RHI:       0/0/8035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.11.14-15.11.47:184][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.11.14-15.11.47:192][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.11.14-15.11.47:192][  0]LogD3D11RHI:     GPU DeviceId: 0x28a0 (for the marketing name, search the web for "GPU Device Id")
+[2024.11.14-15.11.47:192][  0]LogWindows: EnumDisplayDevices:
+[2024.11.14-15.11.47:192][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1)
+[2024.11.14-15.11.47:192][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2024.11.14-15.11.47:193][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2024.11.14-15.11.47:193][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2024.11.14-15.11.47:193][  0]LogWindows:    4. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:1)
+[2024.11.14-15.11.47:193][  0]LogWindows:    5. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:0)
+[2024.11.14-15.11.47:193][  0]LogWindows:    6. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:0)
+[2024.11.14-15.11.47:193][  0]LogWindows:    7. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:0)
+[2024.11.14-15.11.47:193][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2024.11.14-15.11.47:193][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 4060 Laptop GPU
+[2024.11.14-15.11.47:193][  0]LogD3D11RHI:   Driver Version: 527.58 (internal:31.0.15.2758, unified:527.58)
+[2024.11.14-15.11.47:194][  0]LogD3D11RHI:      Driver Date: 12-6-2022
+[2024.11.14-15.11.47:194][  0]LogRHI: Texture pool is 5579 MB (70% of 7971 MB)
+[2024.11.14-15.11.47:238][  0]LogD3D11RHI: Async texture creation enabled
+[2024.11.14-15.11.47:241][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.11.14-15.11.47:241][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.11.14-15.11.47:241][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.11.14-15.11.47:248][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2024.11.14-15.11.47:503][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2024.11.14-15.11.47:515][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2024.11.14-15.11.47:527][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2024.11.14-15.11.47:539][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2024.11.14-15.11.47:551][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2024.11.14-15.11.47:563][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2024.11.14-15.11.47:575][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2024.11.14-15.11.47:587][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2024.11.14-15.11.47:593][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2024.11.14-15.11.47:659][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2024.11.14-15.11.47:659][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2024.11.14-15.11.47:659][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2024.11.14-15.11.47:659][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2024.11.14-15.11.47:659][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2024.11.14-15.11.47:659][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2024.11.14-15.11.47:659][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2024.11.14-15.11.47:659][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2024.11.14-15.11.47:659][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2024.11.14-15.11.47:659][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2024.11.14-15.11.47:659][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2024.11.14-15.11.47:659][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2024.11.14-15.11.47:659][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2024.11.14-15.11.47:659][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2024.11.14-15.11.47:659][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2024.11.14-15.11.47:659][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2024.11.14-15.11.47:659][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2024.11.14-15.11.47:659][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2024.11.14-15.11.47:662][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2024.11.14-15.11.47:713][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2024.11.14-15.11.47:713][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2024.11.14-15.11.47:735][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2024.11.14-15.11.47:735][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2024.11.14-15.11.47:747][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2024.11.14-15.11.47:758][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2024.11.14-15.11.47:768][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2024.11.14-15.11.47:780][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2024.11.14-15.11.47:819][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2024.11.14-15.11.47:819][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2024.11.14-15.11.47:819][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.11.14-15.11.47:829][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.11.14-15.11.47:889][  0]LogShaderCompilers: Guid format shader working directory is -74 characters bigger than the processId version (../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Intermediate/Shaders/WorkingDirectory/21380/).
+[2024.11.14-15.11.47:889][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/pietd/AppData/Local/Temp/UnrealShaderWorkingDir/5AC465EB41E37ABA3DC70892A45C958A/'.
+[2024.11.14-15.11.47:891][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.11.14-15.11.47:891][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.11.14-15.11.47:891][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.11.14-15.11.48:462][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.11.14-15.11.48:520][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/pietd/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.11.14-15.11.48:520][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/pietd/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2024.11.14-15.11.48:520][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.11.14-15.11.48:520][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.11.14-15.11.48:520][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.11.14-15.11.48:520][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.11.14-15.11.48:532][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.11.14-15.11.48:532][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.11.14-15.11.48:532][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.11.14-15.11.48:544][  0]LogDerivedDataCache: Using Local data cache path C:/Users/pietd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.11.14-15.11.48:544][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.11.14-15.11.48:544][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.11.14-15.11.48:562][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2024.11.14-15.11.48:563][  0]LogSlate: Using FreeType 2.6.0
+[2024.11.14-15.11.48:564][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.11.14-15.11.48:678][  0]LogAssetRegistry: FAssetRegistry took 0.0307 seconds to start up
+[2024.11.14-15.11.48:937][  0]LogInit: Selected Device Profile: [Windows]
+[2024.11.14-15.11.49:053][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.11.14-15.11.49:053][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.11.14-15.11.49:053][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.11.14-15.11.49:053][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.11.14-15.11.49:053][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.11.14-15.11.49:062][  0]LogNetVersion: CrossTheRoad 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3894662119)
+[2024.11.14-15.11.49:384][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.030453 seconds
+[2024.11.14-15.11.49:389][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2024.11.14-15.11.49:389][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2024.11.14-15.11.49:390][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.11.14-15.11.50:552][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.11.14-15.11.50:567][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.11.14-15.11.50:710][  0]SourceControl: Source control is disabled
+[2024.11.14-15.11.50:710][  0]SourceControl: Source control is disabled
+[2024.11.14-15.11.50:712][  0]SourceControl: Source control is disabled
+[2024.11.14-15.11.50:714][  0]SourceControl: Source control is disabled
+[2024.11.14-15.11.50:800][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.11.14-15.11.50:880][  0]LogOcInput: OculusInput pre-init called
+[2024.11.14-15.11.51:471][  0]LogEngine: Initializing Engine...
+[2024.11.14-15.11.51:472][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.11.14-15.11.51:473][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.11.14-15.11.51:627][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.11.14-15.11.51:643][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.11.14-15.11.51:659][  0]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.14-15.11.51:679][  0]LogInit: FAudioDevice initialized.
+[2024.11.14-15.11.51:679][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.11.14-15.11.51:719][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/pietd/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.11.14-15.11.51:720][  0]LogInit: Texture streaming: Enabled
+[2024.11.14-15.11.51:738][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.11.14-15.11.51:760][  0]LogInit: Transaction tracking system initialized
+[2024.11.14-15.11.51:791][  0]BlueprintLog: New page: Editor Load
+[2024.11.14-15.11.51:891][  0]LocalizationService: Localization service is disabled
+[2024.11.14-15.11.52:137][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/' took 0.01s
+[2024.11.14-15.11.52:137][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2024.11.14-15.11.52:137][  0]LogCook: Display: Mobile HDR setting 1
+[2024.11.14-15.11.52:324][  0]SourceControl: Source control is disabled
+[2024.11.14-15.11.52:324][  0]Cmd: MAP LOAD FILE="../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.11.14-15.11.52:325][  0]LightingResults: New page: Lighting Build
+[2024.11.14-15.11.52:327][  0]MapCheck: New page: Map Check
+[2024.11.14-15.11.52:327][  0]LightingResults: New page: Lighting Build
+[2024.11.14-15.11.52:366][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.11.14-15.11.52:457][  0]LogAIModule: Creating AISystem for world Main
+[2024.11.14-15.11.52:463][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.14-15.11.52:502][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.11.14-15.11.52:503][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.14-15.11.52:503][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,19ms to complete.
+[2024.11.14-15.11.52:503][  0]LogFileHelpers: Loading map 'Main' took 0.179
+[2024.11.14-15.11.52:622][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.14-15.11.52:627][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.14-15.11.52:633][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.14-15.11.52:640][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.14-15.11.52:646][  0]LogCollectionManager: Loaded 0 collections in 0.001591 seconds
+[2024.11.14-15.11.52:663][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Collections/' took 0.01s
+[2024.11.14-15.11.52:663][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Developers/pietd/Collections/' took 0.00s
+[2024.11.14-15.11.52:663][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Collections/' took 0.00s
+[2024.11.14-15.11.52:663][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2024.11.14-15.11.52:674][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2736 classes and 661 folders.
+[2024.11.14-15.11.52:683][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2024.11.14-15.11.52:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:687][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:689][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:690][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:692][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:693][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:694][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:695][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:697][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:699][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:700][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:701][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:704][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:705][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:706][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:708][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:709][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:710][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:711][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:712][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:713][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:715][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:717][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.11.14-15.11.52:770][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2024.11.14-15.11.52:777][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2024.11.14-15.11.53:494][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.11.14-15.11.53:514][  0]LogSlate: Took 0.000549 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.11.14-15.11.53:517][  0]LogSlate: Took 0.000845 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.11.14-15.11.53:522][  0]LogSlate: Took 0.000865 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.11.14-15.11.53:590][  0]LogRenderer: Reallocating scene render targets to support 832x428 Format 10 NumSamples 1 (Frame:1).
+[2024.11.14-15.11.53:829][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2024.11.14-15.11.53:830][  0]LogLoad: (Engine Initialization) Total time: 10.13 seconds
+[2024.11.14-15.11.53:830][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.11.14-15.11.53:880][  0]LogAssetRegistry: Asset discovery search completed in 5.2229 seconds
+[2024.11.14-15.11.53:881][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2024.11.14-15.11.53:882][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2024.11.14-15.11.53:883][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.11.14-15.11.53:898][  0]LogSlate: Took 0.000787 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.14-15.11.54:858][ 58]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.14-15.18.29:801][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.14-15.18.29:895][558]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2024.11.14-15.18.30:099][558]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2024.11.14-15.18.30:699][558]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Boundary.BP_Boundary
+[2024.11.14-15.18.30:916][558]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Car.BP_Car
+[2024.11.14-15.18.31:153][558]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_CrossRoadGameMode.BP_CrossRoadGameMode
+[2024.11.14-15.18.32:701][635]LogSlate: Took 0.000828 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.11.14-15.18.32:740][636]LogSlate: Took 0.000852 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.11.14-15.18.37:251][903]LogSlate: Window 'BP_CrossRoadGameMode' being destroyed
+[2024.11.14-15.19.24:533][528]LogHotReload: New module detected: UE4Editor-CrossTheRoad-0004.dll
+[2024.11.14-15.19.25:228][531]LogHotReload: Starting Hot-Reload from IDE
+[2024.11.14-15.19.25:312][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2024.11.14-15.19.25:313][531]LogBlueprintActionDatabase: Requesting refresh due to module change: CrossTheRoad (unloaded)
+[2024.11.14-15.19.25:320][531]LogClass: Could not find existing class CrossRoadGameMode in package /Script/CrossTheRoad for HotReload, assuming new class
+[2024.11.14-15.19.25:330][531]LogHotReload: Re-instancing CrossRoadGameMode after hot-reload.
+[2024.11.14-15.19.25:553][531]LogBlueprintActionDatabase: Requesting refresh due to module change: CrossTheRoad (loaded)
+[2024.11.14-15.19.25:554][531]LogContentBrowser: Native class hierarchy updated for 'CrossTheRoad' in 0.0007 seconds. Added 4 classes and 2 folders.
+[2024.11.14-15.19.25:559][531]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.14-15.19.25:840][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.11.14-15.19.25:841][531]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.14-15.19.25:854][531]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2737 classes and 663 folders.
+[2024.11.14-15.19.25:857][531]Display: HotReload took  0.6s.
+[2024.11.14-15.21.36:344][195]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2024.11.14-15.21.36:348][195]Candidate modules for hot reload:
+[2024.11.14-15.21.36:348][195]  CrossTheRoad
+[2024.11.14-15.21.36:348][195]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CrossTheRoad,3121 Win64 Development -TargetType=Editor -Project="C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject" "C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject"  -IgnoreJunk]
+[2024.11.14-15.21.36:352][195]Warning: Starting HotReload took  0.0s.
+[2024.11.14-15.21.44:107][661]CompilerResultsLog: New page: Compilation - 14 nov. 2024 17:21:44
+[2024.11.14-15.21.44:107][661]CompilerResultsLog: Parsing headers for CrossTheRoadEditor
+[2024.11.14-15.21.44:107][661]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\CrossTheRoad.uproject" "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\CrossTheRoadEditor\Development\CrossTheRoadEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2024.11.14-15.21.44:107][661]CompilerResultsLog: Reflection code generated for CrossTheRoadEditor in 5,7796115 seconds
+[2024.11.14-15.21.44:107][661]CompilerResultsLog: Using Visual Studio 2019 14.40.33807 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2024.11.14-15.21.44:107][661]CompilerResultsLog: Building 3 actions with 20 processes...
+[2024.11.14-15.21.44:107][661]CompilerResultsLog:   [1/3] UE4Editor-CrossTheRoad-3121.lib
+[2024.11.14-15.21.44:107][661]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-3121.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-3121.exp
+[2024.11.14-15.21.44:107][661]CompilerResultsLog:   [2/3] UE4Editor-CrossTheRoad-3121.dll
+[2024.11.14-15.21.44:107][661]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-3121.suppressed.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-3121.suppressed.exp
+[2024.11.14-15.21.44:107][661]CompilerResultsLog:   [3/3] CrossTheRoadEditor.target
+[2024.11.14-15.21.44:107][661]CompilerResultsLog: Total time in Parallel executor: 0,90 seconds
+[2024.11.14-15.21.44:107][661]CompilerResultsLog: Total execution time: 7,67 seconds
+[2024.11.14-15.21.44:107][661]LogMainFrame: MainFrame: Module compiling took 7.763 seconds
+[2024.11.14-15.21.44:170][661]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2024.11.14-15.21.44:171][661]LogBlueprintActionDatabase: Requesting refresh due to module change: CrossTheRoad (unloaded)
+[2024.11.14-15.21.44:221][661]LogBlueprintActionDatabase: Requesting refresh due to module change: CrossTheRoad (loaded)
+[2024.11.14-15.21.44:221][661]LogContentBrowser: Native class hierarchy updated for 'CrossTheRoad' in 0.0005 seconds. Added 4 classes and 2 folders.
+[2024.11.14-15.21.44:225][661]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.14-15.21.44:315][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.11.14-15.21.44:316][661]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.14-15.21.44:329][661]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2737 classes and 663 folders.
+[2024.11.14-15.21.44:329][661]Display: HotReload took  8.0s.
+[2024.11.14-15.24.38:890][104]BlueprintLog: New page: Compile BP_Player
+[2024.11.14-15.24.39:170][104]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2024.11.14-15.24.39:633][127]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_Player9E0A1DBD4C293DB22E0456BEA7F717CE.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Blueprints/BP_Player.uasset'
+[2024.11.14-15.24.47:809][610]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_CrossRoadGameMode.BP_CrossRoadGameMode
+[2024.11.14-15.25.39:325][655]BlueprintLog: New page: Compile BP_CrossRoadGameMode
+[2024.11.14-15.25.39:562][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2024.11.14-15.27.52:123][360]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2024.11.14-15.27.52:294][360]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Main_Auto14704A8F444C9D4FB7437C8971797D702.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Maps/Main_Auto1.umap'
+[2024.11.14-15.27.52:297][360]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.241
+[2024.11.14-15.27.52:297][360]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.241
+[2024.11.14-15.27.52:300][360]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2024.11.14-15.27.52:300][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2024.11.14-15.27.52:320][360]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_Player_Auto1F8E9CACC45A3C8D98FFB1B9A0125AA04.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Blueprints/BP_Player_Auto1.uasset'
+[2024.11.14-15.27.52:322][360]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_CrossRoadGameMode] ([1] browsable assets)...
+[2024.11.14-15.27.52:322][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_CrossRoadGameMode]
+[2024.11.14-15.27.52:332][360]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_CrossRoadGameMode_Auto1C2656B694DDACCFB13F15CAC7E19BE09.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/BP_CrossRoadGameMode_Auto1.uasset'
+[2024.11.14-15.27.52:333][360]LogFileHelpers: Auto-saving content packages took 0.033
+[2024.11.14-15.30.09:561][837]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Boundary.BP_Boundary
+[2024.11.14-15.31.41:425][327]LogAssetEditorManager: Opening Asset editor for Class /Script/CrossTheRoad.Boundary
+[2024.11.14-15.33.07:864][565]LogHotReload: New module detected: UE4Editor-CrossTheRoad-0006.dll
+[2024.11.14-15.33.08:554][568]LogHotReload: Starting Hot-Reload from IDE
+[2024.11.14-15.33.08:630][568]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2024.11.14-15.33.08:631][568]LogBlueprintActionDatabase: Requesting refresh due to module change: CrossTheRoad (unloaded)
+[2024.11.14-15.33.08:634][568]LogClass: Could not find existing class Boundary in package /Script/CrossTheRoad for HotReload, assuming new class
+[2024.11.14-15.33.08:647][568]LogHotReload: Re-instancing Boundary after hot-reload.
+[2024.11.14-15.33.08:937][568]LogBlueprintActionDatabase: Requesting refresh due to module change: CrossTheRoad (loaded)
+[2024.11.14-15.33.08:938][568]LogContentBrowser: Native class hierarchy updated for 'CrossTheRoad' in 0.0006 seconds. Added 4 classes and 2 folders.
+[2024.11.14-15.33.08:943][568]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.14-15.33.09:016][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2024.11.14-15.33.09:018][568]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.14-15.33.09:034][568]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2737 classes and 663 folders.
+[2024.11.14-15.33.09:036][568]Display: HotReload took  0.5s.
+[2024.11.14-15.34.04:473][347]Candidate modules for hot reload:
+[2024.11.14-15.34.04:473][347]  CrossTheRoad
+[2024.11.14-15.34.04:473][347]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CrossTheRoad,5580 Win64 Development -TargetType=Editor -Project="C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject" "C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject"  -IgnoreJunk]
+[2024.11.14-15.34.04:478][347]Warning: Starting HotReload took  0.1s.
+[2024.11.14-15.34.12:925][855]CompilerResultsLog: New page: Compilation - 14 nov. 2024 17:34:12
+[2024.11.14-15.34.12:925][855]CompilerResultsLog: Creating makefile for CrossTheRoadEditor (ini files are newer than makefile)
+[2024.11.14-15.34.12:925][855]CompilerResultsLog: Parsing headers for CrossTheRoadEditor
+[2024.11.14-15.34.12:925][855]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\CrossTheRoad.uproject" "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\CrossTheRoadEditor\Development\CrossTheRoadEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2024.11.14-15.34.12:925][855]CompilerResultsLog: Reflection code generated for CrossTheRoadEditor in 5,6540988 seconds
+[2024.11.14-15.34.12:925][855]CompilerResultsLog: Using Visual Studio 2019 14.40.33807 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2024.11.14-15.34.12:925][855]CompilerResultsLog: Building 3 actions with 20 processes...
+[2024.11.14-15.34.12:925][855]CompilerResultsLog:   [1/3] UE4Editor-CrossTheRoad-5580.lib
+[2024.11.14-15.34.12:925][855]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-5580.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-5580.exp
+[2024.11.14-15.34.12:925][855]CompilerResultsLog:   [2/3] UE4Editor-CrossTheRoad-5580.dll
+[2024.11.14-15.34.12:925][855]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-5580.suppressed.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-5580.suppressed.exp
+[2024.11.14-15.34.12:925][855]CompilerResultsLog:   [3/3] CrossTheRoadEditor.target
+[2024.11.14-15.34.12:925][855]CompilerResultsLog: Total time in Parallel executor: 0,88 seconds
+[2024.11.14-15.34.12:925][855]CompilerResultsLog: Total execution time: 8,36 seconds
+[2024.11.14-15.34.12:925][855]LogMainFrame: MainFrame: Module compiling took 8.456 seconds
+[2024.11.14-15.34.12:994][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2024.11.14-15.34.12:995][855]LogBlueprintActionDatabase: Requesting refresh due to module change: CrossTheRoad (unloaded)
+[2024.11.14-15.34.13:044][855]LogBlueprintActionDatabase: Requesting refresh due to module change: CrossTheRoad (loaded)
+[2024.11.14-15.34.13:044][855]LogContentBrowser: Native class hierarchy updated for 'CrossTheRoad' in 0.0005 seconds. Added 4 classes and 2 folders.
+[2024.11.14-15.34.13:048][855]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.14-15.34.13:130][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.11.14-15.34.13:131][855]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.14-15.34.13:144][855]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2737 classes and 663 folders.
+[2024.11.14-15.34.13:145][855]Display: HotReload took  8.7s.
+[2024.11.14-15.36.25:630][762]BlueprintLog: New page: Compile BP_Player
+[2024.11.14-15.36.25:635][762]LogBlueprint: Error: [Compiler BP_Player] The type of  Object  is undetermined.  Connect something to  Cast To BP_Boundary  to imply a specific type.
+[2024.11.14-15.36.25:635][762]LogBlueprint: Error: [Compiler BP_Player] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2024.11.14-15.36.25:908][762]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2024.11.14-15.36.25:915][762]LogBlueprint: Warning: [Compiler BP_Player] [1482,22] Compile of BP_Player failed. 2 Fatal Issue(s) 0 Warning(s) [in 285 ms] (/Game/Blueprints/BP_Player.BP_Player)
+[2024.11.14-15.36.26:322][783]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_Player681FABE542CA05954550009D94084C23.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Blueprints/BP_Player.uasset'
+[2024.11.14-15.36.51:351][283]BlueprintLog: New page: Compile BP_Player
+[2024.11.14-15.36.51:579][283]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2024.11.14-15.36.53:134][373]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_Player1A156EED463FDECA3407EBBD25C399D4.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Blueprints/BP_Player.uasset'
+[2024.11.14-15.37.01:552][874]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_PlayerDB9CA9A54517CC2AB2D40EADAD899FC3.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Blueprints/BP_Player.uasset'
+[2024.11.14-15.37.53:873][ 10]LogAssetEditorManager: Opening Asset editor for Class /Script/CrossTheRoad.CrossRoadGameMode
+[2024.11.14-15.38.43:971][581]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2024.11.14-15.38.44:154][581]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Main_Auto240C99D72493BEB2B1AFF2EB7FA338E22.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Maps/Main_Auto2.umap'
+[2024.11.14-15.38.44:158][581]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.252
+[2024.11.14-15.38.44:158][581]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.252
+[2024.11.14-15.41.03:201][365]Candidate modules for hot reload:
+[2024.11.14-15.41.03:201][365]  CrossTheRoad
+[2024.11.14-15.41.03:201][365]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CrossTheRoad,825 Win64 Development -TargetType=Editor -Project="C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject" "C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject"  -IgnoreJunk]
+[2024.11.14-15.41.03:207][365]Warning: Starting HotReload took  0.0s.
+[2024.11.14-15.41.10:755][819]CompilerResultsLog: New page: Compilation - 14 nov. 2024 17:41:10
+[2024.11.14-15.41.10:755][819]CompilerResultsLog: Parsing headers for CrossTheRoadEditor
+[2024.11.14-15.41.10:755][819]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\CrossTheRoad.uproject" "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\CrossTheRoadEditor\Development\CrossTheRoadEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2024.11.14-15.41.10:755][819]CompilerResultsLog: Reflection code generated for CrossTheRoadEditor in 5,5988268 seconds
+[2024.11.14-15.41.10:755][819]CompilerResultsLog: Using Visual Studio 2019 14.40.33807 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2024.11.14-15.41.10:755][819]CompilerResultsLog: Building 3 actions with 20 processes...
+[2024.11.14-15.41.10:755][819]CompilerResultsLog:   [1/3] UE4Editor-CrossTheRoad-0825.lib
+[2024.11.14-15.41.10:755][819]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-0825.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-0825.exp
+[2024.11.14-15.41.10:755][819]CompilerResultsLog:   [2/3] UE4Editor-CrossTheRoad-0825.dll
+[2024.11.14-15.41.10:755][819]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-0825.suppressed.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-0825.suppressed.exp
+[2024.11.14-15.41.10:755][819]CompilerResultsLog:   [3/3] CrossTheRoadEditor.target
+[2024.11.14-15.41.10:755][819]CompilerResultsLog: Total time in Parallel executor: 0,89 seconds
+[2024.11.14-15.41.10:755][819]CompilerResultsLog: Total execution time: 7,47 seconds
+[2024.11.14-15.41.10:755][819]LogMainFrame: MainFrame: Module compiling took 7.558 seconds
+[2024.11.14-15.41.10:811][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2024.11.14-15.41.10:813][819]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.14-15.41.10:826][819]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2737 classes and 663 folders.
+[2024.11.14-15.41.10:826][819]Display: HotReload took  7.6s.
+[2024.11.14-15.42.14:091][644]BlueprintLog: New page: Compile BP_Player
+[2024.11.14-15.42.14:414][644]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2024.11.14-15.42.16:615][774]Candidate modules for hot reload:
+[2024.11.14-15.42.16:615][774]  CrossTheRoad
+[2024.11.14-15.42.16:615][774]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CrossTheRoad,953 Win64 Development -TargetType=Editor -Project="C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject" "C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject"  -IgnoreJunk]
+[2024.11.14-15.42.16:621][774]Warning: Starting HotReload took  0.0s.
+[2024.11.14-15.42.24:233][232]CompilerResultsLog: New page: Compilation - 14 nov. 2024 17:42:24
+[2024.11.14-15.42.24:233][232]CompilerResultsLog: Parsing headers for CrossTheRoadEditor
+[2024.11.14-15.42.24:233][232]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\CrossTheRoad.uproject" "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\CrossTheRoadEditor\Development\CrossTheRoadEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2024.11.14-15.42.24:233][232]CompilerResultsLog: Reflection code generated for CrossTheRoadEditor in 5,6831579 seconds
+[2024.11.14-15.42.24:233][232]CompilerResultsLog: Using Visual Studio 2019 14.40.33807 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2024.11.14-15.42.24:233][232]CompilerResultsLog: Building 3 actions with 20 processes...
+[2024.11.14-15.42.24:233][232]CompilerResultsLog:   [1/3] UE4Editor-CrossTheRoad-0953.lib
+[2024.11.14-15.42.24:233][232]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-0953.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-0953.exp
+[2024.11.14-15.42.24:233][232]CompilerResultsLog:   [2/3] UE4Editor-CrossTheRoad-0953.dll
+[2024.11.14-15.42.24:233][232]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-0953.suppressed.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-0953.suppressed.exp
+[2024.11.14-15.42.24:233][232]CompilerResultsLog:   [3/3] CrossTheRoadEditor.target
+[2024.11.14-15.42.24:233][232]CompilerResultsLog: Total time in Parallel executor: 0,87 seconds
+[2024.11.14-15.42.24:233][232]CompilerResultsLog: Total execution time: 7,54 seconds
+[2024.11.14-15.42.24:233][232]LogMainFrame: MainFrame: Module compiling took 7.623 seconds
+[2024.11.14-15.42.24:304][232]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2024.11.14-15.42.24:305][232]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.14-15.42.24:318][232]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2737 classes and 663 folders.
+[2024.11.14-15.42.24:318][232]Display: HotReload took  7.7s.
+[2024.11.14-15.42.57:307][194]BlueprintLog: New page: Compile BP_CrossRoadGameMode
+[2024.11.14-15.42.57:556][194]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2024.11.14-15.43.01:972][458]BlueprintLog: New page: Compile BP_CrossRoadGameMode
+[2024.11.14-15.43.02:263][458]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2024.11.14-15.43.06:600][718]BlueprintLog: New page: Compile BP_Player
+[2024.11.14-15.43.06:807][718]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2024.11.14-15.43.10:134][916]Candidate modules for hot reload:
+[2024.11.14-15.43.10:134][916]  CrossTheRoad
+[2024.11.14-15.43.10:134][916]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=CrossTheRoad,6930 Win64 Development -TargetType=Editor -Project="C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject" "C:/Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/CrossTheRoad.uproject"  -IgnoreJunk]
+[2024.11.14-15.43.10:139][916]Warning: Starting HotReload took  0.0s.
+[2024.11.14-15.43.17:656][368]CompilerResultsLog: New page: Compilation - 14 nov. 2024 17:43:17
+[2024.11.14-15.43.17:656][368]CompilerResultsLog: Parsing headers for CrossTheRoadEditor
+[2024.11.14-15.43.17:656][368]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\CrossTheRoad.uproject" "C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\CrossTheRoadEditor\Development\CrossTheRoadEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2024.11.14-15.43.17:656][368]CompilerResultsLog: Reflection code generated for CrossTheRoadEditor in 5,6461568 seconds
+[2024.11.14-15.43.17:656][368]CompilerResultsLog: Using Visual Studio 2019 14.40.33807 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2024.11.14-15.43.17:656][368]CompilerResultsLog: Building 3 actions with 20 processes...
+[2024.11.14-15.43.17:656][368]CompilerResultsLog:   [1/3] UE4Editor-CrossTheRoad-6930.lib
+[2024.11.14-15.43.17:656][368]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-6930.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-6930.exp
+[2024.11.14-15.43.17:656][368]CompilerResultsLog:   [2/3] UE4Editor-CrossTheRoad-6930.dll
+[2024.11.14-15.43.17:656][368]CompilerResultsLog:      Creating library C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-6930.suppressed.lib and object C:\Users\pietd\Documents\GitHub\The-Tech-Academy-C-and-Unreal-Engine-Projects\Unreal Engine\CrossTheRoad\Intermediate\Build\Win64\UE4Editor\Development\CrossTheRoad\UE4Editor-CrossTheRoad-6930.suppressed.exp
+[2024.11.14-15.43.17:656][368]CompilerResultsLog:   [3/3] CrossTheRoadEditor.target
+[2024.11.14-15.43.17:656][368]CompilerResultsLog: Total time in Parallel executor: 0,86 seconds
+[2024.11.14-15.43.17:656][368]CompilerResultsLog: Total execution time: 7,43 seconds
+[2024.11.14-15.43.17:656][368]LogMainFrame: MainFrame: Module compiling took 7.525 seconds
+[2024.11.14-15.43.17:713][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2024.11.14-15.43.17:714][368]LogBlueprintActionDatabase: Requesting refresh due to module change: CrossTheRoad (unloaded)
+[2024.11.14-15.43.17:766][368]LogClass: Could not find existing class CrossRoadGameMode in package /Script/CrossTheRoad for HotReload, assuming new class
+[2024.11.14-15.43.17:774][368]LogHotReload: Re-instancing CrossRoadGameMode after hot-reload.
+[2024.11.14-15.43.18:065][368]LogBlueprintActionDatabase: Requesting refresh due to module change: CrossTheRoad (loaded)
+[2024.11.14-15.43.18:066][368]LogContentBrowser: Native class hierarchy updated for 'CrossTheRoad' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2024.11.14-15.43.18:071][368]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.14-15.43.18:155][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2024.11.14-15.43.18:156][368]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.14-15.43.18:170][368]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2737 classes and 663 folders.
+[2024.11.14-15.43.18:170][368]Display: HotReload took  8.1s.
+[2024.11.14-15.46.24:012][522]LogHotReload: New module detected: UE4Editor-CrossTheRoad-0012.dll
+[2024.11.14-15.46.24:699][525]LogHotReload: Starting Hot-Reload from IDE
+[2024.11.14-15.46.24:794][525]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2024.11.14-15.46.24:795][525]LogBlueprintActionDatabase: Requesting refresh due to module change: CrossTheRoad (unloaded)
+[2024.11.14-15.46.24:894][525]LogBlueprintActionDatabase: Requesting refresh due to module change: CrossTheRoad (loaded)
+[2024.11.14-15.46.24:895][525]LogContentBrowser: Native class hierarchy updated for 'CrossTheRoad' in 0.0007 seconds. Added 4 classes and 2 folders.
+[2024.11.14-15.46.24:901][525]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.14-15.46.25:000][525]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2024.11.14-15.46.25:001][525]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2024.11.14-15.46.25:015][525]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 2737 classes and 663 folders.
+[2024.11.14-15.46.25:016][525]Display: HotReload took  0.3s.
+[2024.11.14-15.47.10:608][795]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_PlayerB7E4216948AE81B1C349FC9C8F4BAFB1.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Blueprints/BP_Player.uasset'
+[2024.11.14-15.48.52:185][135]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2024.11.14-15.48.52:390][135]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Main_Auto3D718B57E4EBB713764F3B7A876331F5D.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/Maps/Main_Auto3.umap'
+[2024.11.14-15.48.52:393][135]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.299
+[2024.11.14-15.48.52:393][135]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.299
+[2024.11.14-15.48.52:397][135]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_CrossRoadGameMode] ([1] browsable assets)...
+[2024.11.14-15.48.52:397][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_CrossRoadGameMode]
+[2024.11.14-15.48.52:411][135]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_CrossRoadGameMode_Auto3D5AE187E46941AD8F7028399A876BDBB.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Autosaves/Game/BP_CrossRoadGameMode_Auto3.uasset'
+[2024.11.14-15.48.52:412][135]LogFileHelpers: Auto-saving content packages took 0.016
+[2024.11.14-15.49.28:229][124]LogEditorViewport: Clicking on Actor (LMB): BP_Player_C (BP_Player)
+[2024.11.14-15.49.30:308][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.14-15.53.20:844][ 21]BlueprintLog: New page: Compile BP_CrossRoadGameMode
+[2024.11.14-15.53.21:089][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2024.11.14-15.53.21:866][ 65]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_CrossRoadGameModeB2B6BB7D4121A1262F04BD9D3402BDEA.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/BP_CrossRoadGameMode.uasset'
+[2024.11.14-15.53.27:489][396]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2024.11.14-15.53.27:661][396]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Main36A154A64222E4545C40198712E8B220.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main.umap'
+[2024.11.14-15.53.27:702][396]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Main_BuiltData5BCDD093471E184C5BBDAF89CDB31E59.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main_BuiltData.uasset'
+[2024.11.14-15.53.30:123][540]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.14-15.53.30:151][540]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2024.11.14-15.53.30:152][540]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.11.14-15.53.30:154][540]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2024.11.14-15.53.30:403][540]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2024.11.14-15.53.30:403][540]LogPlayLevel: PlayLevel: Blueprint regeneration took 251 ms (1 blueprints)
+[2024.11.14-15.53.30:403][540]PIE: New page: PIE session: Main (14 nov. 2024 17:53:30)
+[2024.11.14-15.53.30:419][540]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.14-15.53.30:423][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003470s)
+[2024.11.14-15.53.30:424][540]LogAIModule: Creating AISystem for world Main
+[2024.11.14-15.53.30:424][540]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2024.11.14-15.53.30:424][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004767s)
+[2024.11.14-15.53.30:484][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.11.14-15.53.30:496][540]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.14-15.53.30:517][540]LogInit: FAudioDevice initialized.
+[2024.11.14-15.53.30:565][540]LogLoad: Game class is 'BP_CrossRoadGameMode_C'
+[2024.11.14-15.53.30:572][540]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.14-16.53.30
+[2024.11.14-15.53.30:578][540]LogWorld: Bringing up level for play took: 0.007119
+[2024.11.14-15.53.30:639][540]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2024.11.14-15.53.30:646][540]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2024.11.14-15.53.30:648][540]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2024.11.14-15.53.30:650][540]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 1,332
+[2024.11.14-15.53.30:650][540]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2024.11.14-15.54.04:162][537]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2024.11.14-15.54.04:163][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.14-15.54.04:203][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.14-15.54.04:203][537]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2024.11.14-15.54.04:303][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.14-15.54.04:331][537]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2024.11.14-15.54.04:350][538]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.11.14-15.54.08:985][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.14-15.55.17:449][915]BlueprintLog: New page: Compile BP_Player
+[2024.11.14-15.55.17:712][915]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2024.11.14-15.55.18:366][949]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_Player21EC97A348CE5878F053D48091218CC7.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Blueprints/BP_Player.uasset'
+[2024.11.14-15.55.20:978][105]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.14-15.55.21:004][105]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2024.11.14-15.55.21:004][105]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.14-15.55.21:004][105]PIE: New page: PIE session: Main (14 nov. 2024 17:55:21)
+[2024.11.14-15.55.21:004][105]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.14-15.55.21:007][105]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002712s)
+[2024.11.14-15.55.21:007][105]LogAIModule: Creating AISystem for world Main
+[2024.11.14-15.55.21:007][105]LogPlayLevel: PIE: World Init took: (0.000495s)
+[2024.11.14-15.55.21:007][105]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003348s)
+[2024.11.14-15.55.21:064][105]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2024.11.14-15.55.21:074][105]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.14-15.55.21:090][105]LogInit: FAudioDevice initialized.
+[2024.11.14-15.55.21:124][105]LogLoad: Game class is 'BP_CrossRoadGameMode_C'
+[2024.11.14-15.55.21:127][105]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.14-16.55.21
+[2024.11.14-15.55.21:128][105]LogWorld: Bringing up level for play took: 0.002368
+[2024.11.14-15.55.21:142][105]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0,176
+[2024.11.14-15.55.21:142][105]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2024.11.14-15.55.24:509][306]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.11.14-15.55.34:662][915]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.11.14-15.55.38:079][120]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2024.11.14-15.55.38:079][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.14-15.55.38:119][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.14-15.55.38:120][120]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2024.11.14-15.55.38:191][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.14-15.55.38:195][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2024.11.14-15.55.38:212][121]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.11.14-15.55.40:229][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.14-15.55.44:066][472]LogEditorViewport: Clicking on Actor (LMB): BP_Player_C (BP_Player)
+[2024.11.14-15.55.46:191][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.14-15.55.51:826][935]Cmd: EDIT COPY
+[2024.11.14-15.56.07:069][845]LogEditorTransaction: Undo Paste Component(s)
+[2024.11.14-15.56.45:973][170]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/BP_Player125C23DF4D70CC6417FF989A0289092C.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Blueprints/BP_Player.uasset'
+[2024.11.14-15.56.47:110][238]BlueprintLog: New page: Compile BP_Player
+[2024.11.14-15.56.47:393][238]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2024.11.14-15.56.50:546][425]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.14-15.56.50:568][425]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2024.11.14-15.56.50:568][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.14-15.56.50:568][425]PIE: New page: PIE session: Main (14 nov. 2024 17:56:50)
+[2024.11.14-15.56.50:568][425]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.14-15.56.50:571][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002749s)
+[2024.11.14-15.56.50:571][425]LogAIModule: Creating AISystem for world Main
+[2024.11.14-15.56.50:571][425]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2024.11.14-15.56.50:571][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003482s)
+[2024.11.14-15.56.50:629][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2024.11.14-15.56.50:639][425]LogInit: XAudio2 using 'Hoofdtelefoon (IBH 3001-1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.11.14-15.56.50:654][425]LogInit: FAudioDevice initialized.
+[2024.11.14-15.56.50:688][425]LogLoad: Game class is 'BP_CrossRoadGameMode_C'
+[2024.11.14-15.56.50:693][425]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.11.14-16.56.50
+[2024.11.14-15.56.50:694][425]LogWorld: Bringing up level for play took: 0.002656
+[2024.11.14-15.56.50:708][425]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0,609
+[2024.11.14-15.56.50:708][425]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2024.11.14-15.56.54:344][642]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.11.14-15.57.05:850][329]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.11.14-15.57.06:567][372]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.11.14-15.57.17:437][ 24]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.11.14-15.57.25:936][534]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.11.14-15.57.27:055][601]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.11.14-15.57.43:960][615]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.11.14-15.57.49:111][924]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.11.14-15.57.49:896][971]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.11.14-15.57.51:146][ 46]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.11.14-15.57.52:345][118]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.11.14-15.57.54:012][218]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.11.14-15.57.54:962][275]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.11.14-15.58.19:501][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.14-15.58.46:897][384]Cmd: SELECT NONE
+[2024.11.14-15.58.50:729][614]Cmd: SELECT NONE
+[2024.11.14-15.58.52:216][703]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.11.14-15.58.52:373][711]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2024.11.14-15.58.52:374][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.14-15.58.52:417][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.14-15.58.52:417][711]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2024.11.14-15.58.52:504][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.14-15.58.52:509][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2024.11.14-15.58.52:519][712]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.11.14-15.58.54:203][812]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.11.14-15.58.54:273][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.11.14-15.58.54:444][812]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/MainA338556D4FE740198596279A71636691.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main.umap'
+[2024.11.14-15.58.54:484][812]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Main_BuiltData6E49119B4C1A934E23915B843BE51648.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main_BuiltData.uasset'
+[2024.11.14-16.09.54:290][903]LogHttp: Warning: 00000263BD7C8F40: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2024.11.14-16.09.54:290][903]LogHttp: Warning: 00000263BD7C8F40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x26303da3f70 [can pipeline])
+[2024.11.14-16.09.54:290][903]LogHttp: Warning: 00000263BD7C8F40: libcurl info message cache 1 (Re-using existing connection! (#26) with host datarouter.ol.epicgames.com)
+[2024.11.14-16.09.54:290][903]LogHttp: Warning: 00000263BD7C8F40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.20.162.116) port 443 (#26))
+[2024.11.14-16.09.54:290][903]LogHttp: Warning: 00000263BD7C8F40: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.11.14-16.09.54:290][903]LogHttp: Warning: 00000263BD7C8F40: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.11.14-16.09.54:290][903]LogHttp: Warning: 00000263BD7C8F40: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.11.14-16.09.54:290][903]LogHttp: Warning: 00000263BD7C8F40: libcurl info message cache 6 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2024.11.14-16.09.54:290][903]LogHttp: Warning: 00000263BD7C8F40: libcurl info message cache 7 (Connection died, retrying a fresh connect)
+[2024.11.14-16.09.54:290][903]LogHttp: Warning: 00000263BD7C8F40: libcurl info message cache 8 (necessary data rewind wasn't possible)
+[2024.11.14-16.09.54:290][903]LogHttp: Warning: 00000263BD7C8F40: libcurl info message cache 9 (Closing connection 26)
+[2024.11.14-16.09.54:290][903]LogHttp: Warning: 00000263BD7C8F40: libcurl info message cache 10 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.11.14-16.09.54:623][904]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA4CCB606-42D6-E09E-99E4-07B0AE16812F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=6f5b881f45331d87816daf924afe002e%7C5dec2224ee8245e38e0caff7c4780252%7Cd3e8f649-9722-4c6d-b0f1-6f0a0081c516&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.11.14-16.22.58:834][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2024.11.14-16.22.59:005][535]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Main4DD0203042AA326BB047DA8A490FBDF6.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main.umap'
+[2024.11.14-16.22.59:041][535]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Main_BuiltDataC56EE1DB4BCF31D7356EA9BC7C8CACF3.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main_BuiltData.uasset'
+[2024.11.14-16.31.43:550][216]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{d3be56e6-cf6b-4a4b-99f0-2dc97a30d083} was removed. Shutting down audio device.
+[2024.11.14-16.31.43:550][216]LogInit: XAudio2 using 'Luidsprekers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.11.14-16.31.43:916][217]BlueprintLog: New page: Compile BP_Car
+[2024.11.14-16.31.44:230][217]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2024.11.14-16.31.48:529][462]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2024.11.14-16.31.48:695][462]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Main47F15BA34A8AA9ADA913CB9592370657.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main.umap'
+[2024.11.14-16.31.48:731][462]LogSavePackage: Moving '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Saved/Main_BuiltDataB3189F8442C6CA9AC824098947900090.tmp' to '../../../../../../Users/pietd/Documents/GitHub/The-Tech-Academy-C-and-Unreal-Engine-Projects/Unreal Engine/CrossTheRoad/Content/Maps/Main_BuiltData.uasset'
+[2024.11.14-16.31.50:240][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.11.14-16.31.50:361][549]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.14-16.31.50:426][549]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.14-16.31.50:507][549]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.14-16.31.50:569][549]LogSlate: Window 'CrossTheRoad - Unreal Editor' being destroyed
+[2024.11.14-16.31.50:856][550]Cmd: QUIT_EDITOR
+[2024.11.14-16.31.51:874][550]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2024.11.14-16.31.51:894][550]LogExit: Preparing to exit.
+[2024.11.14-16.31.52:284][550]LogExit: Editor shut down
+[2024.11.14-16.31.52:285][550]LogExit: Transaction tracking system shut down
+[2024.11.14-16.31.52:622][550]LogExit: Object subsystem successfully closed.
+[2024.11.14-16.31.52:659][550]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.11.14-16.31.52:666][550]LogD3D11RHI: Shutdown
+[2024.11.14-16.31.52:666][550]LogD3D11RHI: CleanupD3DDevice
+[2024.11.14-16.31.52:667][550]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.11.14-16.31.52:667][550]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.11.14-16.31.52:668][550]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.11.14-16.31.52:668][550]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.11.14-16.31.52:668][550]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.11.14-16.31.52:668][550]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.11.14-16.31.52:793][550]LogD3D11RHI: ~FD3D11DynamicRHI
+[2024.11.14-16.31.52:816][550]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (658)
+[2024.11.14-16.31.52:816][550]LogModuleManager: Shutting down and abandoning module Voice (656)
+[2024.11.14-16.31.52:816][550]LogModuleManager: Shutting down and abandoning module CrossTheRoad (654)
+[2024.11.14-16.31.52:816][550]LogModuleManager: Shutting down and abandoning module BlueprintGraph (648)
+[2024.11.14-16.31.52:816][550]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (646)
+[2024.11.14-16.31.52:816][550]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (644)
+[2024.11.14-16.31.52:816][550]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2024.11.14-16.31.52:816][550]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2024.11.14-16.31.52:819][550]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2024.11.14-16.31.52:819][550]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2024.11.14-16.31.52:819][550]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2024.11.14-16.31.52:820][550]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2024.11.14-16.31.52:822][550]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2024.11.14-16.31.52:957][550]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2024.11.14-16.31.52:958][550]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2024.11.14-16.31.52:958][550]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2024.11.14-16.31.52:958][550]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2024.11.14-16.31.52:958][550]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2024.11.14-16.31.52:958][550]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2024.11.14-16.31.52:958][550]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2024.11.14-16.31.52:958][550]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2024.11.14-16.31.52:958][550]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2024.11.14-16.31.52:958][550]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2024.11.14-16.31.52:958][550]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2024.11.14-16.31.52:958][550]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2024.11.14-16.31.52:958][550]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2024.11.14-16.31.52:958][550]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2024.11.14-16.31.52:958][550]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2024.11.14-16.31.52:958][550]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2024.11.14-16.31.52:959][550]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2024.11.14-16.31.52:959][550]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2024.11.14-16.31.52:959][550]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2024.11.14-16.31.52:959][550]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2024.11.14-16.31.52:959][550]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2024.11.14-16.31.52:959][550]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2024.11.14-16.31.52:959][550]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2024.11.14-16.31.53:002][550]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2024.11.14-16.31.53:002][550]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2024.11.14-16.31.53:002][550]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2024.11.14-16.31.53:002][550]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2024.11.14-16.31.53:002][550]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2024.11.14-16.31.53:002][550]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2024.11.14-16.31.53:002][550]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2024.11.14-16.31.53:003][550]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2024.11.14-16.31.53:003][550]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2024.11.14-16.31.53:003][550]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2024.11.14-16.31.53:003][550]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2024.11.14-16.31.53:020][550]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2024.11.14-16.31.53:020][550]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2024.11.14-16.31.53:022][550]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2024.11.14-16.31.53:023][550]LogModuleManager: Shutting down and abandoning module DesktopPlatform (451)
+[2024.11.14-16.31.53:023][550]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2024.11.14-16.31.53:023][550]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2024.11.14-16.31.53:023][550]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2024.11.14-16.31.53:023][550]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2024.11.14-16.31.53:023][550]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2024.11.14-16.31.53:023][550]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2024.11.14-16.31.53:023][550]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2024.11.14-16.31.53:023][550]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2024.11.14-16.31.53:023][550]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2024.11.14-16.31.53:023][550]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2024.11.14-16.31.53:023][550]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2024.11.14-16.31.53:024][550]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2024.11.14-16.31.53:024][550]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2024.11.14-16.31.53:024][550]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2024.11.14-16.31.53:024][550]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2024.11.14-16.31.53:024][550]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2024.11.14-16.31.53:024][550]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2024.11.14-16.31.53:024][550]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2024.11.14-16.31.53:024][550]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2024.11.14-16.31.53:024][550]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2024.11.14-16.31.53:029][550]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2024.11.14-16.31.53:189][550]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2024.11.14-16.31.53:189][550]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2024.11.14-16.31.53:189][550]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2024.11.14-16.31.53:189][550]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2024.11.14-16.31.53:189][550]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2024.11.14-16.31.53:190][550]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2024.11.14-16.31.53:191][550]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2024.11.14-16.31.53:191][550]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2024.11.14-16.31.53:191][550]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2024.11.14-16.31.53:191][550]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2024.11.14-16.31.53:191][550]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2024.11.14-16.31.53:191][550]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2024.11.14-16.31.53:191][550]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2024.11.14-16.31.53:191][550]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2024.11.14-16.31.53:191][550]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2024.11.14-16.31.53:191][550]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2024.11.14-16.31.53:191][550]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2024.11.14-16.31.53:191][550]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2024.11.14-16.31.53:191][550]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2024.11.14-16.31.53:191][550]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2024.11.14-16.31.53:191][550]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2024.11.14-16.31.53:191][550]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2024.11.14-16.31.53:191][550]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2024.11.14-16.31.53:191][550]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2024.11.14-16.31.53:191][550]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2024.11.14-16.31.53:192][550]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2024.11.14-16.31.53:192][550]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2024.11.14-16.31.53:192][550]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2024.11.14-16.31.53:192][550]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2024.11.14-16.31.53:192][550]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2024.11.14-16.31.53:192][550]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2024.11.14-16.31.53:192][550]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2024.11.14-16.31.53:192][550]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2024.11.14-16.31.53:192][550]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2024.11.14-16.31.53:192][550]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2024.11.14-16.31.53:192][550]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2024.11.14-16.31.53:192][550]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2024.11.14-16.31.53:192][550]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2024.11.14-16.31.53:192][550]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2024.11.14-16.31.53:192][550]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2024.11.14-16.31.53:293][550]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2024.11.14-16.31.53:394][550]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2024.11.14-16.31.53:394][550]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2024.11.14-16.31.53:394][550]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2024.11.14-16.31.53:394][550]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2024.11.14-16.31.53:394][550]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2024.11.14-16.31.53:394][550]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.11.14-16.31.53:395][550]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2024.11.14-16.31.53:395][550]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2024.11.14-16.31.53:395][550]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2024.11.14-16.31.53:395][550]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2024.11.14-16.31.53:395][550]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2024.11.14-16.31.53:395][550]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2024.11.14-16.31.53:395][550]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2024.11.14-16.31.53:395][550]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2024.11.14-16.31.53:397][550]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2024.11.14-16.31.53:397][550]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2024.11.14-16.31.53:398][550]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2024.11.14-16.31.53:398][550]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2024.11.14-16.31.53:399][550]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2024.11.14-16.31.53:401][550]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2024.11.14-16.31.53:402][550]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2024.11.14-16.31.53:402][550]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2024.11.14-16.31.53:402][550]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2024.11.14-16.31.53:402][550]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2024.11.14-16.31.53:402][550]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2024.11.14-16.31.53:402][550]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2024.11.14-16.31.53:406][550]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2024.11.14-16.31.53:406][550]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2024.11.14-16.31.53:406][550]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2024.11.14-16.31.53:406][550]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2024.11.14-16.31.53:406][550]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2024.11.14-16.31.53:406][550]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2024.11.14-16.31.53:406][550]LogModuleManager: Shutting down and abandoning module Core (174)
+[2024.11.14-16.31.53:406][550]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2024.11.14-16.31.53:406][550]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2024.11.14-16.31.53:406][550]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2024.11.14-16.31.53:406][550]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2024.11.14-16.31.53:406][550]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2024.11.14-16.31.53:406][550]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2024.11.14-16.31.53:406][550]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2024.11.14-16.31.53:406][550]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2024.11.14-16.31.53:406][550]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2024.11.14-16.31.53:440][550]LogDerivedDataCache: Shutdown
+[2024.11.14-16.31.53:440][550]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2024.11.14-16.31.53:440][550]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2024.11.14-16.31.53:441][550]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2024.11.14-16.31.53:441][550]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2024.11.14-16.31.53:441][550]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2024.11.14-16.31.53:441][550]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2024.11.14-16.31.53:441][550]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2024.11.14-16.31.53:441][550]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2024.11.14-16.31.53:441][550]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2024.11.14-16.31.53:441][550]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2024.11.14-16.31.53:441][550]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2024.11.14-16.31.53:441][550]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2024.11.14-16.31.53:441][550]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2024.11.14-16.31.53:441][550]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2024.11.14-16.31.53:441][550]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2024.11.14-16.31.53:441][550]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2024.11.14-16.31.53:441][550]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2024.11.14-16.31.53:442][550]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2024.11.14-16.31.53:455][550]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2024.11.14-16.31.53:455][550]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2024.11.14-16.31.53:455][550]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2024.11.14-16.31.53:455][550]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2024.11.14-16.31.53:455][550]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2024.11.14-16.31.53:462][550]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2024.11.14-16.31.53:462][550]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2024.11.14-16.31.53:468][550]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2024.11.14-16.31.53:468][550]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2024.11.14-16.31.53:499][550]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2024.11.14-16.31.53:499][550]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2024.11.14-16.31.53:499][550]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2024.11.14-16.31.53:499][550]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2024.11.14-16.31.53:499][550]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2024.11.14-16.31.53:499][550]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2024.11.14-16.31.53:499][550]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2024.11.14-16.31.53:499][550]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2024.11.14-16.31.53:499][550]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2024.11.14-16.31.53:499][550]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2024.11.14-16.31.53:499][550]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2024.11.14-16.31.53:499][550]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2024.11.14-16.31.53:500][550]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2024.11.14-16.31.53:500][550]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2024.11.14-16.31.53:500][550]LogHMD: Freeing OpenVRDLLHandle.
+[2024.11.14-16.31.53:500][550]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2024.11.14-16.31.53:500][550]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2024.11.14-16.31.53:500][550]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2024.11.14-16.31.53:500][550]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2024.11.14-16.31.53:500][550]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2024.11.14-16.31.53:501][550]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2024.11.14-16.31.53:501][550]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2024.11.14-16.31.53:519][550]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2024.11.14-16.31.53:519][550]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2024.11.14-16.31.53:519][550]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA4CCB606-42D6-E09E-99E4-07B0AE16812F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=6f5b881f45331d87816daf924afe002e%7C5dec2224ee8245e38e0caff7c4780252%7Cd3e8f649-9722-4c6d-b0f1-6f0a0081c516&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2024.11.14-16.31.53:554][550]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2024.11.14-16.31.53:557][550]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2024.11.14-16.31.53:558][550]LogModuleManager: Shutting down and abandoning module Media (45)
+[2024.11.14-16.31.53:566][550]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2024.11.14-16.31.53:566][550]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2024.11.14-16.31.53:566][550]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2024.11.14-16.31.53:566][550]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2024.11.14-16.31.53:566][550]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2024.11.14-16.31.53:567][550]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.11.14-16.31.53:567][550]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2024.11.14-16.31.53:567][550]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2024.11.14-16.31.53:567][550]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2024.11.14-16.31.53:569][550]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2024.11.14-16.31.53:569][550]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2024.11.14-16.31.53:569][550]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2024.11.14-16.31.53:569][550]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2024.11.14-16.31.53:569][550]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2024.11.14-16.31.53:569][550]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2024.11.14-16.31.53:569][550]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2024.11.14-16.31.53:569][550]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2024.11.14-16.31.53:569][550]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2024.11.14-16.31.53:569][550]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2024.11.14-16.31.53:569][550]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2024.11.14-16.31.53:569][550]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2024.11.14-16.31.53:608][550]LogExit: Exiting.
+[2024.11.14-16.31.53:620][550]Log file closed, 11/14/24 17:31:53
