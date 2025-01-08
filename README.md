@@ -68,12 +68,12 @@ This is a project where I explored the moste common C++ operators.
 
 ### Cross The Road
 In this challange we had to build a simple quick game using C++ and blueprints. I took my inspiration from cross the road games.
-<br>*[C++ source code](Unreal Engine/CrossTheRoad/Source/CrossTheRoad)*
+<br>*[C++ source code](Unreal-Engine/CrossTheRoad/Source/CrossTheRoad)*
 
 ### Pong:
 In this project I learned how tu use C++ and blueprints together to create a pong game. we used C++ to create base classes and, 
 blueprints that derive from those classes to add functionality. 
-<br>*[C++ source code](Unreal Engine/Pong/Source/Pong)*
+<br>*[C++ source code](Unreal-Engine/Pong/Source/Pong)*
 
 ### Blueprint-Fundamentals:
 In this project I learned how to use blueprints to add functionality to a game. for example to create interactable objects.
