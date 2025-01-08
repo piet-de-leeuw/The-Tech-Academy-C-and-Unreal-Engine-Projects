@@ -1,4 +1,4 @@
-﻿Log file open, 11/07/24 12:16:53
+﻿Log file open, 11/12/24 13:01:00
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,12 +9,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: FundamentalsDemo
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(1132235041) SRandInit(1132235041).
+LogInit: Display: RandInit(1178676303) SRandInit(1178676303).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 44 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.683673
+LogStats: Stats thread started at 1.450874
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -150,19 +150,3 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogInit: Using libcurl 7.47.1
-LogInit:  - built for x86_64-pc-win32
-LogInit:  - supports SSL with OpenSSL/1.0.2g
-LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
-LogInit:  - other features:
-LogInit:      CURL_VERSION_SSL
-LogInit:      CURL_VERSION_LIBZ
-LogInit:      CURL_VERSION_IPV6
-LogInit:      CURL_VERSION_ASYNCHDNS
-LogInit:      CURL_VERSION_LARGEFILE
-LogInit:      CURL_VERSION_IDN
-LogInit:  CurlRequestOptions (configurable via config and command line):
-LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
-LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
-LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
-LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
