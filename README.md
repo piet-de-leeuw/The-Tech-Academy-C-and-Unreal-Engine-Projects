@@ -23,7 +23,7 @@ ___
 ## C++:
 
 ### SQLite-Library for C++:
-This is the result of the pluralsight ["SQLite with Modern C++" course](https://app.pluralsight.com/library/courses/sqlite-modern-cplusplus/table-of-contents) were we build a library for simplefying the use of SQLite with modern C++. 
+This is the result of the pluralsight ["SQLite with Modern C++" course](https://www.pluralsight.com/courses/sqlite-modern-cplusplus?clickid=CjwKCAiAhP67BhAVEiwA2E_9g3n_DqraqNpXooCfxWfkRi9PcJVKNdVcMrzGcLsdE7BjG-WuHRuiIRoCNqUQAvD_BwE&utm_source=google&utm_medium=paid-search&utm_campaign=upskilling-and-reskilling&utm_term=ssi-emea-pmax-brs-test&utm_content=free-trial&gad_source=1&gclid=CjwKCAiAhP67BhAVEiwA2E_9g3n_DqraqNpXooCfxWfkRi9PcJVKNdVcMrzGcLsdE7BjG-WuHRuiIRoCNqUQAvD_BwE) were we build a library for simplefying the use of SQLite with modern C++. 
 It taught me a lot about How templates work and why/when to use them. It also helpt me to get a better understanding of pointers. 
 The actual library is in the SQLite.h file that depends on the Handle.h file. I used the sqlite_1.cpp file to test parts of my code.
 <br>*[source code](C++/SQLite/sqlite_1/sqlite_1)*
